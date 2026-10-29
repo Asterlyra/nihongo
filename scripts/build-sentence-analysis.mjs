@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {createAnalyzer} from './sentence-analysis-core.mjs';
+const read=name=>JSON.parse(fs.readFileSync(`content/${name}.json`,'utf8'));
+const sentences=[...read('sentences.prepared'),...read('word-examples.prepared'),...read('dialogue-sentences.prepared')];
+const analyze=createAnalyzer(read('words'),read('sentence-analysis-lexicon'),read('sentence-analysis-overrides'));
+const result=sentences.map(analyze);
+const unknown=result.flatMap(s=>s.tokens.filter(t=>t.kind==='unknown').map(t=>({id:s.id,text:s.text,span:t.surface})));
+fs.writeFileSync('content/sentence-analysis.prepared.json',JSON.stringify(result,null,2)+'\n');
+fs.writeFileSync('content/sentence-analysis-gaps.json',JSON.stringify(unknown,null,2)+'\n');
+for(const s of result)assert.equal(s.tokens.map(t=>t.surface).join(''),s.text,`analysis token coverage ${s.id}`);
+console.log(JSON.stringify({sentences:result.length,unknownSpans:unknown.length,unknownUnique:[...new Set(unknown.map(t=>t.span))]},null,2));
+if(unknown.length&&!process.argv.includes('--draft'))process.exitCode=1;

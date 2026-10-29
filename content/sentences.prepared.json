@@ -1,0 +1,3738 @@
+[
+  {
+    "id": "s001",
+    "text": "私は学生です。",
+    "reading": "わたしわがくせいです。",
+    "translation": "我是学生。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "学生",
+        "reading": "がくせい",
+        "wordId": "w005"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w005"
+    ]
+  },
+  {
+    "id": "s002",
+    "text": "田中さんは先生です。",
+    "reading": "たなかさんわせんせいです。",
+    "translation": "田中是老师。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "田中",
+        "reading": "たなか"
+      },
+      {
+        "text": "さんは"
+      },
+      {
+        "text": "先生",
+        "reading": "せんせい",
+        "wordId": "w006"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w006"
+    ]
+  },
+  {
+    "id": "s003",
+    "text": "これは新聞ではありません。",
+    "reading": "これわしんぶんでわありません。",
+    "translation": "这不是报纸。",
+    "grammarIds": [
+      "g02"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "新聞",
+        "reading": "しんぶん",
+        "wordId": "w055"
+      },
+      {
+        "text": "ではありません"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w055"
+    ]
+  },
+  {
+    "id": "s004",
+    "text": "私は先生ではありません。",
+    "reading": "わたしわせんせいでわありません。",
+    "translation": "我不是老师。",
+    "grammarIds": [
+      "g02"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "先生",
+        "reading": "せんせい",
+        "wordId": "w006"
+      },
+      {
+        "text": "ではありません"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w006"
+    ]
+  },
+  {
+    "id": "s005",
+    "text": "私は林です。",
+    "reading": "わたしわりんです。",
+    "translation": "我是林。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "林",
+        "reading": "りん"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001"
+    ]
+  },
+  {
+    "id": "s006",
+    "text": "私は中国人です。",
+    "reading": "わたしわちゅうごくじんです。",
+    "translation": "我是中国人。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "中国人",
+        "reading": "ちゅうごくじん",
+        "wordId": "w337"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w337"
+    ]
+  },
+  {
+    "id": "s007",
+    "text": "田中さんは日本人です。",
+    "reading": "たなかさんわにほんじんです。",
+    "translation": "田中是日本人。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "田中",
+        "reading": "たなか"
+      },
+      {
+        "text": "さんは"
+      },
+      {
+        "text": "日本人",
+        "reading": "にほんじん",
+        "wordId": "w336"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w336"
+    ]
+  },
+  {
+    "id": "s008",
+    "text": "田中さんは学生ではありません。",
+    "reading": "たなかさんわがくせいでわありません。",
+    "translation": "田中不是学生。",
+    "grammarIds": [
+      "g02"
+    ],
+    "unit": 1,
+    "segments": [
+      {
+        "text": "田中",
+        "reading": "たなか"
+      },
+      {
+        "text": "さん"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "学生",
+        "reading": "がくせい",
+        "wordId": "w005"
+      },
+      {
+        "text": "ではありません"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w005"
+    ]
+  },
+  {
+    "id": "s009",
+    "text": "田中さんは先生ですか。",
+    "reading": "たなかさんわせんせいですか。",
+    "translation": "田中是老师吗？",
+    "grammarIds": [
+      "g03"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "田中",
+        "reading": "たなか"
+      },
+      {
+        "text": "さんは"
+      },
+      {
+        "text": "先生",
+        "reading": "せんせい",
+        "wordId": "w006"
+      },
+      {
+        "text": "ですか。"
+      }
+    ],
+    "wordIds": [
+      "w006"
+    ]
+  },
+  {
+    "id": "s010",
+    "text": "はい、そうです。",
+    "reading": "はい、そうです。",
+    "translation": "是的。",
+    "grammarIds": [
+      "g03"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "はい",
+        "reading": "はい",
+        "wordId": "w029"
+      },
+      {
+        "text": "、そうです。"
+      }
+    ],
+    "wordIds": [
+      "w029"
+    ]
+  },
+  {
+    "id": "s011",
+    "text": "これは私の本です。",
+    "reading": "これわわたしのほんです。",
+    "translation": "这是我的书。",
+    "grammarIds": [
+      "g04"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w001",
+      "w035"
+    ]
+  },
+  {
+    "id": "s012",
+    "text": "これは日本の新聞です。",
+    "reading": "これわにほんのしんぶんです。",
+    "translation": "这是日本的报纸。",
+    "grammarIds": [
+      "g04"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "日本",
+        "reading": "にほん",
+        "wordId": "w009"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "新聞",
+        "reading": "しんぶん",
+        "wordId": "w055"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w009",
+      "w055"
+    ]
+  },
+  {
+    "id": "s013",
+    "text": "田中さんは日本語の先生です。",
+    "reading": "たなかさんわにほんごのせんせいです。",
+    "translation": "田中是日语老师。",
+    "grammarIds": [
+      "g01",
+      "g04"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "田中",
+        "reading": "たなか"
+      },
+      {
+        "text": "さんは"
+      },
+      {
+        "text": "日本語",
+        "reading": "にほんご",
+        "wordId": "w011"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "先生",
+        "reading": "せんせい",
+        "wordId": "w006"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w011",
+      "w006"
+    ]
+  },
+  {
+    "id": "s014",
+    "text": "「これは田中さんの本ですか。」",
+    "reading": "「これわたなかさんのほんですか。」",
+    "translation": "“这是田中的书吗？”",
+    "grammarIds": [
+      "g03",
+      "g04"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "田中",
+        "reading": "たなか"
+      },
+      {
+        "text": "さんの"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "ですか。」"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w035"
+    ]
+  },
+  {
+    "id": "s015",
+    "text": "「はい、私の本です。」",
+    "reading": "「はい、わたしのほんです。」",
+    "translation": "“是的，是我的书。”",
+    "grammarIds": [
+      "g01",
+      "g04"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "はい",
+        "reading": "はい",
+        "wordId": "w029"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "です。」"
+      }
+    ],
+    "wordIds": [
+      "w029",
+      "w001",
+      "w035"
+    ]
+  },
+  {
+    "id": "s016",
+    "text": "「これは日本語の本です。」",
+    "reading": "「これわにほんごのほんです。」",
+    "translation": "“这是日语书。”",
+    "grammarIds": [
+      "g01",
+      "g04"
+    ],
+    "unit": 2,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "日本語",
+        "reading": "にほんご",
+        "wordId": "w011"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "です。」"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w011",
+      "w035"
+    ]
+  },
+  {
+    "id": "s017",
+    "text": "これは何ですか。",
+    "reading": "これわなんですか。",
+    "translation": "这是什么？",
+    "grammarIds": [
+      "g05",
+      "g03"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "何",
+        "reading": "なん",
+        "wordId": "w028"
+      },
+      {
+        "text": "です"
+      },
+      {
+        "text": "か"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w028"
+    ]
+  },
+  {
+    "id": "s018",
+    "text": "それはペンです。",
+    "reading": "それわぺんです。",
+    "translation": "那是笔。",
+    "grammarIds": [
+      "g05"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "それ",
+        "reading": "それ",
+        "wordId": "w032"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "ペン",
+        "reading": "ぺん",
+        "wordId": "w038"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w032",
+      "w038"
+    ]
+  },
+  {
+    "id": "s019",
+    "text": "駅はどこですか。",
+    "reading": "えきわどこですか。",
+    "translation": "车站在哪里？",
+    "grammarIds": [
+      "g06",
+      "g03"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "駅",
+        "reading": "えき",
+        "wordId": "w069"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "どこ",
+        "reading": "どこ",
+        "wordId": "w064"
+      },
+      {
+        "text": "ですか。"
+      }
+    ],
+    "wordIds": [
+      "w069",
+      "w064"
+    ]
+  },
+  {
+    "id": "s020",
+    "text": "あそこは学校です。",
+    "reading": "あそこわがっこうです。",
+    "translation": "那里是学校。",
+    "grammarIds": [
+      "g06"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "あそこ",
+        "reading": "あそこ",
+        "wordId": "w063"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "学校",
+        "reading": "がっこう",
+        "wordId": "w016"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w063",
+      "w016"
+    ]
+  },
+  {
+    "id": "s021",
+    "text": "ここは図書館です。",
+    "reading": "ここわとしょかんです。",
+    "translation": "这里是图书馆。",
+    "grammarIds": [
+      "g06"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "ここ",
+        "reading": "ここ",
+        "wordId": "w061"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "図書館",
+        "reading": "としょかん",
+        "wordId": "w068"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w061",
+      "w068"
+    ]
+  },
+  {
+    "id": "s022",
+    "text": "これは図書館の本です。",
+    "reading": "これわとしょかんのほんです。",
+    "translation": "这是图书馆的书。",
+    "grammarIds": [
+      "g05",
+      "g04"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "図書館",
+        "reading": "としょかん",
+        "wordId": "w068"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w068",
+      "w035"
+    ]
+  },
+  {
+    "id": "s023",
+    "text": "それは英語の本です。",
+    "reading": "それわえいごのほんです。",
+    "translation": "那是英语书。",
+    "grammarIds": [
+      "g05",
+      "g04"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "それ",
+        "reading": "それ",
+        "wordId": "w032"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "英語",
+        "reading": "えいご",
+        "wordId": "w013"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w032",
+      "w013",
+      "w035"
+    ]
+  },
+  {
+    "id": "s024",
+    "text": "あれは新聞です。",
+    "reading": "あれわしんぶんです。",
+    "translation": "远处那个是报纸。",
+    "grammarIds": [
+      "g05"
+    ],
+    "unit": 3,
+    "segments": [
+      {
+        "text": "あれ",
+        "reading": "あれ",
+        "wordId": "w033"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "新聞",
+        "reading": "しんぶん",
+        "wordId": "w055"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w033",
+      "w055"
+    ]
+  },
+  {
+    "id": "s025",
+    "text": "私も学生です。",
+    "reading": "わたしもがくせいです。",
+    "translation": "我也是学生。",
+    "grammarIds": [
+      "g07"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "も"
+      },
+      {
+        "text": "学生",
+        "reading": "がくせい",
+        "wordId": "w005"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w005"
+    ]
+  },
+  {
+    "id": "s026",
+    "text": "この本は高いです。",
+    "reading": "このほんわたかいです。",
+    "translation": "这本书很贵。",
+    "grammarIds": [
+      "g08"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "この",
+        "reading": "この",
+        "wordId": "w060"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "高い",
+        "reading": "たかい",
+        "wordId": "w103"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w060",
+      "w035",
+      "w103"
+    ]
+  },
+  {
+    "id": "s027",
+    "text": "この部屋は広くないです。",
+    "reading": "このへやわひろくないです。",
+    "translation": "这个房间不宽敞。",
+    "grammarIds": [
+      "g08"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "この",
+        "reading": "この",
+        "wordId": "w060"
+      },
+      {
+        "text": "部屋",
+        "reading": "へや",
+        "wordId": "w066"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "広くない",
+        "reading": "ひろくない",
+        "wordId": "w235"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w060",
+      "w066",
+      "w235"
+    ]
+  },
+  {
+    "id": "s028",
+    "text": "これはよくないです。",
+    "reading": "これわよくないです。",
+    "translation": "这不好。",
+    "grammarIds": [
+      "g08"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "よくない",
+        "reading": "よくない",
+        "wordId": "w108"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w108"
+    ]
+  },
+  {
+    "id": "s029",
+    "text": "これはりんごです。",
+    "reading": "これわりんごです。",
+    "translation": "这是苹果。",
+    "grammarIds": [
+      "g05"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "これ",
+        "reading": "これ",
+        "wordId": "w031"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "りんご",
+        "reading": "りんご",
+        "wordId": "w132"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w031",
+      "w132"
+    ]
+  },
+  {
+    "id": "s030",
+    "text": "このりんごは赤いです。",
+    "reading": "このりんごわあかいです。",
+    "translation": "这个苹果是红色的。",
+    "grammarIds": [
+      "g08"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "この",
+        "reading": "この",
+        "wordId": "w060"
+      },
+      {
+        "text": "りんご",
+        "reading": "りんご",
+        "wordId": "w132"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "赤い",
+        "reading": "あかい",
+        "wordId": "w120"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w060",
+      "w132",
+      "w120"
+    ]
+  },
+  {
+    "id": "s031",
+    "text": "このりんごは安いです。",
+    "reading": "このりんごわやすいです。",
+    "translation": "这个苹果很便宜。",
+    "grammarIds": [
+      "g08"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "この",
+        "reading": "この",
+        "wordId": "w060"
+      },
+      {
+        "text": "りんご",
+        "reading": "りんご",
+        "wordId": "w132"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "安い",
+        "reading": "やすい",
+        "wordId": "w104"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w060",
+      "w132",
+      "w104"
+    ]
+  },
+  {
+    "id": "s032",
+    "text": "それも安いです。",
+    "reading": "それもやすいです。",
+    "translation": "那个也很便宜。",
+    "grammarIds": [
+      "g07",
+      "g08"
+    ],
+    "unit": 4,
+    "segments": [
+      {
+        "text": "それ",
+        "reading": "それ",
+        "wordId": "w032"
+      },
+      {
+        "text": "も"
+      },
+      {
+        "text": "安い",
+        "reading": "やすい",
+        "wordId": "w104"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w032",
+      "w104"
+    ]
+  },
+  {
+    "id": "s033",
+    "text": "ここは静かです。",
+    "reading": "ここわしずかです。",
+    "translation": "这里很安静。",
+    "grammarIds": [
+      "g09"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "ここ",
+        "reading": "ここ",
+        "wordId": "w061"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "静か",
+        "reading": "しずか",
+        "wordId": "w112"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w061",
+      "w112"
+    ]
+  },
+  {
+    "id": "s034",
+    "text": "ここは便利ではありません。",
+    "reading": "ここわべんりでわありません。",
+    "translation": "这里不方便。",
+    "grammarIds": [
+      "g09"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "ここ",
+        "reading": "ここ",
+        "wordId": "w061"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "便利",
+        "reading": "べんり",
+        "wordId": "w115"
+      },
+      {
+        "text": "ではありません"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w061",
+      "w115"
+    ]
+  },
+  {
+    "id": "s035",
+    "text": "毎日、勉強します。",
+    "reading": "まいにち、べんきょうします。",
+    "translation": "每天学习。",
+    "grammarIds": [
+      "g10"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "毎日",
+        "reading": "まいにち",
+        "wordId": "w174"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "勉強します",
+        "reading": "べんきょうします",
+        "wordId": "w158"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w174",
+      "w158"
+    ]
+  },
+  {
+    "id": "s036",
+    "text": "明日、休みます。",
+    "reading": "あした、やすみます。",
+    "translation": "明天休息。",
+    "grammarIds": [
+      "g10"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "明日",
+        "reading": "あした",
+        "wordId": "w183"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "休みます",
+        "reading": "やすみます",
+        "wordId": "w161"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w183",
+      "w161"
+    ]
+  },
+  {
+    "id": "s037",
+    "text": "私の名前は林です。",
+    "reading": "わたしのなまえわりんです。",
+    "translation": "我的名字是林。",
+    "grammarIds": [
+      "g01",
+      "g04"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "名前",
+        "reading": "なまえ",
+        "wordId": "w003"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "林",
+        "reading": "りん"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w003"
+    ]
+  },
+  {
+    "id": "s038",
+    "text": "私の部屋は静かです。",
+    "reading": "わたしのへやわしずかです。",
+    "translation": "我的房间很安静。",
+    "grammarIds": [
+      "g04",
+      "g09"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "部屋",
+        "reading": "へや",
+        "wordId": "w066"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "静か",
+        "reading": "しずか",
+        "wordId": "w112"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w066",
+      "w112"
+    ]
+  },
+  {
+    "id": "s039",
+    "text": "毎日、読みます。",
+    "reading": "まいにち、よみます。",
+    "translation": "我每天阅读。",
+    "grammarIds": [
+      "g10"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "毎日",
+        "reading": "まいにち",
+        "wordId": "w174"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "読みます",
+        "reading": "よみます",
+        "wordId": "w155"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w174",
+      "w155"
+    ]
+  },
+  {
+    "id": "s040",
+    "text": "日曜日は休みます。",
+    "reading": "にちようびわやすみます。",
+    "translation": "星期日休息。",
+    "grammarIds": [
+      "g10",
+      "g01"
+    ],
+    "unit": 5,
+    "segments": [
+      {
+        "text": "日曜日",
+        "reading": "にちようび",
+        "wordId": "w205"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "休みます",
+        "reading": "やすみます",
+        "wordId": "w161"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w205",
+      "w161"
+    ]
+  },
+  {
+    "id": "s041",
+    "text": "私は水を飲みます。",
+    "reading": "わたしわみずおのみます。",
+    "translation": "我喝水。",
+    "grammarIds": [
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "水",
+        "reading": "みず",
+        "wordId": "w121"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みます",
+        "reading": "のみます",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w121",
+      "w138"
+    ]
+  },
+  {
+    "id": "s042",
+    "text": "本を読みます。",
+    "reading": "ほんおよみます。",
+    "translation": "读书。",
+    "grammarIds": [
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "読みます",
+        "reading": "よみます",
+        "wordId": "w155"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w035",
+      "w155"
+    ]
+  },
+  {
+    "id": "s043",
+    "text": "コーヒーを飲みません。",
+    "reading": "こーひーおのみません。",
+    "translation": "不喝咖啡。",
+    "grammarIds": [
+      "g11",
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "コーヒー",
+        "reading": "こーひー",
+        "wordId": "w123"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みません",
+        "reading": "のみません",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w123",
+      "w138"
+    ]
+  },
+  {
+    "id": "s044",
+    "text": "魚を食べません。",
+    "reading": "さかなおたべません。",
+    "translation": "不吃鱼。",
+    "grammarIds": [
+      "g11",
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "魚",
+        "reading": "さかな",
+        "wordId": "w129"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "食べません",
+        "reading": "たべません",
+        "wordId": "w137"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w129",
+      "w137"
+    ]
+  },
+  {
+    "id": "s045",
+    "text": "朝、パンを食べます。",
+    "reading": "あさ、ぱんおたべます。",
+    "translation": "早上吃面包。",
+    "grammarIds": [
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "朝",
+        "reading": "あさ",
+        "wordId": "w185"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "パン",
+        "reading": "ぱん",
+        "wordId": "w126"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "食べます",
+        "reading": "たべます",
+        "wordId": "w137"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w185",
+      "w126",
+      "w137"
+    ]
+  },
+  {
+    "id": "s046",
+    "text": "お茶を飲みます。",
+    "reading": "おちゃおのみます。",
+    "translation": "喝茶。",
+    "grammarIds": [
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みます",
+        "reading": "のみます",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w122",
+      "w138"
+    ]
+  },
+  {
+    "id": "s047",
+    "text": "牛乳も飲みます。",
+    "reading": "ぎゅうにゅうものみます。",
+    "translation": "也喝牛奶。",
+    "grammarIds": [
+      "g07",
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "wordId": "w124"
+      },
+      {
+        "text": "も"
+      },
+      {
+        "text": "飲みます",
+        "reading": "のみます",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w124",
+      "w138"
+    ]
+  },
+  {
+    "id": "s048",
+    "text": "新聞を読みます。",
+    "reading": "しんぶんおよみます。",
+    "translation": "读报纸。",
+    "grammarIds": [
+      "g12"
+    ],
+    "unit": 6,
+    "segments": [
+      {
+        "text": "新聞",
+        "reading": "しんぶん",
+        "wordId": "w055"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "読みます",
+        "reading": "よみます",
+        "wordId": "w155"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w055",
+      "w155"
+    ]
+  },
+  {
+    "id": "s049",
+    "text": "図書館で本を読みます。",
+    "reading": "としょかんでほんおよみます。",
+    "translation": "在图书馆读书。",
+    "grammarIds": [
+      "g13",
+      "g12"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "図書館",
+        "reading": "としょかん",
+        "wordId": "w068"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "読みます",
+        "reading": "よみます",
+        "wordId": "w155"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w068",
+      "w035",
+      "w155"
+    ]
+  },
+  {
+    "id": "s050",
+    "text": "七時に起きます。",
+    "reading": "しちじにおきます。",
+    "translation": "七点起床。",
+    "grammarIds": [
+      "g14"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "七時",
+        "reading": "しちじ",
+        "wordId": "w195"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "起きます",
+        "reading": "おきます",
+        "wordId": "w151"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w195",
+      "w151"
+    ]
+  },
+  {
+    "id": "s051",
+    "text": "家でお茶を飲みます。",
+    "reading": "いえでおちゃおのみます。",
+    "translation": "在家喝茶。",
+    "grammarIds": [
+      "g13",
+      "g12"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "家",
+        "reading": "いえ",
+        "wordId": "w065"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みます",
+        "reading": "のみます",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w065",
+      "w122",
+      "w138"
+    ]
+  },
+  {
+    "id": "s052",
+    "text": "毎日、日本語を勉強します。",
+    "reading": "まいにち、にほんごおべんきょうします。",
+    "translation": "每天学日语。",
+    "grammarIds": [
+      "g14",
+      "g12"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "毎日",
+        "reading": "まいにち",
+        "wordId": "w174"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "日本語",
+        "reading": "にほんご",
+        "wordId": "w011"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "勉強します",
+        "reading": "べんきょうします",
+        "wordId": "w158"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w174",
+      "w011",
+      "w158"
+    ]
+  },
+  {
+    "id": "s053",
+    "text": "私は七時に起きます。",
+    "reading": "わたしわしちじにおきます。",
+    "translation": "我七点起床。",
+    "grammarIds": [
+      "g14"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "七時",
+        "reading": "しちじ",
+        "wordId": "w195"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "起きます",
+        "reading": "おきます",
+        "wordId": "w151"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w195",
+      "w151"
+    ]
+  },
+  {
+    "id": "s054",
+    "text": "家でパンを食べます。",
+    "reading": "いえでぱんおたべます。",
+    "translation": "在家吃面包。",
+    "grammarIds": [
+      "g13",
+      "g12"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "家",
+        "reading": "いえ",
+        "wordId": "w065"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "パン",
+        "reading": "ぱん",
+        "wordId": "w126"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "食べます",
+        "reading": "たべます",
+        "wordId": "w137"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w065",
+      "w126",
+      "w137"
+    ]
+  },
+  {
+    "id": "s055",
+    "text": "九時に図書館で勉強します。",
+    "reading": "くじにとしょかんでべんきょうします。",
+    "translation": "九点在图书馆学习。",
+    "grammarIds": [
+      "g13",
+      "g14"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "九時",
+        "reading": "くじ",
+        "wordId": "w196"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "図書館",
+        "reading": "としょかん",
+        "wordId": "w068"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "勉強します",
+        "reading": "べんきょうします",
+        "wordId": "w158"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w196",
+      "w068",
+      "w158"
+    ]
+  },
+  {
+    "id": "s056",
+    "text": "十二時に食堂で昼ご飯を食べます。",
+    "reading": "じゅうにじにしょくどうでひるごはんおたべます。",
+    "translation": "十二点在食堂吃午饭。",
+    "grammarIds": [
+      "g13",
+      "g14",
+      "g12"
+    ],
+    "unit": 7,
+    "segments": [
+      {
+        "text": "十二時",
+        "reading": "じゅうにじ"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "食堂",
+        "reading": "しょくどう",
+        "wordId": "w074"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "昼ご飯",
+        "reading": "ひるごはん",
+        "wordId": "w135"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "食べます",
+        "reading": "たべます",
+        "wordId": "w137"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w074",
+      "w135",
+      "w137"
+    ]
+  },
+  {
+    "id": "s057",
+    "text": "学校へ行きます。",
+    "reading": "がっこうえいきます。",
+    "translation": "去学校。",
+    "grammarIds": [
+      "g15"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "学校",
+        "reading": "がっこう",
+        "wordId": "w016"
+      },
+      {
+        "text": "へ"
+      },
+      {
+        "text": "行きます",
+        "reading": "いきます",
+        "wordId": "w211"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w016",
+      "w211"
+    ]
+  },
+  {
+    "id": "s058",
+    "text": "家に帰ります。",
+    "reading": "いえにかえります。",
+    "translation": "回家。",
+    "grammarIds": [
+      "g15"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "家",
+        "reading": "いえ",
+        "wordId": "w065"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "帰ります",
+        "reading": "かえります",
+        "wordId": "w213"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w065",
+      "w213"
+    ]
+  },
+  {
+    "id": "s059",
+    "text": "本があります。",
+    "reading": "ほんがあります。",
+    "translation": "有书。",
+    "grammarIds": [
+      "g16"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "あります",
+        "reading": "あります",
+        "wordId": "w079"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w035",
+      "w079"
+    ]
+  },
+  {
+    "id": "s060",
+    "text": "猫がいます。",
+    "reading": "ねこがいます。",
+    "translation": "有猫。",
+    "grammarIds": [
+      "g16"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "猫",
+        "reading": "ねこ",
+        "wordId": "w098"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "います",
+        "reading": "います",
+        "wordId": "w080"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w098",
+      "w080"
+    ]
+  },
+  {
+    "id": "s061",
+    "text": "明日、公園へ行きます。",
+    "reading": "あした、こうえんえいきます。",
+    "translation": "明天去公园。",
+    "grammarIds": [
+      "g15"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "明日",
+        "reading": "あした",
+        "wordId": "w183"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "公園",
+        "reading": "こうえん",
+        "wordId": "w077"
+      },
+      {
+        "text": "へ"
+      },
+      {
+        "text": "行きます",
+        "reading": "いきます",
+        "wordId": "w211"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w183",
+      "w077",
+      "w211"
+    ]
+  },
+  {
+    "id": "s062",
+    "text": "大きい木があります。",
+    "reading": "おおきいきがあります。",
+    "translation": "那里有一棵大树。",
+    "grammarIds": [
+      "g16",
+      "g08"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "大きい",
+        "reading": "おおきい",
+        "wordId": "w099"
+      },
+      {
+        "text": "木",
+        "reading": "き",
+        "wordId": "w233"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "あります",
+        "reading": "あります",
+        "wordId": "w079"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w099",
+      "w233",
+      "w079"
+    ]
+  },
+  {
+    "id": "s063",
+    "text": "猫もいます。",
+    "reading": "ねこもいます。",
+    "translation": "也有猫。",
+    "grammarIds": [
+      "g16",
+      "g07"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "猫",
+        "reading": "ねこ",
+        "wordId": "w098"
+      },
+      {
+        "text": "も"
+      },
+      {
+        "text": "います",
+        "reading": "います",
+        "wordId": "w080"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w098",
+      "w080"
+    ]
+  },
+  {
+    "id": "s064",
+    "text": "五時に家へ帰ります。",
+    "reading": "ごじにいええかえります。",
+    "translation": "五点回家。",
+    "grammarIds": [
+      "g15",
+      "g14"
+    ],
+    "unit": 8,
+    "segments": [
+      {
+        "text": "五時",
+        "reading": "ごじ"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "家",
+        "reading": "いえ",
+        "wordId": "w065"
+      },
+      {
+        "text": "へ"
+      },
+      {
+        "text": "帰ります",
+        "reading": "かえります",
+        "wordId": "w213"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w065",
+      "w213"
+    ]
+  },
+  {
+    "id": "s065",
+    "text": "机の上に本があります。",
+    "reading": "つくえのうえにほんがあります。",
+    "translation": "桌上有书。",
+    "grammarIds": [
+      "g17",
+      "g04"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "机",
+        "reading": "つくえ",
+        "wordId": "w041"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "上",
+        "reading": "うえ",
+        "wordId": "w081"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "あります",
+        "reading": "あります",
+        "wordId": "w079"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w041",
+      "w081",
+      "w035",
+      "w079"
+    ]
+  },
+  {
+    "id": "s066",
+    "text": "公園に猫がいます。",
+    "reading": "こうえんにねこがいます。",
+    "translation": "公园里有猫。",
+    "grammarIds": [
+      "g17"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "公園",
+        "reading": "こうえん",
+        "wordId": "w077"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "猫",
+        "reading": "ねこ",
+        "wordId": "w098"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "います",
+        "reading": "います",
+        "wordId": "w080"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w077",
+      "w098",
+      "w080"
+    ]
+  },
+  {
+    "id": "s067",
+    "text": "昨日、本を読みました。",
+    "reading": "きのう、ほんおよみました。",
+    "translation": "昨天读了书。",
+    "grammarIds": [
+      "g18",
+      "g12"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "昨日",
+        "reading": "きのう",
+        "wordId": "w184"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "読みました",
+        "reading": "よみました",
+        "wordId": "w155"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w184",
+      "w035",
+      "w155"
+    ]
+  },
+  {
+    "id": "s068",
+    "text": "昨日、コーヒーを飲みませんでした。",
+    "reading": "きのう、こーひーおのみませんでした。",
+    "translation": "昨天没喝咖啡。",
+    "grammarIds": [
+      "g18",
+      "g12"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "昨日",
+        "reading": "きのう",
+        "wordId": "w184"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "コーヒー",
+        "reading": "こーひー",
+        "wordId": "w123"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みませんでした",
+        "reading": "のみませんでした",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w184",
+      "w123",
+      "w138"
+    ]
+  },
+  {
+    "id": "s069",
+    "text": "昨日、図書館へ行きました。",
+    "reading": "きのう、としょかんえいきました。",
+    "translation": "昨天去了图书馆。",
+    "grammarIds": [
+      "g18",
+      "g15"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "昨日",
+        "reading": "きのう",
+        "wordId": "w184"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "図書館",
+        "reading": "としょかん",
+        "wordId": "w068"
+      },
+      {
+        "text": "へ"
+      },
+      {
+        "text": "行きました",
+        "reading": "いきました",
+        "wordId": "w211"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w184",
+      "w068",
+      "w211"
+    ]
+  },
+  {
+    "id": "s070",
+    "text": "机の上に日本語の本がありました。",
+    "reading": "つくえのうえににほんごのほんがありました。",
+    "translation": "桌上有日语书。",
+    "grammarIds": [
+      "g17",
+      "g18",
+      "g04"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "机",
+        "reading": "つくえ",
+        "wordId": "w041"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "上",
+        "reading": "うえ",
+        "wordId": "w081"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "日本語",
+        "reading": "にほんご",
+        "wordId": "w011"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "ありました",
+        "reading": "ありました",
+        "wordId": "w079"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w041",
+      "w081",
+      "w011",
+      "w035",
+      "w079"
+    ]
+  },
+  {
+    "id": "s071",
+    "text": "図書館で本を読みました。",
+    "reading": "としょかんでほんおよみました。",
+    "translation": "在图书馆读了书。",
+    "grammarIds": [
+      "g18",
+      "g13",
+      "g12"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "図書館",
+        "reading": "としょかん",
+        "wordId": "w068"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "本",
+        "reading": "ほん",
+        "wordId": "w035"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "読みました",
+        "reading": "よみました",
+        "wordId": "w155"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w068",
+      "w035",
+      "w155"
+    ]
+  },
+  {
+    "id": "s072",
+    "text": "お茶は飲みませんでした。",
+    "reading": "おちゃわのみませんでした。",
+    "translation": "茶则没有喝。",
+    "grammarIds": [
+      "g18",
+      "g01"
+    ],
+    "unit": 9,
+    "segments": [
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "飲みませんでした",
+        "reading": "のみませんでした",
+        "wordId": "w138"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w122",
+      "w138"
+    ]
+  },
+  {
+    "id": "s073",
+    "text": "私は音楽が好きです。",
+    "reading": "わたしわおんがくがすきです。",
+    "translation": "我喜欢音乐。",
+    "grammarIds": [
+      "g19"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "音楽",
+        "reading": "おんがく",
+        "wordId": "w171"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "好き",
+        "reading": "すき",
+        "wordId": "w271"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w171",
+      "w271"
+    ]
+  },
+  {
+    "id": "s074",
+    "text": "魚が好きではありません。",
+    "reading": "さかながすきでわありません。",
+    "translation": "不喜欢鱼。",
+    "grammarIds": [
+      "g19"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "魚",
+        "reading": "さかな",
+        "wordId": "w129"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "好き",
+        "reading": "すき",
+        "wordId": "w271"
+      },
+      {
+        "text": "ではありません"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w129",
+      "w271"
+    ]
+  },
+  {
+    "id": "s075",
+    "text": "休みましょう。",
+    "reading": "やすみましょう。",
+    "translation": "一起休息吧。",
+    "grammarIds": [
+      "g20"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "休みましょう",
+        "reading": "やすみましょう",
+        "wordId": "w161"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w161"
+    ]
+  },
+  {
+    "id": "s076",
+    "text": "お茶を飲みませんか。",
+    "reading": "おちゃおのみませんか。",
+    "translation": "一起喝茶好吗？",
+    "grammarIds": [
+      "g20",
+      "g12"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みません",
+        "reading": "のみません",
+        "wordId": "w138"
+      },
+      {
+        "text": "か。"
+      }
+    ],
+    "wordIds": [
+      "w122",
+      "w138"
+    ]
+  },
+  {
+    "id": "s077",
+    "text": "「私はお茶が好きです。」",
+    "reading": "「わたしわおちゃがすきです。」",
+    "translation": "“我喜欢茶。”",
+    "grammarIds": [
+      "g19"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "好き",
+        "reading": "すき",
+        "wordId": "w271"
+      },
+      {
+        "text": "です。」"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w122",
+      "w271"
+    ]
+  },
+  {
+    "id": "s078",
+    "text": "「私もお茶が好きです。」",
+    "reading": "「わたしもおちゃがすきです。」",
+    "translation": "“我也喜欢茶。”",
+    "grammarIds": [
+      "g19",
+      "g07"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "私",
+        "reading": "わたし",
+        "wordId": "w001"
+      },
+      {
+        "text": "も"
+      },
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "好き",
+        "reading": "すき",
+        "wordId": "w271"
+      },
+      {
+        "text": "です。」"
+      }
+    ],
+    "wordIds": [
+      "w001",
+      "w122",
+      "w271"
+    ]
+  },
+  {
+    "id": "s079",
+    "text": "「喫茶店でお茶を飲みませんか。」",
+    "reading": "「きっさてんでおちゃおのみませんか。」",
+    "translation": "“一起在咖啡馆喝茶好吗？”",
+    "grammarIds": [
+      "g20",
+      "g13",
+      "g12"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "喫茶店",
+        "reading": "きっさてん",
+        "wordId": "w075"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "お茶",
+        "reading": "おちゃ",
+        "wordId": "w122"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "飲みません",
+        "reading": "のみません",
+        "wordId": "w138"
+      },
+      {
+        "text": "か。」"
+      }
+    ],
+    "wordIds": [
+      "w075",
+      "w122",
+      "w138"
+    ]
+  },
+  {
+    "id": "s080",
+    "text": "「いいですね。行きましょう。」",
+    "reading": "「いいですね。いきましょう。」",
+    "translation": "“好啊。一起去吧。”",
+    "grammarIds": [
+      "g20"
+    ],
+    "unit": 10,
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "text": "いい",
+        "reading": "いい",
+        "wordId": "w108"
+      },
+      {
+        "text": "ですね。"
+      },
+      {
+        "text": "行きましょう",
+        "reading": "いきましょう",
+        "wordId": "w211"
+      },
+      {
+        "text": "。」"
+      }
+    ],
+    "wordIds": [
+      "w108",
+      "w211"
+    ]
+  },
+  {
+    "id": "s081",
+    "text": "もう一度言ってください。",
+    "reading": "もういちどいってください。",
+    "translation": "请再说一次。",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "もう一度",
+        "reading": "もういちど",
+        "wordId": "w1015"
+      },
+      {
+        "text": "言って",
+        "reading": "いって",
+        "wordId": "w986"
+      },
+      {
+        "text": "ください"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w1015",
+      "w986"
+    ]
+  },
+  {
+    "id": "s082",
+    "text": "もう少しゆっくり話してください。",
+    "reading": "もうすこしゆっくりはなしてください。",
+    "translation": "请再说慢一点。",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "もう",
+        "wordId": "w298"
+      },
+      {
+        "text": "少し",
+        "reading": "すこし",
+        "wordId": "w178"
+      },
+      {
+        "text": "ゆっくり",
+        "wordId": "w849"
+      },
+      {
+        "text": "話して",
+        "reading": "はなして"
+      },
+      {
+        "text": "ください。"
+      }
+    ],
+    "wordIds": [
+      "w298",
+      "w178",
+      "w849"
+    ]
+  },
+  {
+    "id": "s083",
+    "text": "ここで写真を撮ってもいいですか。",
+    "reading": "ここでしゃしんをとってもいいですか。",
+    "translation": "可以在这里拍照吗？",
+    "grammarIds": [
+      "g22"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "ここで"
+      },
+      {
+        "text": "写真",
+        "reading": "しゃしん",
+        "wordId": "w054"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "撮って",
+        "reading": "とって"
+      },
+      {
+        "text": "もいいですか。"
+      }
+    ],
+    "wordIds": [
+      "w054"
+    ]
+  },
+  {
+    "id": "s084",
+    "text": "ここに入ってはいけません。",
+    "reading": "ここにはいってはいけません。",
+    "translation": "不可以进入这里。",
+    "grammarIds": [
+      "g22"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "ここに"
+      },
+      {
+        "text": "入って",
+        "reading": "はいって"
+      },
+      {
+        "text": "はいけません。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "s085",
+    "text": "駅に行きたいです。",
+    "reading": "えきにいきたいです。",
+    "translation": "我想去车站。",
+    "grammarIds": [
+      "g23"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "駅",
+        "reading": "えき",
+        "wordId": "w069"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "行きたい",
+        "reading": "いきたい"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w069"
+    ]
+  },
+  {
+    "id": "s086",
+    "text": "今日は辛い物を食べたくないです。",
+    "reading": "きょうわからいものをたべたくないです。",
+    "translation": "今天我不想吃辣的东西。",
+    "grammarIds": [
+      "g23"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "今日は",
+        "reading": "きょうは"
+      },
+      {
+        "text": "辛い",
+        "reading": "からい",
+        "wordId": "w145"
+      },
+      {
+        "text": "物",
+        "reading": "もの"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "食べたく",
+        "reading": "たべたく"
+      },
+      {
+        "text": "ないです。"
+      }
+    ],
+    "wordIds": [
+      "w145"
+    ]
+  },
+  {
+    "id": "s087",
+    "text": "ここでカードが使えますか。",
+    "reading": "ここでかーどがつかえますか。",
+    "translation": "这里能刷卡吗？",
+    "grammarIds": [
+      "g24"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "ここでカードが"
+      },
+      {
+        "text": "使えます",
+        "reading": "つかえます"
+      },
+      {
+        "text": "か。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "s088",
+    "text": "日本語を少し話すことができます。",
+    "reading": "にほんごをすこしはなすことができます。",
+    "translation": "我能说一点日语。",
+    "grammarIds": [
+      "g24"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "日本語",
+        "reading": "にほんご",
+        "wordId": "w011"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "少し",
+        "reading": "すこし",
+        "wordId": "w178"
+      },
+      {
+        "text": "話す",
+        "reading": "はなす",
+        "wordId": "w157"
+      },
+      {
+        "text": "ことができます。"
+      }
+    ],
+    "wordIds": [
+      "w011",
+      "w178",
+      "w157"
+    ]
+  },
+  {
+    "id": "s089",
+    "text": "今日は行かない。",
+    "reading": "きょうわいかない。",
+    "translation": "今天我不去。（熟人之间）",
+    "grammarIds": [
+      "g25"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "今日は",
+        "reading": "きょうは"
+      },
+      {
+        "text": "行かない",
+        "reading": "いかない"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "s090",
+    "text": "これは高くない。",
+    "reading": "これわたかくない。",
+    "translation": "这个不贵。（熟人之间）",
+    "grammarIds": [
+      "g25"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "これは"
+      },
+      {
+        "text": "高く",
+        "reading": "たかく"
+      },
+      {
+        "text": "ない。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "s091",
+    "text": "昨日は友達に会った。",
+    "reading": "きのうわともだちにあった。",
+    "translation": "昨天见到了朋友。（熟人之间）",
+    "grammarIds": [
+      "g26"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "昨日",
+        "reading": "きのう",
+        "wordId": "w184"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "友達",
+        "reading": "ともだち",
+        "wordId": "w008"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "会った",
+        "reading": "あった"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w184",
+      "w008"
+    ]
+  },
+  {
+    "id": "s092",
+    "text": "映画は面白くなかった。",
+    "reading": "えいがわおもしろくなかった。",
+    "translation": "电影不太有趣。（普通形过去否定）",
+    "grammarIds": [
+      "g26"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "映画",
+        "reading": "えいが",
+        "wordId": "w257"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "面白く",
+        "reading": "おもしろく"
+      },
+      {
+        "text": "なかった。"
+      }
+    ],
+    "wordIds": [
+      "w257"
+    ]
+  },
+  {
+    "id": "s093",
+    "text": "今、駅で待っています。",
+    "reading": "いま、えきでまっています。",
+    "translation": "现在正在车站等候。",
+    "grammarIds": [
+      "g27"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "今",
+        "reading": "いま",
+        "wordId": "w181"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "駅",
+        "reading": "えき",
+        "wordId": "w069"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "待って",
+        "reading": "まって"
+      },
+      {
+        "text": "います。"
+      }
+    ],
+    "wordIds": [
+      "w181",
+      "w069"
+    ]
+  },
+  {
+    "id": "s094",
+    "text": "この店は開いています。",
+    "reading": "このみせわあいています。",
+    "translation": "这家店开着。",
+    "grammarIds": [
+      "g27"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "この",
+        "wordId": "w060"
+      },
+      {
+        "text": "店",
+        "reading": "みせ",
+        "wordId": "w070"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "開いて",
+        "reading": "あいて"
+      },
+      {
+        "text": "います。"
+      }
+    ],
+    "wordIds": [
+      "w060",
+      "w070"
+    ]
+  },
+  {
+    "id": "s095",
+    "text": "卵アレルギーがあるので、卵を入れないでください。",
+    "reading": "たまごあれるぎーがあるので、たまごをいれないでください。",
+    "translation": "我对鸡蛋过敏，请不要放鸡蛋。",
+    "grammarIds": [
+      "g28"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "卵",
+        "reading": "たまご",
+        "wordId": "w127"
+      },
+      {
+        "text": "アレルギー",
+        "reading": "あれるぎー",
+        "wordId": "w385"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "ある",
+        "reading": "ある",
+        "wordId": "w079"
+      },
+      {
+        "text": "ので、"
+      },
+      {
+        "text": "卵",
+        "reading": "たまご",
+        "wordId": "w127"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "入れない",
+        "reading": "いれない",
+        "wordId": "w736"
+      },
+      {
+        "text": "でください。"
+      }
+    ],
+    "wordIds": [
+      "w127",
+      "w385",
+      "w079",
+      "w736"
+    ]
+  },
+  {
+    "id": "s096",
+    "text": "雨が降っているから、ここで待つ。",
+    "reading": "あめがふっているから、ここでまつ。",
+    "translation": "因为正在下雨，我在这里等。（熟人之间）",
+    "grammarIds": [
+      "g28"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "雨",
+        "reading": "あめ",
+        "wordId": "w249"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "降って",
+        "reading": "ふって"
+      },
+      {
+        "text": "いるから、ここで"
+      },
+      {
+        "text": "待つ",
+        "reading": "まつ",
+        "wordId": "w236"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w249",
+      "w236"
+    ]
+  },
+  {
+    "id": "s097",
+    "text": "道に迷ったんです。",
+    "reading": "みちにまよったんです。",
+    "translation": "我迷路了。（说明求助背景）",
+    "grammarIds": [
+      "g29"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "道",
+        "reading": "みち",
+        "wordId": "w226"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "迷った",
+        "reading": "まよった"
+      },
+      {
+        "text": "んです。"
+      }
+    ],
+    "wordIds": [
+      "w226"
+    ]
+  },
+  {
+    "id": "s098",
+    "text": "日本は初めてなんです。",
+    "reading": "にほんわはじめてなんです。",
+    "translation": "我是第一次来日本。（解释背景）",
+    "grammarIds": [
+      "g29"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "日本",
+        "reading": "にほん",
+        "wordId": "w009"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "初めて",
+        "reading": "はじめて",
+        "wordId": "w869"
+      },
+      {
+        "text": "なんです。"
+      }
+    ],
+    "wordIds": [
+      "w009",
+      "w869"
+    ]
+  },
+  {
+    "id": "s099",
+    "text": "明日来るって言ってた。",
+    "reading": "あしたくるっていってた。",
+    "translation": "他说过明天来。",
+    "grammarIds": [
+      "g30"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "明日",
+        "reading": "あした",
+        "wordId": "w183"
+      },
+      {
+        "text": "来る",
+        "reading": "くる",
+        "wordId": "w212"
+      },
+      {
+        "text": "って",
+        "wordId": "w1056"
+      },
+      {
+        "text": "言って",
+        "reading": "いって"
+      },
+      {
+        "text": "た。"
+      }
+    ],
+    "wordIds": [
+      "w183",
+      "w212",
+      "w1056"
+    ]
+  },
+  {
+    "id": "s100",
+    "text": "改札って何ですか。",
+    "reading": "かいさつってなんですか。",
+    "translation": "「改札」是什么意思？",
+    "grammarIds": [
+      "g30"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "改札",
+        "reading": "かいさつ",
+        "wordId": "w642"
+      },
+      {
+        "text": "って",
+        "wordId": "w1056"
+      },
+      {
+        "text": "何",
+        "reading": "なん"
+      },
+      {
+        "text": "ですか。"
+      }
+    ],
+    "wordIds": [
+      "w642",
+      "w1056"
+    ]
+  },
+  {
+    "id": "s101",
+    "text": "もう大丈夫だよ。",
+    "reading": "もうだいじょうぶだよ。",
+    "translation": "已经没事了。（告知、安慰熟人）",
+    "grammarIds": [
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "もう",
+        "wordId": "w298"
+      },
+      {
+        "text": "大丈夫",
+        "reading": "だいじょうぶ",
+        "wordId": "w288"
+      },
+      {
+        "text": "だよ。"
+      }
+    ],
+    "wordIds": [
+      "w298",
+      "w288"
+    ]
+  },
+  {
+    "id": "s102",
+    "text": "ここで待つんだね。",
+    "reading": "ここでまつんだね。",
+    "translation": "也就是说，在这里等对吧。（确认情况）",
+    "grammarIds": [
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "ここで"
+      },
+      {
+        "text": "待つ",
+        "reading": "まつ",
+        "wordId": "w236"
+      },
+      {
+        "text": "んだね。"
+      }
+    ],
+    "wordIds": [
+      "w236"
+    ]
+  },
+  {
+    "id": "s103",
+    "text": "ここで待ってるよ。",
+    "reading": "ここでまってるよ。",
+    "translation": "我在这里等着哦。（待っている的缩约）",
+    "grammarIds": [
+      "g32"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "ここで"
+      },
+      {
+        "text": "待って",
+        "reading": "まって"
+      },
+      {
+        "text": "るよ。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "s104",
+    "text": "切符を忘れちゃった。",
+    "reading": "きっぷをわすれちゃった。",
+    "translation": "我忘记带车票了。（含懊恼的口语）",
+    "grammarIds": [
+      "g32"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "切符",
+        "reading": "きっぷ",
+        "wordId": "w225"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "忘れちゃった",
+        "reading": "わすれちゃった"
+      },
+      {
+        "text": "。"
+      }
+    ],
+    "wordIds": [
+      "w225"
+    ]
+  }
+]

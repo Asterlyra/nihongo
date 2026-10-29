@@ -1,0 +1,723 @@
+{
+  "ws-w149": {
+    "tokens": [
+      {
+        "surface": "料理",
+        "reading": "りょうり",
+        "wordId": "w141",
+        "lemma": "料理",
+        "meaning": "料理；烹饪",
+        "kind": "word"
+      },
+      {
+        "surface": "に",
+        "meaning": "在／到／对",
+        "note": "标记具体时间、存在地点、目的地或对象，按本句搭配理解。",
+        "grammarId": "g14",
+        "kind": "grammar"
+      },
+      {
+        "surface": "塩",
+        "reading": "しお",
+        "wordId": "w149",
+        "lemma": "塩",
+        "meaning": "盐",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "入れます",
+        "reading": "いれます",
+        "wordId": "w736",
+        "lemma": "入れる",
+        "meaning": "放入",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w150": {
+    "tokens": [
+      {
+        "surface": "コーヒー",
+        "reading": "こーひー",
+        "wordId": "w123",
+        "lemma": "コーヒー",
+        "meaning": "咖啡",
+        "kind": "word"
+      },
+      {
+        "surface": "に",
+        "meaning": "在／到／对",
+        "note": "标记具体时间、存在地点、目的地或对象，按本句搭配理解。",
+        "grammarId": "g14",
+        "kind": "grammar"
+      },
+      {
+        "surface": "砂糖",
+        "reading": "さとう",
+        "wordId": "w150",
+        "lemma": "砂糖",
+        "meaning": "糖；砂糖",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "入れます",
+        "reading": "いれます",
+        "wordId": "w736",
+        "lemma": "入れる",
+        "meaning": "放入",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w249": {
+    "tokens": [
+      {
+        "surface": "雨",
+        "reading": "あめ",
+        "wordId": "w249",
+        "lemma": "雨",
+        "meaning": "雨",
+        "kind": "word"
+      },
+      {
+        "surface": "が",
+        "meaning": "主语／对象标记",
+        "note": "标记主语；好き、できる等表达前也可标记对象。",
+        "grammarId": "g16",
+        "kind": "grammar"
+      },
+      {
+        "surface": "降ります",
+        "reading": "ふります",
+        "wordId": "w995",
+        "lemma": "降る",
+        "meaning": "下雨；下雪",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w250": {
+    "tokens": [
+      {
+        "surface": "昨日",
+        "reading": "きのう",
+        "wordId": "w184",
+        "lemma": "昨日",
+        "meaning": "昨天",
+        "kind": "word"
+      },
+      {
+        "surface": "、",
+        "kind": "punctuation",
+        "meaning": ""
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき",
+        "wordId": "w250",
+        "lemma": "雪",
+        "meaning": "雪",
+        "kind": "word"
+      },
+      {
+        "surface": "が",
+        "meaning": "主语／对象标记",
+        "note": "标记主语；好き、できる等表达前也可标记对象。",
+        "grammarId": "g16",
+        "kind": "grammar"
+      },
+      {
+        "surface": "降りました",
+        "reading": "ふりました",
+        "wordId": "w995",
+        "lemma": "降る",
+        "meaning": "下雨；下雪（过去）",
+        "kind": "word",
+        "form": "pastPolite",
+        "grammarId": "g18",
+        "note": "ました：礼貌过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w952": {
+    "tokens": [
+      {
+        "surface": "教科書",
+        "reading": "きょうかしょ",
+        "wordId": "w952",
+        "lemma": "教科書",
+        "meaning": "教科书",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "開いて",
+        "reading": "ひらいて",
+        "lemma": "開く（ひらく）",
+        "meaning": "打开",
+        "kind": "word",
+        "form": "te",
+        "grammarId": "g21",
+        "note": "他动词開く（ひらく）的て形；此处是打开书，与门打开的開く（あく）不同。"
+      },
+      {
+        "surface": "ください",
+        "meaning": "请……",
+        "note": "接て形表示请求；接名词＋を时表示“请给我……”。",
+        "grammarId": "g21",
+        "kind": "grammar"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w1063": {
+    "tokens": [
+      {
+        "surface": "本当に",
+        "reading": "ほんとうに",
+        "wordId": "w1063",
+        "lemma": "本当",
+        "kind": "word",
+        "meaning": "真的",
+        "note": "本当＋に作副词，表示“真的”；这里的に不表示地点或目的地。"
+      },
+      {
+        "surface": "大丈夫",
+        "reading": "だいじょうぶ",
+        "wordId": "w288",
+        "lemma": "大丈夫",
+        "meaning": "没问题的；不要紧的",
+        "kind": "word"
+      },
+      {
+        "surface": "？",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w154": {
+    "tokens": [
+      {
+        "wordId": "w175",
+        "lemma": "よく",
+        "surface": "よく",
+        "reading": "よく",
+        "meaning": "经常",
+        "note": "这里作副词，按搭配表示频率或程度；不一律解释为いい（好）的活用。",
+        "kind": "word"
+      },
+      {
+        "surface": "音楽",
+        "reading": "おんがく",
+        "wordId": "w171",
+        "lemma": "音楽",
+        "meaning": "音乐",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "聞きます",
+        "reading": "ききます",
+        "wordId": "w154",
+        "lemma": "聞く",
+        "meaning": "听；询问",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w702": {
+    "tokens": [
+      {
+        "surface": "この",
+        "reading": "この",
+        "wordId": "w060",
+        "lemma": "この",
+        "meaning": "这个……",
+        "kind": "word"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "wordId": "w035",
+        "lemma": "本",
+        "meaning": "书",
+        "kind": "word"
+      },
+      {
+        "surface": "は",
+        "meaning": "关于……",
+        "note": "读わ，提示话题，也可表示对比；通常不直接译成一个中文词。",
+        "grammarId": "g01",
+        "kind": "grammar"
+      },
+      {
+        "wordId": "w175",
+        "lemma": "よく",
+        "surface": "よく",
+        "reading": "よく",
+        "meaning": "很好（销售情况）",
+        "note": "这里作副词，按搭配表示频率或程度；不一律解释为いい（好）的活用。",
+        "kind": "word"
+      },
+      {
+        "surface": "売れます",
+        "reading": "うれます",
+        "wordId": "w702",
+        "lemma": "売れる",
+        "meaning": "卖出；畅销",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w773": {
+    "tokens": [
+      {
+        "surface": "夜",
+        "reading": "よる",
+        "wordId": "w187",
+        "lemma": "夜",
+        "meaning": "夜晚",
+        "kind": "word"
+      },
+      {
+        "surface": "、",
+        "kind": "punctuation",
+        "meaning": ""
+      },
+      {
+        "wordId": "w175",
+        "lemma": "よく",
+        "surface": "よく",
+        "reading": "よく",
+        "meaning": "好好地／睡得熟",
+        "note": "这里作副词，按搭配表示频率或程度；不一律解释为いい（好）的活用。",
+        "kind": "word"
+      },
+      {
+        "surface": "眠ります",
+        "reading": "ねむります",
+        "wordId": "w773",
+        "lemma": "眠る",
+        "meaning": "睡；入眠",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w1064": {
+    "tokens": [
+      {
+        "surface": "無事",
+        "reading": "ぶじ",
+        "meaning": "平安／没有出事",
+        "kind": "expression"
+      },
+      {
+        "surface": "だ",
+        "meaning": "是／普通形判断",
+        "note": "名词或な形容词的普通形判断。",
+        "grammarId": "g25",
+        "kind": "grammar"
+      },
+      {
+        "surface": "と",
+        "meaning": "如果／一……就",
+        "note": "普通形＋と表示条件或随之发生的结果；此处不是“和”或引用。",
+        "kind": "grammar"
+      },
+      {
+        "surface": "ほっとする",
+        "reading": "ほっとする",
+        "wordId": "w1064",
+        "lemma": "ほっとする",
+        "meaning": "松一口气；放心",
+        "kind": "word"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w1059": {
+    "tokens": [
+      {
+        "surface": "旅行",
+        "reading": "りょこう",
+        "wordId": "w229",
+        "lemma": "旅行",
+        "meaning": "旅行",
+        "kind": "word"
+      },
+      {
+        "surface": "が",
+        "meaning": "主语／对象标记",
+        "note": "标记主语；好き、できる等表达前也可标记对象。",
+        "grammarId": "g16",
+        "kind": "grammar"
+      },
+      {
+        "surface": "楽しみ",
+        "reading": "たのしみ",
+        "meaning": "期待／盼望",
+        "note": "楽しみ表示期待的事情或心情，不是单纯把楽しい拆成副词。",
+        "kind": "expression"
+      },
+      {
+        "surface": "で",
+        "meaning": "连接前后状态",
+        "note": "楽しみだ的连接形式楽しみで，说明期待的心情；这里不是地点或手段助词で。",
+        "kind": "grammar"
+      },
+      {
+        "surface": "ワクワク",
+        "reading": "わくわく",
+        "wordId": "w1059",
+        "lemma": "ワクワク",
+        "meaning": "兴奋期待",
+        "kind": "word"
+      },
+      {
+        "surface": "する",
+        "reading": "する",
+        "wordId": "w159",
+        "lemma": "する",
+        "meaning": "做",
+        "kind": "word"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ds042": {
+    "tokens": [
+      {
+        "surface": "うん",
+        "reading": "うん",
+        "meaning": "嗯／是（随意回答）",
+        "note": "熟人间的肯定应答；礼貌场景一般用はい。",
+        "kind": "expression"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      },
+      {
+        "surface": "隣",
+        "reading": "となり",
+        "wordId": "w086",
+        "lemma": "隣",
+        "meaning": "旁边；相邻处",
+        "kind": "word"
+      },
+      {
+        "surface": "の",
+        "meaning": "的／修饰连接",
+        "note": "连接前后的名词；中文有时不需要译出“的”。",
+        "grammarId": "g04",
+        "kind": "grammar"
+      },
+      {
+        "surface": "部屋",
+        "reading": "へや",
+        "wordId": "w066",
+        "lemma": "部屋",
+        "meaning": "房间",
+        "kind": "word"
+      },
+      {
+        "surface": "から",
+        "meaning": "从",
+        "note": "表示时间、地点或顺序的起点。",
+        "kind": "grammar"
+      },
+      {
+        "surface": "音",
+        "reading": "おと",
+        "meaning": "声音／响声",
+        "kind": "expression"
+      },
+      {
+        "surface": "が",
+        "meaning": "主语／对象标记",
+        "note": "标记主语；好き、できる等表达前也可标记对象。",
+        "grammarId": "g16",
+        "kind": "grammar"
+      },
+      {
+        "surface": "した",
+        "reading": "した",
+        "wordId": "w082",
+        "lemma": "下",
+        "meaning": "发出了（声音）",
+        "kind": "word",
+        "note": "音がする表示发出声音；した是する的过去形，这里不译为“做了”。"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w045": {
+    "tokens": [
+      {
+        "surface": "母",
+        "reading": "はは",
+        "wordId": "w022",
+        "lemma": "母",
+        "meaning": "母亲（说自己的）",
+        "kind": "word"
+      },
+      {
+        "surface": "に",
+        "meaning": "在／到／对",
+        "note": "标记具体时间、存在地点、目的地或对象，按本句搭配理解。",
+        "grammarId": "g14",
+        "kind": "grammar"
+      },
+      {
+        "surface": "電話",
+        "reading": "でんわ",
+        "wordId": "w045",
+        "lemma": "電話",
+        "meaning": "电话",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "かけます",
+        "reading": "かけます",
+        "wordId": "w727",
+        "lemma": "掛ける",
+        "meaning": "拨打（电话）",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w052": {
+    "tokens": [
+      {
+        "surface": "父",
+        "reading": "ちち",
+        "wordId": "w021",
+        "lemma": "父",
+        "meaning": "父亲（说自己的）",
+        "kind": "word"
+      },
+      {
+        "surface": "は",
+        "meaning": "关于……",
+        "note": "读わ，提示话题，也可表示对比；通常不直接译成一个中文词。",
+        "grammarId": "g01",
+        "kind": "grammar"
+      },
+      {
+        "surface": "眼鏡",
+        "reading": "めがね",
+        "wordId": "w052",
+        "lemma": "眼鏡",
+        "meaning": "眼镜",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "かけます",
+        "reading": "かけます",
+        "wordId": "w727",
+        "lemma": "掛ける",
+        "meaning": "戴（眼镜）",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w446": {
+    "tokens": [
+      {
+        "surface": "暖房",
+        "reading": "だんぼう",
+        "wordId": "w446",
+        "lemma": "暖房",
+        "meaning": "暖气设备",
+        "kind": "word"
+      },
+      {
+        "surface": "を",
+        "meaning": "宾语标记",
+        "note": "读お，标记动作对象；经过或离开的场所也可用を。",
+        "grammarId": "g12",
+        "kind": "grammar"
+      },
+      {
+        "surface": "つけます",
+        "reading": "つけます",
+        "wordId": "w742",
+        "lemma": "つける",
+        "meaning": "打开（电器）",
+        "kind": "word",
+        "form": "polite",
+        "grammarId": "g10",
+        "note": "ます形：礼貌非过去"
+      },
+      {
+        "surface": "。",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  },
+  "ws-w1055": {
+    "tokens": [
+      {
+        "surface": "まさか",
+        "reading": "まさか",
+        "wordId": "w1055",
+        "lemma": "まさか",
+        "meaning": "难道；不会吧",
+        "kind": "word"
+      },
+      {
+        "surface": "、",
+        "kind": "punctuation",
+        "meaning": ""
+      },
+      {
+        "surface": "本当",
+        "reading": "ほんとう",
+        "wordId": "w1063",
+        "lemma": "本当",
+        "meaning": "真的",
+        "kind": "word"
+      },
+      {
+        "surface": "なの",
+        "meaning": "是……吗",
+        "kind": "grammar",
+        "note": "名词／な形容词＋なの是说明性问句，不是修饰名词的な。",
+        "grammarId": "g29"
+      },
+      {
+        "surface": "？",
+        "kind": "punctuation",
+        "meaning": ""
+      }
+    ]
+  }
+}

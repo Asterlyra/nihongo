@@ -1,0 +1,1162 @@
+{
+  "ws-w995": [
+    {
+      "text": "雨",
+      "reading": "あめ",
+      "wordId": "w249"
+    },
+    {
+      "text": "が"
+    },
+    {
+      "text": "降ります",
+      "reading": "ふります",
+      "wordId": "w995"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w249": [
+    {
+      "text": "雨",
+      "reading": "あめ",
+      "wordId": "w249"
+    },
+    {
+      "text": "が"
+    },
+    {
+      "text": "降ります",
+      "reading": "ふります",
+      "wordId": "w995"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w250": [
+    {
+      "text": "昨日",
+      "reading": "きのう",
+      "wordId": "w184"
+    },
+    {
+      "text": "、"
+    },
+    {
+      "text": "雪",
+      "reading": "ゆき",
+      "wordId": "w250"
+    },
+    {
+      "text": "が"
+    },
+    {
+      "text": "降りました",
+      "reading": "ふりました",
+      "wordId": "w995"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w952": [
+    {
+      "text": "教科書",
+      "reading": "きょうかしょ",
+      "wordId": "w952"
+    },
+    {
+      "text": "を"
+    },
+    {
+      "text": "開いて",
+      "reading": "ひらいて"
+    },
+    {
+      "text": "ください。"
+    }
+  ],
+  "ws-w930": [
+    {
+      "text": "今日",
+      "reading": "きょう",
+      "wordId": "w182"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "何",
+      "reading": "なん",
+      "wordId": "w028"
+    },
+    {
+      "text": "曜日",
+      "reading": "ようび",
+      "wordId": "w930"
+    },
+    {
+      "text": "ですか。"
+    }
+  ],
+  "s017": [
+    {
+      "text": "これ",
+      "reading": "これ",
+      "wordId": "w031"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "何",
+      "reading": "なん",
+      "wordId": "w028"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w032": [
+    {
+      "text": "それ",
+      "reading": "それ",
+      "wordId": "w032"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "何",
+      "reading": "なん",
+      "wordId": "w028"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w095": [
+    {
+      "text": "お父さん",
+      "reading": "おとうさん",
+      "wordId": "w095"
+    },
+    {
+      "text": "の"
+    },
+    {
+      "text": "お"
+    },
+    {
+      "text": "仕事",
+      "reading": "しごと",
+      "wordId": "w018"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "何",
+      "reading": "なん",
+      "wordId": "w028"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w210": [
+    {
+      "text": "明日",
+      "reading": "あした",
+      "wordId": "w183"
+    },
+    {
+      "text": "の"
+    },
+    {
+      "text": "予定",
+      "reading": "よてい",
+      "wordId": "w210"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "何",
+      "reading": "なん",
+      "wordId": "w028"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "s003": [
+    {
+      "text": "これ",
+      "reading": "これ",
+      "wordId": "w031"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "新聞",
+      "reading": "しんぶん",
+      "wordId": "w055"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "s004": [
+    {
+      "text": "私",
+      "reading": "わたし",
+      "wordId": "w001"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "先生",
+      "reading": "せんせい",
+      "wordId": "w006"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "s008": [
+    {
+      "text": "田中",
+      "reading": "たなか"
+    },
+    {
+      "text": "さん"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "学生",
+      "reading": "がくせい",
+      "wordId": "w005"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "s034": [
+    {
+      "text": "ここ",
+      "reading": "ここ",
+      "wordId": "w061"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "便利",
+      "reading": "べんり",
+      "wordId": "w115"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "s074": [
+    {
+      "text": "魚",
+      "reading": "さかな",
+      "wordId": "w129"
+    },
+    {
+      "text": "が"
+    },
+    {
+      "text": "好き",
+      "reading": "すき",
+      "wordId": "w271"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "s081": [
+    {
+      "text": "もう一度",
+      "reading": "もういちど",
+      "wordId": "w1015"
+    },
+    {
+      "text": "言って",
+      "reading": "いって",
+      "wordId": "w986"
+    },
+    {
+      "text": "ください"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w019": [
+    {
+      "text": "私",
+      "reading": "わたし",
+      "wordId": "w001"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "留学生",
+      "reading": "りゅうがくせい",
+      "wordId": "w019"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w030": [
+    {
+      "text": "いいえ",
+      "reading": "いいえ",
+      "wordId": "w030"
+    },
+    {
+      "text": "、"
+    },
+    {
+      "text": "私",
+      "reading": "わたし",
+      "wordId": "w001"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "先生",
+      "reading": "せんせい",
+      "wordId": "w006"
+    },
+    {
+      "text": "ではありません"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w181": [
+    {
+      "text": "今",
+      "reading": "いま",
+      "wordId": "w181"
+    },
+    {
+      "text": "、"
+    },
+    {
+      "text": "何時",
+      "reading": "なんじ"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w341": [
+    {
+      "text": "結婚",
+      "reading": "けっこん",
+      "wordId": "w341"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w342": [
+    {
+      "text": "誕生日",
+      "reading": "たんじょうび",
+      "wordId": "w342"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w343": [
+    {
+      "text": "年齢",
+      "reading": "ねんれい",
+      "wordId": "w343"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w344": [
+    {
+      "text": "生活",
+      "reading": "せいかつ",
+      "wordId": "w344"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w345": [
+    {
+      "text": "約束",
+      "reading": "やくそく",
+      "wordId": "w345"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w346": [
+    {
+      "text": "連絡",
+      "reading": "れんらく",
+      "wordId": "w346"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w348": [
+    {
+      "text": "自己紹介",
+      "reading": "じこしょうかい",
+      "wordId": "w348"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w349": [
+    {
+      "text": "挨拶",
+      "reading": "あいさつ",
+      "wordId": "w349"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w350": [
+    {
+      "text": "住所",
+      "reading": "じゅうしょ",
+      "wordId": "w350"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w351": [
+    {
+      "text": "故郷",
+      "reading": "ふるさと",
+      "wordId": "w351"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w352": [
+    {
+      "text": "経験",
+      "reading": "けいけん",
+      "wordId": "w352"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w363": [
+    {
+      "text": "腕",
+      "reading": "うで",
+      "wordId": "w363"
+    },
+    {
+      "text": "を"
+    },
+    {
+      "text": "上げて",
+      "reading": "あげて"
+    },
+    {
+      "text": "ください"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w378": [
+    {
+      "text": "この",
+      "reading": "この",
+      "wordId": "w060"
+    },
+    {
+      "text": "薬",
+      "reading": "くすり",
+      "wordId": "w378"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "いつ",
+      "reading": "いつ",
+      "wordId": "w209"
+    },
+    {
+      "text": "飲みます",
+      "reading": "のみます",
+      "wordId": "w138"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w387": [
+    {
+      "text": "歯医者",
+      "reading": "はいしゃ",
+      "wordId": "w387"
+    },
+    {
+      "text": "に"
+    },
+    {
+      "text": "行きたい",
+      "reading": "いきたい",
+      "wordId": "w211"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w590": [
+    {
+      "text": "風",
+      "reading": "かぜ",
+      "wordId": "w590"
+    },
+    {
+      "text": "が"
+    },
+    {
+      "text": "吹いています",
+      "reading": "ふいています",
+      "wordId": "w996"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w596": [
+    {
+      "text": "季節",
+      "reading": "きせつ",
+      "wordId": "w596"
+    },
+    {
+      "text": "について",
+      "reading": "について"
+    },
+    {
+      "text": "話しました",
+      "reading": "はなしました",
+      "wordId": "w157"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w855": [
+    {
+      "text": "明日",
+      "reading": "あした",
+      "wordId": "w183"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "きっと",
+      "reading": "きっと",
+      "wordId": "w855"
+    },
+    {
+      "text": "晴れます",
+      "reading": "はれます"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w858": [
+    {
+      "text": "本当に",
+      "reading": "ほんとうに",
+      "wordId": "w858"
+    },
+    {
+      "text": "ありがとうございます",
+      "reading": "ありがとうございます"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w868": [
+    {
+      "text": "一度",
+      "reading": "いちど",
+      "wordId": "w868"
+    },
+    {
+      "text": "行った",
+      "reading": "いった",
+      "wordId": "w211"
+    },
+    {
+      "text": "ことがあります",
+      "reading": "ことがあります"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w877": [
+    {
+      "text": "もし",
+      "reading": "もし",
+      "wordId": "w877"
+    },
+    {
+      "text": "時間",
+      "reading": "じかん",
+      "wordId": "w190"
+    },
+    {
+      "text": "が"
+    },
+    {
+      "text": "あれば",
+      "reading": "あれば",
+      "wordId": "w079"
+    },
+    {
+      "text": "、"
+    },
+    {
+      "text": "来て",
+      "reading": "きて",
+      "wordId": "w212"
+    },
+    {
+      "text": "ください"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w900": [
+    {
+      "text": "失礼します",
+      "reading": "しつれいします",
+      "wordId": "w900"
+    },
+    {
+      "text": "。"
+    },
+    {
+      "text": "中",
+      "reading": "なか",
+      "wordId": "w085"
+    },
+    {
+      "text": "に"
+    },
+    {
+      "text": "入って",
+      "reading": "はいって",
+      "wordId": "w219"
+    },
+    {
+      "text": "もいいですか"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w904": [
+    {
+      "text": "いってらっしゃい",
+      "reading": "いってらっしゃい",
+      "wordId": "w904"
+    },
+    {
+      "text": "。"
+    },
+    {
+      "text": "気をつけて",
+      "reading": "きをつけて"
+    },
+    {
+      "text": "ね"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w993": [
+    {
+      "text": "日本",
+      "reading": "にほん",
+      "wordId": "w009"
+    },
+    {
+      "text": "に"
+    },
+    {
+      "text": "住んでいます",
+      "reading": "すんでいます",
+      "wordId": "w993"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w1018": [
+    {
+      "text": "喫煙できる",
+      "reading": "きつえんできる",
+      "wordId": "w1018"
+    },
+    {
+      "text": "場所",
+      "reading": "ばしょ"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "どこ",
+      "reading": "どこ",
+      "wordId": "w064"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "か"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w1033": [
+    {
+      "text": "警察",
+      "reading": "けいさつ",
+      "wordId": "w1033"
+    },
+    {
+      "text": "に"
+    },
+    {
+      "text": "相談したい",
+      "reading": "そうだんしたい",
+      "wordId": "w707"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ds013": [
+    {
+      "text": "予約しています",
+      "reading": "よやくしています",
+      "wordId": "w711"
+    },
+    {
+      "text": "。"
+    },
+    {
+      "text": "名前",
+      "reading": "なまえ",
+      "wordId": "w003"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "林",
+      "reading": "りん"
+    },
+    {
+      "text": "です"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ds021": [
+    {
+      "text": "すみません",
+      "reading": "すみません",
+      "wordId": "w897"
+    },
+    {
+      "text": "。"
+    },
+    {
+      "text": "もう一度",
+      "reading": "もういちど",
+      "wordId": "w1015"
+    },
+    {
+      "text": "、"
+    },
+    {
+      "text": "ゆっくり",
+      "reading": "ゆっくり",
+      "wordId": "w849"
+    },
+    {
+      "text": "お願いします",
+      "reading": "おねがいします",
+      "wordId": "w899"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ds032": [
+    {
+      "text": "ご"
+    },
+    {
+      "text": "めん",
+      "reading": "めん",
+      "wordId": "w482"
+    },
+    {
+      "text": "。"
+    },
+    {
+      "text": "あと",
+      "reading": "あと"
+    },
+    {
+      "text": "十分",
+      "reading": "じゅっぷん"
+    },
+    {
+      "text": "で"
+    },
+    {
+      "text": "着く",
+      "reading": "つく",
+      "wordId": "w217"
+    },
+    {
+      "text": "よ"
+    },
+    {
+      "text": "。"
+    },
+    {
+      "text": "連絡する",
+      "reading": "れんらくする",
+      "wordId": "w708"
+    },
+    {
+      "text": "ね"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ds041": [
+    {
+      "text": "今",
+      "reading": "いま",
+      "wordId": "w181"
+    },
+    {
+      "text": "、"
+    },
+    {
+      "text": "何か",
+      "reading": "なにか"
+    },
+    {
+      "text": "聞こえた",
+      "reading": "きこえた"
+    },
+    {
+      "text": "？"
+    }
+  ],
+  "ds043": [
+    {
+      "text": "誰か",
+      "reading": "だれか"
+    },
+    {
+      "text": "いる",
+      "reading": "いる",
+      "wordId": "w080"
+    },
+    {
+      "text": "？"
+    }
+  ],
+  "ws-w384": [
+    {
+      "text": "体温",
+      "reading": "たいおん",
+      "wordId": "w384"
+    },
+    {
+      "text": "を"
+    },
+    {
+      "text": "測ります",
+      "reading": "はかります"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w386": [
+    {
+      "text": "仕事",
+      "reading": "しごと",
+      "wordId": "w018"
+    },
+    {
+      "text": "で"
+    },
+    {
+      "text": "ストレス",
+      "reading": "すとれす",
+      "wordId": "w386"
+    },
+    {
+      "text": "を"
+    },
+    {
+      "text": "感じます",
+      "reading": "かんじます"
+    },
+    {
+      "text": "。"
+    }
+  ],
+  "ws-w1093": [
+    {
+      "text": "りんご",
+      "reading": "りんご",
+      "wordId": "w132"
+    },
+    {
+      "text": "を"
+    },
+    {
+      "text": "十",
+      "reading": "とお",
+      "wordId": "w1093"
+    },
+    {
+      "text": "ください。"
+    }
+  ],
+  "ws-w1097": [
+    {
+      "text": "りんご",
+      "reading": "りんご",
+      "wordId": "w132"
+    },
+    {
+      "text": "は"
+    },
+    {
+      "text": "いくつ",
+      "wordId": "w1097"
+    },
+    {
+      "text": "あります",
+      "reading": "あります",
+      "wordId": "w079"
+    },
+    {
+      "text": "か。"
+    }
+  ]
+}

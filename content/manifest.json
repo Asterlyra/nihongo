@@ -1,0 +1,51 @@
+{
+  "contentVersion": "2026-10-20-v6",
+  "schemaVersion": 1,
+  "createdAt": "2026-10-10",
+  "status": "local-personal-preview",
+  "counts": {
+    "words": 1097,
+    "grammar": 32,
+    "grammarExercises": 64,
+    "coreSentences": 104,
+    "wordExamples": 1097,
+    "readings": 10,
+    "kana": 208,
+    "dialogues": 12,
+    "dialogueSentences": 48,
+    "audio": 2554,
+    "sentenceAnalyses": 1249,
+    "beginnerLessons": 6,
+    "pronunciationLessons": 10,
+    "foundationQuestions": 32,
+    "n5Lessons": 16,
+    "n5Questions": 48,
+    "n5ListeningQuestions": 16,
+    "n5Words": 780,
+    "n5FocusKanji": 104
+  },
+  "files": [
+    "words.json",
+    "grammar.json",
+    "sentences.prepared.json",
+    "word-examples.prepared.json",
+    "readings.json",
+    "kana.json",
+    "audio-manifest.json",
+    "units.json",
+    "annotation-overrides.json",
+    "dialogues.json",
+    "dialogue-sentences.prepared.json",
+    "sentence-analysis.prepared.json",
+    "sentence-analysis-lexicon.json",
+    "sentence-analysis-overrides.json",
+    "beginner.json",
+    "pronunciation.json",
+    "n5-plan.json",
+    "n5-vocabulary.json"
+  ],
+  "review": {
+    "teacher": "not performed",
+    "audio": "not included"
+  }
+}

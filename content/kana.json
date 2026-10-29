@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "k-0-あ",
+    "writing": "あ",
+    "reading": "あ",
+    "audioText": "あ",
+    "romaji": "a",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-い",
+    "writing": "い",
+    "reading": "い",
+    "audioText": "い",
+    "romaji": "i",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-う",
+    "writing": "う",
+    "reading": "う",
+    "audioText": "う",
+    "romaji": "u",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-え",
+    "writing": "え",
+    "reading": "え",
+    "audioText": "え",
+    "romaji": "e",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-お",
+    "writing": "お",
+    "reading": "お",
+    "audioText": "お",
+    "romaji": "o",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ア",
+    "writing": "ア",
+    "reading": "あ",
+    "audioText": "あ",
+    "romaji": "a",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-イ",
+    "writing": "イ",
+    "reading": "い",
+    "audioText": "い",
+    "romaji": "i",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ウ",
+    "writing": "ウ",
+    "reading": "う",
+    "audioText": "う",
+    "romaji": "u",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-エ",
+    "writing": "エ",
+    "reading": "え",
+    "audioText": "え",
+    "romaji": "e",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-オ",
+    "writing": "オ",
+    "reading": "お",
+    "audioText": "お",
+    "romaji": "o",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-か",
+    "writing": "か",
+    "reading": "か",
+    "audioText": "か",
+    "romaji": "ka",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-き",
+    "writing": "き",
+    "reading": "き",
+    "audioText": "き",
+    "romaji": "ki",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-く",
+    "writing": "く",
+    "reading": "く",
+    "audioText": "く",
+    "romaji": "ku",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-け",
+    "writing": "け",
+    "reading": "け",
+    "audioText": "け",
+    "romaji": "ke",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-こ",
+    "writing": "こ",
+    "reading": "こ",
+    "audioText": "こ",
+    "romaji": "ko",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-カ",
+    "writing": "カ",
+    "reading": "か",
+    "audioText": "か",
+    "romaji": "ka",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-キ",
+    "writing": "キ",
+    "reading": "き",
+    "audioText": "き",
+    "romaji": "ki",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ク",
+    "writing": "ク",
+    "reading": "く",
+    "audioText": "く",
+    "romaji": "ku",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ケ",
+    "writing": "ケ",
+    "reading": "け",
+    "audioText": "け",
+    "romaji": "ke",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-コ",
+    "writing": "コ",
+    "reading": "こ",
+    "audioText": "こ",
+    "romaji": "ko",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-さ",
+    "writing": "さ",
+    "reading": "さ",
+    "audioText": "さ",
+    "romaji": "sa",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-し",
+    "writing": "し",
+    "reading": "し",
+    "audioText": "し",
+    "romaji": "shi",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-す",
+    "writing": "す",
+    "reading": "す",
+    "audioText": "す",
+    "romaji": "su",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-せ",
+    "writing": "せ",
+    "reading": "せ",
+    "audioText": "せ",
+    "romaji": "se",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-そ",
+    "writing": "そ",
+    "reading": "そ",
+    "audioText": "そ",
+    "romaji": "so",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-サ",
+    "writing": "サ",
+    "reading": "さ",
+    "audioText": "さ",
+    "romaji": "sa",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-シ",
+    "writing": "シ",
+    "reading": "し",
+    "audioText": "し",
+    "romaji": "shi",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ス",
+    "writing": "ス",
+    "reading": "す",
+    "audioText": "す",
+    "romaji": "su",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-セ",
+    "writing": "セ",
+    "reading": "せ",
+    "audioText": "せ",
+    "romaji": "se",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ソ",
+    "writing": "ソ",
+    "reading": "そ",
+    "audioText": "そ",
+    "romaji": "so",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-た",
+    "writing": "た",
+    "reading": "た",
+    "audioText": "た",
+    "romaji": "ta",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ち",
+    "writing": "ち",
+    "reading": "ち",
+    "audioText": "ち",
+    "romaji": "chi",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-つ",
+    "writing": "つ",
+    "reading": "つ",
+    "audioText": "つ",
+    "romaji": "tsu",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-て",
+    "writing": "て",
+    "reading": "て",
+    "audioText": "て",
+    "romaji": "te",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-と",
+    "writing": "と",
+    "reading": "と",
+    "audioText": "と",
+    "romaji": "to",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-タ",
+    "writing": "タ",
+    "reading": "た",
+    "audioText": "た",
+    "romaji": "ta",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-チ",
+    "writing": "チ",
+    "reading": "ち",
+    "audioText": "ち",
+    "romaji": "chi",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ツ",
+    "writing": "ツ",
+    "reading": "つ",
+    "audioText": "つ",
+    "romaji": "tsu",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-テ",
+    "writing": "テ",
+    "reading": "て",
+    "audioText": "て",
+    "romaji": "te",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ト",
+    "writing": "ト",
+    "reading": "と",
+    "audioText": "と",
+    "romaji": "to",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-な",
+    "writing": "な",
+    "reading": "な",
+    "audioText": "な",
+    "romaji": "na",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-に",
+    "writing": "に",
+    "reading": "に",
+    "audioText": "に",
+    "romaji": "ni",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぬ",
+    "writing": "ぬ",
+    "reading": "ぬ",
+    "audioText": "ぬ",
+    "romaji": "nu",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ね",
+    "writing": "ね",
+    "reading": "ね",
+    "audioText": "ね",
+    "romaji": "ne",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-の",
+    "writing": "の",
+    "reading": "の",
+    "audioText": "の",
+    "romaji": "no",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ナ",
+    "writing": "ナ",
+    "reading": "な",
+    "audioText": "な",
+    "romaji": "na",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ニ",
+    "writing": "ニ",
+    "reading": "に",
+    "audioText": "に",
+    "romaji": "ni",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヌ",
+    "writing": "ヌ",
+    "reading": "ぬ",
+    "audioText": "ぬ",
+    "romaji": "nu",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ネ",
+    "writing": "ネ",
+    "reading": "ね",
+    "audioText": "ね",
+    "romaji": "ne",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ノ",
+    "writing": "ノ",
+    "reading": "の",
+    "audioText": "の",
+    "romaji": "no",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-は",
+    "writing": "は",
+    "reading": "は",
+    "audioText": "は",
+    "romaji": "ha",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ひ",
+    "writing": "ひ",
+    "reading": "ひ",
+    "audioText": "ひ",
+    "romaji": "hi",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ふ",
+    "writing": "ふ",
+    "reading": "ふ",
+    "audioText": "ふ",
+    "romaji": "fu",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-へ",
+    "writing": "へ",
+    "reading": "へ",
+    "audioText": "へ",
+    "romaji": "he",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ほ",
+    "writing": "ほ",
+    "reading": "ほ",
+    "audioText": "ほ",
+    "romaji": "ho",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ハ",
+    "writing": "ハ",
+    "reading": "は",
+    "audioText": "は",
+    "romaji": "ha",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヒ",
+    "writing": "ヒ",
+    "reading": "ひ",
+    "audioText": "ひ",
+    "romaji": "hi",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-フ",
+    "writing": "フ",
+    "reading": "ふ",
+    "audioText": "ふ",
+    "romaji": "fu",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヘ",
+    "writing": "ヘ",
+    "reading": "へ",
+    "audioText": "へ",
+    "romaji": "he",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ホ",
+    "writing": "ホ",
+    "reading": "ほ",
+    "audioText": "ほ",
+    "romaji": "ho",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-ま",
+    "writing": "ま",
+    "reading": "ま",
+    "audioText": "ま",
+    "romaji": "ma",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-み",
+    "writing": "み",
+    "reading": "み",
+    "audioText": "み",
+    "romaji": "mi",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-む",
+    "writing": "む",
+    "reading": "む",
+    "audioText": "む",
+    "romaji": "mu",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-め",
+    "writing": "め",
+    "reading": "め",
+    "audioText": "め",
+    "romaji": "me",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-も",
+    "writing": "も",
+    "reading": "も",
+    "audioText": "も",
+    "romaji": "mo",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-マ",
+    "writing": "マ",
+    "reading": "ま",
+    "audioText": "ま",
+    "romaji": "ma",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ミ",
+    "writing": "ミ",
+    "reading": "み",
+    "audioText": "み",
+    "romaji": "mi",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ム",
+    "writing": "ム",
+    "reading": "む",
+    "audioText": "む",
+    "romaji": "mu",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-メ",
+    "writing": "メ",
+    "reading": "め",
+    "audioText": "め",
+    "romaji": "me",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-モ",
+    "writing": "モ",
+    "reading": "も",
+    "audioText": "も",
+    "romaji": "mo",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-や",
+    "writing": "や",
+    "reading": "や",
+    "audioText": "や",
+    "romaji": "ya",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ゆ",
+    "writing": "ゆ",
+    "reading": "ゆ",
+    "audioText": "ゆ",
+    "romaji": "yu",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-よ",
+    "writing": "よ",
+    "reading": "よ",
+    "audioText": "よ",
+    "romaji": "yo",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ヤ",
+    "writing": "ヤ",
+    "reading": "や",
+    "audioText": "や",
+    "romaji": "ya",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ユ",
+    "writing": "ユ",
+    "reading": "ゆ",
+    "audioText": "ゆ",
+    "romaji": "yu",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヨ",
+    "writing": "ヨ",
+    "reading": "よ",
+    "audioText": "よ",
+    "romaji": "yo",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-ら",
+    "writing": "ら",
+    "reading": "ら",
+    "audioText": "ら",
+    "romaji": "ra",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-り",
+    "writing": "り",
+    "reading": "り",
+    "audioText": "り",
+    "romaji": "ri",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-る",
+    "writing": "る",
+    "reading": "る",
+    "audioText": "る",
+    "romaji": "ru",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-れ",
+    "writing": "れ",
+    "reading": "れ",
+    "audioText": "れ",
+    "romaji": "re",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ろ",
+    "writing": "ろ",
+    "reading": "ろ",
+    "audioText": "ろ",
+    "romaji": "ro",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ラ",
+    "writing": "ラ",
+    "reading": "ら",
+    "audioText": "ら",
+    "romaji": "ra",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-リ",
+    "writing": "リ",
+    "reading": "り",
+    "audioText": "り",
+    "romaji": "ri",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ル",
+    "writing": "ル",
+    "reading": "る",
+    "audioText": "る",
+    "romaji": "ru",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-レ",
+    "writing": "レ",
+    "reading": "れ",
+    "audioText": "れ",
+    "romaji": "re",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ロ",
+    "writing": "ロ",
+    "reading": "ろ",
+    "audioText": "ろ",
+    "romaji": "ro",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-わ",
+    "writing": "わ",
+    "reading": "わ",
+    "audioText": "わ",
+    "romaji": "wa",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-を",
+    "writing": "を",
+    "reading": "を",
+    "audioText": "お",
+    "romaji": "o",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ん",
+    "writing": "ん",
+    "reading": "ん",
+    "audioText": "ん",
+    "romaji": "n",
+    "group": "清音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ワ",
+    "writing": "ワ",
+    "reading": "わ",
+    "audioText": "わ",
+    "romaji": "wa",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヲ",
+    "writing": "ヲ",
+    "reading": "を",
+    "audioText": "お",
+    "romaji": "o",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ン",
+    "writing": "ン",
+    "reading": "ん",
+    "audioText": "ん",
+    "romaji": "n",
+    "group": "清音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-が",
+    "writing": "が",
+    "reading": "が",
+    "audioText": "が",
+    "romaji": "ga",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぎ",
+    "writing": "ぎ",
+    "reading": "ぎ",
+    "audioText": "ぎ",
+    "romaji": "gi",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぐ",
+    "writing": "ぐ",
+    "reading": "ぐ",
+    "audioText": "ぐ",
+    "romaji": "gu",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-げ",
+    "writing": "げ",
+    "reading": "げ",
+    "audioText": "げ",
+    "romaji": "ge",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ご",
+    "writing": "ご",
+    "reading": "ご",
+    "audioText": "ご",
+    "romaji": "go",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ガ",
+    "writing": "ガ",
+    "reading": "が",
+    "audioText": "が",
+    "romaji": "ga",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ギ",
+    "writing": "ギ",
+    "reading": "ぎ",
+    "audioText": "ぎ",
+    "romaji": "gi",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-グ",
+    "writing": "グ",
+    "reading": "ぐ",
+    "audioText": "ぐ",
+    "romaji": "gu",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ゲ",
+    "writing": "ゲ",
+    "reading": "げ",
+    "audioText": "げ",
+    "romaji": "ge",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ゴ",
+    "writing": "ゴ",
+    "reading": "ご",
+    "audioText": "ご",
+    "romaji": "go",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-ざ",
+    "writing": "ざ",
+    "reading": "ざ",
+    "audioText": "ざ",
+    "romaji": "za",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-じ",
+    "writing": "じ",
+    "reading": "じ",
+    "audioText": "じ",
+    "romaji": "ji",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ず",
+    "writing": "ず",
+    "reading": "ず",
+    "audioText": "ず",
+    "romaji": "zu",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぜ",
+    "writing": "ぜ",
+    "reading": "ぜ",
+    "audioText": "ぜ",
+    "romaji": "ze",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぞ",
+    "writing": "ぞ",
+    "reading": "ぞ",
+    "audioText": "ぞ",
+    "romaji": "zo",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ザ",
+    "writing": "ザ",
+    "reading": "ざ",
+    "audioText": "ざ",
+    "romaji": "za",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ジ",
+    "writing": "ジ",
+    "reading": "じ",
+    "audioText": "じ",
+    "romaji": "ji",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ズ",
+    "writing": "ズ",
+    "reading": "ず",
+    "audioText": "ず",
+    "romaji": "zu",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ゼ",
+    "writing": "ゼ",
+    "reading": "ぜ",
+    "audioText": "ぜ",
+    "romaji": "ze",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ゾ",
+    "writing": "ゾ",
+    "reading": "ぞ",
+    "audioText": "ぞ",
+    "romaji": "zo",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-だ",
+    "writing": "だ",
+    "reading": "だ",
+    "audioText": "だ",
+    "romaji": "da",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぢ",
+    "writing": "ぢ",
+    "reading": "ぢ",
+    "audioText": "ぢ",
+    "romaji": "ji",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-づ",
+    "writing": "づ",
+    "reading": "づ",
+    "audioText": "づ",
+    "romaji": "zu",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-で",
+    "writing": "で",
+    "reading": "で",
+    "audioText": "で",
+    "romaji": "de",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ど",
+    "writing": "ど",
+    "reading": "ど",
+    "audioText": "ど",
+    "romaji": "do",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-ダ",
+    "writing": "ダ",
+    "reading": "だ",
+    "audioText": "だ",
+    "romaji": "da",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヂ",
+    "writing": "ヂ",
+    "reading": "ぢ",
+    "audioText": "ぢ",
+    "romaji": "ji",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ヅ",
+    "writing": "ヅ",
+    "reading": "づ",
+    "audioText": "づ",
+    "romaji": "zu",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-デ",
+    "writing": "デ",
+    "reading": "で",
+    "audioText": "で",
+    "romaji": "de",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ド",
+    "writing": "ド",
+    "reading": "ど",
+    "audioText": "ど",
+    "romaji": "do",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-ば",
+    "writing": "ば",
+    "reading": "ば",
+    "audioText": "ば",
+    "romaji": "ba",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-び",
+    "writing": "び",
+    "reading": "び",
+    "audioText": "び",
+    "romaji": "bi",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぶ",
+    "writing": "ぶ",
+    "reading": "ぶ",
+    "audioText": "ぶ",
+    "romaji": "bu",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-べ",
+    "writing": "べ",
+    "reading": "べ",
+    "audioText": "べ",
+    "romaji": "be",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぼ",
+    "writing": "ぼ",
+    "reading": "ぼ",
+    "audioText": "ぼ",
+    "romaji": "bo",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-バ",
+    "writing": "バ",
+    "reading": "ば",
+    "audioText": "ば",
+    "romaji": "ba",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ビ",
+    "writing": "ビ",
+    "reading": "び",
+    "audioText": "び",
+    "romaji": "bi",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ブ",
+    "writing": "ブ",
+    "reading": "ぶ",
+    "audioText": "ぶ",
+    "romaji": "bu",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ベ",
+    "writing": "ベ",
+    "reading": "べ",
+    "audioText": "べ",
+    "romaji": "be",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ボ",
+    "writing": "ボ",
+    "reading": "ぼ",
+    "audioText": "ぼ",
+    "romaji": "bo",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-0-ぱ",
+    "writing": "ぱ",
+    "reading": "ぱ",
+    "audioText": "ぱ",
+    "romaji": "pa",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぴ",
+    "writing": "ぴ",
+    "reading": "ぴ",
+    "audioText": "ぴ",
+    "romaji": "pi",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぷ",
+    "writing": "ぷ",
+    "reading": "ぷ",
+    "audioText": "ぷ",
+    "romaji": "pu",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぺ",
+    "writing": "ぺ",
+    "reading": "ぺ",
+    "audioText": "ぺ",
+    "romaji": "pe",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-0-ぽ",
+    "writing": "ぽ",
+    "reading": "ぽ",
+    "audioText": "ぽ",
+    "romaji": "po",
+    "group": "浊音与半浊音",
+    "script": "hira"
+  },
+  {
+    "id": "k-1-パ",
+    "writing": "パ",
+    "reading": "ぱ",
+    "audioText": "ぱ",
+    "romaji": "pa",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ピ",
+    "writing": "ピ",
+    "reading": "ぴ",
+    "audioText": "ぴ",
+    "romaji": "pi",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-プ",
+    "writing": "プ",
+    "reading": "ぷ",
+    "audioText": "ぷ",
+    "romaji": "pu",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ペ",
+    "writing": "ペ",
+    "reading": "ぺ",
+    "audioText": "ぺ",
+    "romaji": "pe",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-1-ポ",
+    "writing": "ポ",
+    "reading": "ぽ",
+    "audioText": "ぽ",
+    "romaji": "po",
+    "group": "浊音与半浊音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-きゃ",
+    "writing": "きゃ",
+    "reading": "きゃ",
+    "audioText": "きゃ",
+    "romaji": "kya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-キャ",
+    "writing": "キャ",
+    "reading": "きゃ",
+    "audioText": "きゃ",
+    "romaji": "kya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-きゅ",
+    "writing": "きゅ",
+    "reading": "きゅ",
+    "audioText": "きゅ",
+    "romaji": "kyu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-キュ",
+    "writing": "キュ",
+    "reading": "きゅ",
+    "audioText": "きゅ",
+    "romaji": "kyu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-きょ",
+    "writing": "きょ",
+    "reading": "きょ",
+    "audioText": "きょ",
+    "romaji": "kyo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-キョ",
+    "writing": "キョ",
+    "reading": "きょ",
+    "audioText": "きょ",
+    "romaji": "kyo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-しゃ",
+    "writing": "しゃ",
+    "reading": "しゃ",
+    "audioText": "しゃ",
+    "romaji": "sha",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-シャ",
+    "writing": "シャ",
+    "reading": "しゃ",
+    "audioText": "しゃ",
+    "romaji": "sha",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-しゅ",
+    "writing": "しゅ",
+    "reading": "しゅ",
+    "audioText": "しゅ",
+    "romaji": "shu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-シュ",
+    "writing": "シュ",
+    "reading": "しゅ",
+    "audioText": "しゅ",
+    "romaji": "shu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-しょ",
+    "writing": "しょ",
+    "reading": "しょ",
+    "audioText": "しょ",
+    "romaji": "sho",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ショ",
+    "writing": "ショ",
+    "reading": "しょ",
+    "audioText": "しょ",
+    "romaji": "sho",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ちゃ",
+    "writing": "ちゃ",
+    "reading": "ちゃ",
+    "audioText": "ちゃ",
+    "romaji": "cha",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-チャ",
+    "writing": "チャ",
+    "reading": "ちゃ",
+    "audioText": "ちゃ",
+    "romaji": "cha",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ちゅ",
+    "writing": "ちゅ",
+    "reading": "ちゅ",
+    "audioText": "ちゅ",
+    "romaji": "chu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-チュ",
+    "writing": "チュ",
+    "reading": "ちゅ",
+    "audioText": "ちゅ",
+    "romaji": "chu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ちょ",
+    "writing": "ちょ",
+    "reading": "ちょ",
+    "audioText": "ちょ",
+    "romaji": "cho",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-チョ",
+    "writing": "チョ",
+    "reading": "ちょ",
+    "audioText": "ちょ",
+    "romaji": "cho",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-にゃ",
+    "writing": "にゃ",
+    "reading": "にゃ",
+    "audioText": "にゃ",
+    "romaji": "nya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ニャ",
+    "writing": "ニャ",
+    "reading": "にゃ",
+    "audioText": "にゃ",
+    "romaji": "nya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-にゅ",
+    "writing": "にゅ",
+    "reading": "にゅ",
+    "audioText": "にゅ",
+    "romaji": "nyu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ニュ",
+    "writing": "ニュ",
+    "reading": "にゅ",
+    "audioText": "にゅ",
+    "romaji": "nyu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-にょ",
+    "writing": "にょ",
+    "reading": "にょ",
+    "audioText": "にょ",
+    "romaji": "nyo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ニョ",
+    "writing": "ニョ",
+    "reading": "にょ",
+    "audioText": "にょ",
+    "romaji": "nyo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ひゃ",
+    "writing": "ひゃ",
+    "reading": "ひゃ",
+    "audioText": "ひゃ",
+    "romaji": "hya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ヒャ",
+    "writing": "ヒャ",
+    "reading": "ひゃ",
+    "audioText": "ひゃ",
+    "romaji": "hya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ひゅ",
+    "writing": "ひゅ",
+    "reading": "ひゅ",
+    "audioText": "ひゅ",
+    "romaji": "hyu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ヒュ",
+    "writing": "ヒュ",
+    "reading": "ひゅ",
+    "audioText": "ひゅ",
+    "romaji": "hyu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ひょ",
+    "writing": "ひょ",
+    "reading": "ひょ",
+    "audioText": "ひょ",
+    "romaji": "hyo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ヒョ",
+    "writing": "ヒョ",
+    "reading": "ひょ",
+    "audioText": "ひょ",
+    "romaji": "hyo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-みゃ",
+    "writing": "みゃ",
+    "reading": "みゃ",
+    "audioText": "みゃ",
+    "romaji": "mya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ミャ",
+    "writing": "ミャ",
+    "reading": "みゃ",
+    "audioText": "みゃ",
+    "romaji": "mya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-みゅ",
+    "writing": "みゅ",
+    "reading": "みゅ",
+    "audioText": "みゅ",
+    "romaji": "myu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ミュ",
+    "writing": "ミュ",
+    "reading": "みゅ",
+    "audioText": "みゅ",
+    "romaji": "myu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-みょ",
+    "writing": "みょ",
+    "reading": "みょ",
+    "audioText": "みょ",
+    "romaji": "myo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ミョ",
+    "writing": "ミョ",
+    "reading": "みょ",
+    "audioText": "みょ",
+    "romaji": "myo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-りゃ",
+    "writing": "りゃ",
+    "reading": "りゃ",
+    "audioText": "りゃ",
+    "romaji": "rya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-リャ",
+    "writing": "リャ",
+    "reading": "りゃ",
+    "audioText": "りゃ",
+    "romaji": "rya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-りゅ",
+    "writing": "りゅ",
+    "reading": "りゅ",
+    "audioText": "りゅ",
+    "romaji": "ryu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-リュ",
+    "writing": "リュ",
+    "reading": "りゅ",
+    "audioText": "りゅ",
+    "romaji": "ryu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-りょ",
+    "writing": "りょ",
+    "reading": "りょ",
+    "audioText": "りょ",
+    "romaji": "ryo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-リョ",
+    "writing": "リョ",
+    "reading": "りょ",
+    "audioText": "りょ",
+    "romaji": "ryo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ぎゃ",
+    "writing": "ぎゃ",
+    "reading": "ぎゃ",
+    "audioText": "ぎゃ",
+    "romaji": "gya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ギャ",
+    "writing": "ギャ",
+    "reading": "ぎゃ",
+    "audioText": "ぎゃ",
+    "romaji": "gya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ぎゅ",
+    "writing": "ぎゅ",
+    "reading": "ぎゅ",
+    "audioText": "ぎゅ",
+    "romaji": "gyu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ギュ",
+    "writing": "ギュ",
+    "reading": "ぎゅ",
+    "audioText": "ぎゅ",
+    "romaji": "gyu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ぎょ",
+    "writing": "ぎょ",
+    "reading": "ぎょ",
+    "audioText": "ぎょ",
+    "romaji": "gyo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ギョ",
+    "writing": "ギョ",
+    "reading": "ぎょ",
+    "audioText": "ぎょ",
+    "romaji": "gyo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-じゃ",
+    "writing": "じゃ",
+    "reading": "じゃ",
+    "audioText": "じゃ",
+    "romaji": "ja",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ジャ",
+    "writing": "ジャ",
+    "reading": "じゃ",
+    "audioText": "じゃ",
+    "romaji": "ja",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-じゅ",
+    "writing": "じゅ",
+    "reading": "じゅ",
+    "audioText": "じゅ",
+    "romaji": "ju",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ジュ",
+    "writing": "ジュ",
+    "reading": "じゅ",
+    "audioText": "じゅ",
+    "romaji": "ju",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-じょ",
+    "writing": "じょ",
+    "reading": "じょ",
+    "audioText": "じょ",
+    "romaji": "jo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ジョ",
+    "writing": "ジョ",
+    "reading": "じょ",
+    "audioText": "じょ",
+    "romaji": "jo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-びゃ",
+    "writing": "びゃ",
+    "reading": "びゃ",
+    "audioText": "びゃ",
+    "romaji": "bya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ビャ",
+    "writing": "ビャ",
+    "reading": "びゃ",
+    "audioText": "びゃ",
+    "romaji": "bya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-びゅ",
+    "writing": "びゅ",
+    "reading": "びゅ",
+    "audioText": "びゅ",
+    "romaji": "byu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ビュ",
+    "writing": "ビュ",
+    "reading": "びゅ",
+    "audioText": "びゅ",
+    "romaji": "byu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-びょ",
+    "writing": "びょ",
+    "reading": "びょ",
+    "audioText": "びょ",
+    "romaji": "byo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ビョ",
+    "writing": "ビョ",
+    "reading": "びょ",
+    "audioText": "びょ",
+    "romaji": "byo",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ぴゃ",
+    "writing": "ぴゃ",
+    "reading": "ぴゃ",
+    "audioText": "ぴゃ",
+    "romaji": "pya",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ピャ",
+    "writing": "ピャ",
+    "reading": "ぴゃ",
+    "audioText": "ぴゃ",
+    "romaji": "pya",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ぴゅ",
+    "writing": "ぴゅ",
+    "reading": "ぴゅ",
+    "audioText": "ぴゅ",
+    "romaji": "pyu",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ピュ",
+    "writing": "ピュ",
+    "reading": "ぴゅ",
+    "audioText": "ぴゅ",
+    "romaji": "pyu",
+    "group": "拗音",
+    "script": "kata"
+  },
+  {
+    "id": "k-hira-ぴょ",
+    "writing": "ぴょ",
+    "reading": "ぴょ",
+    "audioText": "ぴょ",
+    "romaji": "pyo",
+    "group": "拗音",
+    "script": "hira"
+  },
+  {
+    "id": "k-kata-ピョ",
+    "writing": "ピョ",
+    "reading": "ぴょ",
+    "audioText": "ぴょ",
+    "romaji": "pyo",
+    "group": "拗音",
+    "script": "kata"
+  }
+]

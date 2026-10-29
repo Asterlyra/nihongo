@@ -1,0 +1,6572 @@
+[
+  {
+    "writing": "祖父",
+    "reading": "そふ",
+    "meaning": "祖父",
+    "pos": "名詞",
+    "collocation": "祖父に会う",
+    "note": "对外说自己的祖父常用祖父；称呼对方的祖父或直接称呼时可用おじいさん。",
+    "audioText": "そふ",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "祖父に会いました。",
+      "reading": "そふにあいました。",
+      "translation": "见到了祖父。"
+    }
+  },
+  {
+    "writing": "祖母",
+    "reading": "そぼ",
+    "meaning": "祖母",
+    "pos": "名詞",
+    "collocation": "祖母に会う",
+    "note": "对外说自己的祖母常用祖母；称呼对方的祖母或直接称呼时可用おばあさん。",
+    "audioText": "そぼ",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "祖母に会いました。",
+      "reading": "そぼにあいました。",
+      "translation": "见到了祖母。"
+    }
+  },
+  {
+    "writing": "おじいさん",
+    "reading": "おじいさん",
+    "meaning": "爷爷；老爷爷",
+    "pos": "名詞",
+    "collocation": "おじいさんに会う",
+    "note": "",
+    "audioText": "おじいさん",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "おじいさんに会いました。",
+      "reading": "おじいさんにあいました。",
+      "translation": "见到了老爷爷。"
+    }
+  },
+  {
+    "writing": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "奶奶；老奶奶",
+    "pos": "名詞",
+    "collocation": "おばあさんに会う",
+    "note": "",
+    "audioText": "おばあさん",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "おばあさんに会いました。",
+      "reading": "おばあさんにあいました。",
+      "translation": "见到了老奶奶。"
+    }
+  },
+  {
+    "writing": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "哥哥",
+    "pos": "名詞",
+    "collocation": "お兄さんに会う",
+    "note": "称呼别人家的哥哥或直接称呼哥哥时使用；对外说自己的哥哥通常用兄。",
+    "audioText": "おにいさん",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "お兄さんに会いました。",
+      "reading": "おにいさんにあいました。",
+      "translation": "见到了哥哥。"
+    }
+  },
+  {
+    "writing": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "姐姐",
+    "pos": "名詞",
+    "collocation": "お姉さんに会う",
+    "note": "称呼别人家的姐姐或直接称呼姐姐时使用；对外说自己的姐姐通常用姉。",
+    "audioText": "おねえさん",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "お姉さんに会いました。",
+      "reading": "おねえさんにあいました。",
+      "translation": "见到了姐姐。"
+    }
+  },
+  {
+    "writing": "叔父",
+    "reading": "おじ",
+    "meaning": "叔叔；舅舅",
+    "pos": "名詞",
+    "collocation": "叔父に会う",
+    "note": "通常指父母的弟弟；父母的哥哥可写伯父，读音同为おじ。直接称呼常用おじさん。",
+    "audioText": "おじ",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "叔父に会いました。",
+      "reading": "おじにあいました。",
+      "translation": "见到了叔叔。"
+    }
+  },
+  {
+    "writing": "叔母",
+    "reading": "おば",
+    "meaning": "阿姨；姑姑",
+    "pos": "名詞",
+    "collocation": "叔母に会う",
+    "note": "通常指父母的妹妹；父母的姐姐可写伯母，读音同为おば。直接称呼常用おばさん。",
+    "audioText": "おば",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "叔母に会いました。",
+      "reading": "おばにあいました。",
+      "translation": "见到了姑姑。"
+    }
+  },
+  {
+    "writing": "いとこ",
+    "reading": "いとこ",
+    "meaning": "堂兄弟姐妹；表兄弟姐妹",
+    "pos": "名詞",
+    "collocation": "いとこに会う",
+    "note": "",
+    "audioText": "いとこ",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "いとこに会いました。",
+      "reading": "いとこにあいました。",
+      "translation": "见到了表兄弟姐妹。"
+    }
+  },
+  {
+    "writing": "息子",
+    "reading": "むすこ",
+    "meaning": "儿子",
+    "pos": "名詞",
+    "collocation": "息子に会う",
+    "note": "",
+    "audioText": "むすこ",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "息子に会いました。",
+      "reading": "むすこにあいました。",
+      "translation": "见到了儿子。"
+    }
+  },
+  {
+    "writing": "娘",
+    "reading": "むすめ",
+    "meaning": "女儿",
+    "pos": "名詞",
+    "collocation": "娘に会う",
+    "note": "",
+    "audioText": "むすめ",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "娘に会いました。",
+      "reading": "むすめにあいました。",
+      "translation": "见到了女儿。"
+    }
+  },
+  {
+    "writing": "夫",
+    "reading": "おっと",
+    "meaning": "丈夫",
+    "pos": "名詞",
+    "collocation": "夫に会う",
+    "note": "",
+    "audioText": "おっと",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "夫に会いました。",
+      "reading": "おっとにあいました。",
+      "translation": "见到了丈夫。"
+    }
+  },
+  {
+    "writing": "妻",
+    "reading": "つま",
+    "meaning": "妻子",
+    "pos": "名詞",
+    "collocation": "妻に会う",
+    "note": "",
+    "audioText": "つま",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "妻に会いました。",
+      "reading": "つまにあいました。",
+      "translation": "见到了妻子。"
+    }
+  },
+  {
+    "writing": "両親",
+    "reading": "りょうしん",
+    "meaning": "父母",
+    "pos": "名詞",
+    "collocation": "両親に会う",
+    "note": "",
+    "audioText": "りょうしん",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "両親に会いました。",
+      "reading": "りょうしんにあいました。",
+      "translation": "见到了父母。"
+    }
+  },
+  {
+    "writing": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "兄弟姐妹",
+    "pos": "名詞",
+    "collocation": "兄弟に会う",
+    "note": "",
+    "audioText": "きょうだい",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "兄弟に会いました。",
+      "reading": "きょうだいにあいました。",
+      "translation": "见到了兄弟姐妹。"
+    }
+  },
+  {
+    "writing": "親戚",
+    "reading": "しんせき",
+    "meaning": "亲戚",
+    "pos": "名詞",
+    "collocation": "親戚に会う",
+    "note": "",
+    "audioText": "しんせき",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "親戚に会いました。",
+      "reading": "しんせきにあいました。",
+      "translation": "见到了亲戚。"
+    }
+  },
+  {
+    "writing": "孫",
+    "reading": "まご",
+    "meaning": "孙子；孙女",
+    "pos": "名詞",
+    "collocation": "孫に会う",
+    "note": "",
+    "audioText": "まご",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "孫に会いました。",
+      "reading": "まごにあいました。",
+      "translation": "见到了孙女。"
+    }
+  },
+  {
+    "writing": "赤ちゃん",
+    "reading": "あかちゃん",
+    "meaning": "婴儿",
+    "pos": "名詞",
+    "collocation": "赤ちゃんに会う",
+    "note": "",
+    "audioText": "あかちゃん",
+    "category": "人物与关系",
+    "group": "家庭称呼",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "赤ちゃんに会いました。",
+      "reading": "あかちゃんにあいました。",
+      "translation": "见到了婴儿。"
+    }
+  },
+  {
+    "writing": "恋人",
+    "reading": "こいびと",
+    "meaning": "恋人",
+    "pos": "名詞",
+    "collocation": "恋人に会う",
+    "note": "",
+    "audioText": "こいびと",
+    "category": "人物与关系",
+    "group": "社会与亲密关系",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "恋人に会いました。",
+      "reading": "こいびとにあいました。",
+      "translation": "见到了恋人。"
+    }
+  },
+  {
+    "writing": "先輩",
+    "reading": "せんぱい",
+    "meaning": "前辈",
+    "pos": "名詞",
+    "collocation": "先輩に会う",
+    "note": "",
+    "audioText": "せんぱい",
+    "category": "人物与关系",
+    "group": "学校与职场关系",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "先輩に会いました。",
+      "reading": "せんぱいにあいました。",
+      "translation": "见到了前辈。"
+    }
+  },
+  {
+    "writing": "後輩",
+    "reading": "こうはい",
+    "meaning": "后辈",
+    "pos": "名詞",
+    "collocation": "後輩に会う",
+    "note": "",
+    "audioText": "こうはい",
+    "category": "人物与关系",
+    "group": "学校与职场关系",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "後輩に会いました。",
+      "reading": "こうはいにあいました。",
+      "translation": "见到了后辈。"
+    }
+  },
+  {
+    "writing": "同僚",
+    "reading": "どうりょう",
+    "meaning": "同事",
+    "pos": "名詞",
+    "collocation": "同僚に会う",
+    "note": "",
+    "audioText": "どうりょう",
+    "category": "人物与关系",
+    "group": "学校与职场关系",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "同僚に会いました。",
+      "reading": "どうりょうにあいました。",
+      "translation": "见到了同事。"
+    }
+  },
+  {
+    "writing": "知り合い",
+    "reading": "しりあい",
+    "meaning": "熟人",
+    "pos": "名詞",
+    "collocation": "知り合いに会う",
+    "note": "",
+    "audioText": "しりあい",
+    "category": "人物与关系",
+    "group": "社会与亲密关系",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "知り合いに会いました。",
+      "reading": "しりあいにあいました。",
+      "translation": "见到了熟人。"
+    }
+  },
+  {
+    "writing": "医者",
+    "reading": "いしゃ",
+    "meaning": "医生",
+    "pos": "名詞",
+    "collocation": "医者です",
+    "note": "",
+    "audioText": "いしゃ",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "あの人は医者です。",
+      "reading": "あのひとわいしゃです。",
+      "translation": "那个人是医生。"
+    }
+  },
+  {
+    "writing": "看護師",
+    "reading": "かんごし",
+    "meaning": "护士",
+    "pos": "名詞",
+    "collocation": "看護師です",
+    "note": "",
+    "audioText": "かんごし",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "あの人は看護師です。",
+      "reading": "あのひとわかんごしです。",
+      "translation": "那个人是护士。"
+    }
+  },
+  {
+    "writing": "店員",
+    "reading": "てんいん",
+    "meaning": "店员",
+    "pos": "名詞",
+    "collocation": "店員です",
+    "note": "",
+    "audioText": "てんいん",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "あの人は店員です。",
+      "reading": "あのひとわてんいんです。",
+      "translation": "那个人是店员。"
+    }
+  },
+  {
+    "writing": "警察官",
+    "reading": "けいさつかん",
+    "meaning": "警察",
+    "pos": "名詞",
+    "collocation": "警察官です",
+    "note": "",
+    "audioText": "けいさつかん",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "あの人は警察官です。",
+      "reading": "あのひとわけいさつかんです。",
+      "translation": "那个人是警察。"
+    }
+  },
+  {
+    "writing": "運転手",
+    "reading": "うんてんしゅ",
+    "meaning": "司机",
+    "pos": "名詞",
+    "collocation": "運転手です",
+    "note": "",
+    "audioText": "うんてんしゅ",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "あの人は運転手です。",
+      "reading": "あのひとわうんてんしゅです。",
+      "translation": "那个人是司机。"
+    }
+  },
+  {
+    "writing": "美容師",
+    "reading": "びようし",
+    "meaning": "美发师",
+    "pos": "名詞",
+    "collocation": "美容師です",
+    "note": "",
+    "audioText": "びようし",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "あの人は美容師です。",
+      "reading": "あのひとわびようしです。",
+      "translation": "那个人是美发师。"
+    }
+  },
+  {
+    "writing": "主婦",
+    "reading": "しゅふ",
+    "meaning": "家庭主妇",
+    "pos": "名詞",
+    "collocation": "主婦です",
+    "note": "通常指以家务为主要工作的已婚女性；男性可称「主夫」。",
+    "audioText": "しゅふ",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "あの人は主婦です。",
+      "reading": "あのひとわしゅふです。",
+      "translation": "那个人是家庭主妇。"
+    }
+  },
+  {
+    "writing": "小学生",
+    "reading": "しょうがくせい",
+    "meaning": "小学生",
+    "pos": "名詞",
+    "collocation": "小学生です",
+    "note": "",
+    "audioText": "しょうがくせい",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "あの人は小学生です。",
+      "reading": "あのひとわしょうがくせいです。",
+      "translation": "那个人是小学生。"
+    }
+  },
+  {
+    "writing": "中学生",
+    "reading": "ちゅうがくせい",
+    "meaning": "初中生",
+    "pos": "名詞",
+    "collocation": "中学生です",
+    "note": "",
+    "audioText": "ちゅうがくせい",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "あの人は中学生です。",
+      "reading": "あのひとわちゅうがくせいです。",
+      "translation": "那个人是初中生。"
+    }
+  },
+  {
+    "writing": "高校生",
+    "reading": "こうこうせい",
+    "meaning": "高中生",
+    "pos": "名詞",
+    "collocation": "高校生です",
+    "note": "",
+    "audioText": "こうこうせい",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "あの人は高校生です。",
+      "reading": "あのひとわこうこうせいです。",
+      "translation": "那个人是高中生。"
+    }
+  },
+  {
+    "writing": "大学生",
+    "reading": "だいがくせい",
+    "meaning": "大学生",
+    "pos": "名詞",
+    "collocation": "大学生です",
+    "note": "",
+    "audioText": "だいがくせい",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "あの人は大学生です。",
+      "reading": "あのひとわだいがくせいです。",
+      "translation": "那个人是大学生。"
+    }
+  },
+  {
+    "writing": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "外国人",
+    "pos": "名詞",
+    "collocation": "外国人です",
+    "note": "",
+    "audioText": "がいこくじん",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "あの人は外国人です。",
+      "reading": "あのひとわがいこくじんです。",
+      "translation": "那个人是外国人。"
+    }
+  },
+  {
+    "writing": "日本人",
+    "reading": "にほんじん",
+    "meaning": "日本人",
+    "pos": "名詞",
+    "collocation": "日本人です",
+    "note": "",
+    "audioText": "にほんじん",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "あの人は日本人です。",
+      "reading": "あのひとわにほんじんです。",
+      "translation": "那个人是日本人。"
+    }
+  },
+  {
+    "writing": "中国人",
+    "reading": "ちゅうごくじん",
+    "meaning": "中国人",
+    "pos": "名詞",
+    "collocation": "中国人です",
+    "note": "",
+    "audioText": "ちゅうごくじん",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "あの人は中国人です。",
+      "reading": "あのひとわちゅうごくじんです。",
+      "translation": "那个人是中国人。"
+    }
+  },
+  {
+    "writing": "客",
+    "reading": "きゃく",
+    "meaning": "客人",
+    "pos": "名詞",
+    "collocation": "客です",
+    "note": "敬称常用「お客さん」。",
+    "audioText": "きゃく",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "あの人は客です。",
+      "reading": "あのひとわきゃくです。",
+      "translation": "那个人是客人。"
+    }
+  },
+  {
+    "writing": "社長",
+    "reading": "しゃちょう",
+    "meaning": "公司总经理；社长",
+    "pos": "名詞",
+    "collocation": "社長です",
+    "note": "",
+    "audioText": "しゃちょう",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "あの人は社長です。",
+      "reading": "あのひとわしゃちょうです。",
+      "translation": "那个人是公司的社长。"
+    }
+  },
+  {
+    "writing": "社員",
+    "reading": "しゃいん",
+    "meaning": "公司员工",
+    "pos": "名詞",
+    "collocation": "社員です",
+    "note": "",
+    "audioText": "しゃいん",
+    "category": "人物与关系",
+    "group": "职业与身份",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "あの人は社員です。",
+      "reading": "あのひとわしゃいんです。",
+      "translation": "那个人是公司员工。"
+    }
+  },
+  {
+    "writing": "結婚",
+    "reading": "けっこん",
+    "meaning": "结婚",
+    "pos": "名詞",
+    "collocation": "結婚をする",
+    "note": "",
+    "audioText": "けっこん",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "結婚について話しました。",
+      "reading": "けっこんについてはなしました。",
+      "translation": "谈了关于结婚的事。"
+    }
+  },
+  {
+    "writing": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "生日",
+    "pos": "名詞",
+    "collocation": "誕生日を祝う",
+    "note": "",
+    "audioText": "たんじょうび",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "誕生日について話しました。",
+      "reading": "たんじょうびについてはなしました。",
+      "translation": "谈了关于生日的事。"
+    }
+  },
+  {
+    "writing": "年齢",
+    "reading": "ねんれい",
+    "meaning": "年龄",
+    "pos": "名詞",
+    "collocation": "年齢を聞く",
+    "note": "",
+    "audioText": "ねんれい",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "年齢について話しました。",
+      "reading": "ねんれいについてはなしました。",
+      "translation": "谈了关于年龄的事。"
+    }
+  },
+  {
+    "writing": "生活",
+    "reading": "せいかつ",
+    "meaning": "生活",
+    "pos": "名詞",
+    "collocation": "生活について話す",
+    "note": "",
+    "audioText": "せいかつ",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "生活について話しました。",
+      "reading": "せいかつについてはなしました。",
+      "translation": "谈了关于生活的事。"
+    }
+  },
+  {
+    "writing": "約束",
+    "reading": "やくそく",
+    "meaning": "约定",
+    "pos": "名詞",
+    "collocation": "約束を守る",
+    "note": "",
+    "audioText": "やくそく",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "約束について話しました。",
+      "reading": "やくそくについてはなしました。",
+      "translation": "谈了关于约定的事。"
+    }
+  },
+  {
+    "writing": "連絡",
+    "reading": "れんらく",
+    "meaning": "联系",
+    "pos": "名詞",
+    "collocation": "連絡をする",
+    "note": "",
+    "audioText": "れんらく",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "連絡について話しました。",
+      "reading": "れんらくについてはなしました。",
+      "translation": "谈了关于联系的事。"
+    }
+  },
+  {
+    "writing": "相談",
+    "reading": "そうだん",
+    "meaning": "商量；咨询",
+    "pos": "名詞",
+    "collocation": "先生に相談する",
+    "note": "",
+    "audioText": "そうだん",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "先生に相談をします。",
+      "reading": "せんせいにそうだんをします。",
+      "translation": "向老师请教。"
+    }
+  },
+  {
+    "writing": "自己紹介",
+    "reading": "じこしょうかい",
+    "meaning": "自我介绍",
+    "pos": "名詞",
+    "collocation": "自己紹介をする",
+    "note": "",
+    "audioText": "じこしょうかい",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "自己紹介について話しました。",
+      "reading": "じこしょうかいについてはなしました。",
+      "translation": "谈了关于自我介绍的事。"
+    }
+  },
+  {
+    "writing": "挨拶",
+    "reading": "あいさつ",
+    "meaning": "问候",
+    "pos": "名詞",
+    "collocation": "挨拶をする",
+    "note": "",
+    "audioText": "あいさつ",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "挨拶について話しました。",
+      "reading": "あいさつについてはなしました。",
+      "translation": "谈了关于问候的事。"
+    }
+  },
+  {
+    "writing": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "住址",
+    "pos": "名詞",
+    "collocation": "住所を書く",
+    "note": "",
+    "audioText": "じゅうしょ",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "住所について話しました。",
+      "reading": "じゅうしょについてはなしました。",
+      "translation": "谈了关于住址的事。"
+    }
+  },
+  {
+    "writing": "故郷",
+    "reading": "ふるさと",
+    "meaning": "故乡",
+    "pos": "名詞",
+    "collocation": "故郷について話す",
+    "note": "",
+    "audioText": "ふるさと",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "故郷について話しました。",
+      "reading": "ふるさとについてはなしました。",
+      "translation": "谈了关于故乡的事。"
+    }
+  },
+  {
+    "writing": "経験",
+    "reading": "けいけん",
+    "meaning": "经验",
+    "pos": "名詞",
+    "collocation": "経験がある",
+    "note": "",
+    "audioText": "けいけん",
+    "category": "人物与关系",
+    "group": "人生与交往",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "経験について話しました。",
+      "reading": "けいけんについてはなしました。",
+      "translation": "谈了关于经验的事。"
+    }
+  },
+  {
+    "writing": "体",
+    "reading": "からだ",
+    "meaning": "身体",
+    "pos": "名詞",
+    "collocation": "体を動かす",
+    "note": "",
+    "audioText": "からだ",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "体を動かします。",
+      "reading": "からだおうごかします。",
+      "translation": "活动身体。"
+    }
+  },
+  {
+    "writing": "頭",
+    "reading": "あたま",
+    "meaning": "头",
+    "pos": "名詞",
+    "collocation": "頭が痛い",
+    "note": "",
+    "audioText": "あたま",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "頭が痛いです。",
+      "reading": "あたまがいたいです。",
+      "translation": "头疼。"
+    }
+  },
+  {
+    "writing": "髪",
+    "reading": "かみ",
+    "meaning": "头发",
+    "pos": "名詞",
+    "collocation": "髪を洗う",
+    "note": "",
+    "audioText": "かみ",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "髪を洗います。",
+      "reading": "かみおあらいます。",
+      "translation": "洗头发。"
+    }
+  },
+  {
+    "writing": "目",
+    "reading": "め",
+    "meaning": "眼睛",
+    "pos": "名詞",
+    "collocation": "目を閉じる",
+    "note": "",
+    "audioText": "め",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "目を閉じてください。",
+      "reading": "めおとじてください。",
+      "translation": "请闭上眼睛。"
+    }
+  },
+  {
+    "writing": "耳",
+    "reading": "みみ",
+    "meaning": "耳朵",
+    "pos": "名詞",
+    "collocation": "耳が痛い",
+    "note": "",
+    "audioText": "みみ",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "耳が痛いです。",
+      "reading": "みみがいたいです。",
+      "translation": "耳朵疼。"
+    }
+  },
+  {
+    "writing": "鼻",
+    "reading": "はな",
+    "meaning": "鼻子",
+    "pos": "名詞",
+    "collocation": "鼻をかむ",
+    "note": "",
+    "audioText": "はな",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "鼻をかみます。",
+      "reading": "はなおかみます。",
+      "translation": "擤鼻涕。"
+    }
+  },
+  {
+    "writing": "口",
+    "reading": "くち",
+    "meaning": "嘴",
+    "pos": "名詞",
+    "collocation": "口を開ける",
+    "note": "",
+    "audioText": "くち",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "口を開けてください。",
+      "reading": "くちおあけてください。",
+      "translation": "请张开嘴。"
+    }
+  },
+  {
+    "writing": "歯",
+    "reading": "は",
+    "meaning": "牙齿",
+    "pos": "名詞",
+    "collocation": "歯を磨く",
+    "note": "",
+    "audioText": "は",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "歯を磨きます。",
+      "reading": "はおみがきます。",
+      "translation": "刷牙。"
+    }
+  },
+  {
+    "writing": "首",
+    "reading": "くび",
+    "meaning": "脖子",
+    "pos": "名詞",
+    "collocation": "首が痛い",
+    "note": "",
+    "audioText": "くび",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "首が痛いです。",
+      "reading": "くびがいたいです。",
+      "translation": "脖子疼。"
+    }
+  },
+  {
+    "writing": "肩",
+    "reading": "かた",
+    "meaning": "肩膀",
+    "pos": "名詞",
+    "collocation": "肩が痛い",
+    "note": "",
+    "audioText": "かた",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "肩が痛いです。",
+      "reading": "かたがいたいです。",
+      "translation": "肩膀疼。"
+    }
+  },
+  {
+    "writing": "腕",
+    "reading": "うで",
+    "meaning": "手臂",
+    "pos": "名詞",
+    "collocation": "腕を上げる",
+    "note": "",
+    "audioText": "うで",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "腕を上げてください。",
+      "reading": "うでおあげてください。",
+      "translation": "请抬起手臂。"
+    }
+  },
+  {
+    "writing": "指",
+    "reading": "ゆび",
+    "meaning": "手指",
+    "pos": "名詞",
+    "collocation": "指で示す",
+    "note": "",
+    "audioText": "ゆび",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "指が痛いです。",
+      "reading": "ゆびがいたいです。",
+      "translation": "手指疼。"
+    }
+  },
+  {
+    "writing": "足",
+    "reading": "あし",
+    "meaning": "脚；腿",
+    "pos": "名詞",
+    "collocation": "足が痛い",
+    "note": "",
+    "audioText": "あし",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "足が痛いです。",
+      "reading": "あしがいたいです。",
+      "translation": "腿脚疼。"
+    }
+  },
+  {
+    "writing": "膝",
+    "reading": "ひざ",
+    "meaning": "膝盖",
+    "pos": "名詞",
+    "collocation": "膝を曲げる",
+    "note": "",
+    "audioText": "ひざ",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "膝を曲げてください。",
+      "reading": "ひざおまげてください。",
+      "translation": "请弯曲膝盖。"
+    }
+  },
+  {
+    "writing": "背中",
+    "reading": "せなか",
+    "meaning": "背部",
+    "pos": "名詞",
+    "collocation": "背中が痛い",
+    "note": "",
+    "audioText": "せなか",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "背中が痛いです。",
+      "reading": "せなかがいたいです。",
+      "translation": "背部疼。"
+    }
+  },
+  {
+    "writing": "お腹",
+    "reading": "おなか",
+    "meaning": "肚子",
+    "pos": "名詞",
+    "collocation": "お腹がすく",
+    "note": "",
+    "audioText": "おなか",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "お腹がすきました。",
+      "reading": "おなかがすきました。",
+      "translation": "肚子饿了。"
+    }
+  },
+  {
+    "writing": "胸",
+    "reading": "むね",
+    "meaning": "胸部",
+    "pos": "名詞",
+    "collocation": "胸が痛い",
+    "note": "",
+    "audioText": "むね",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "胸が痛いです。",
+      "reading": "むねがいたいです。",
+      "translation": "胸口疼。"
+    }
+  },
+  {
+    "writing": "腰",
+    "reading": "こし",
+    "meaning": "腰",
+    "pos": "名詞",
+    "collocation": "腰が痛い",
+    "note": "",
+    "audioText": "こし",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "腰が痛いです。",
+      "reading": "こしがいたいです。",
+      "translation": "腰疼。"
+    }
+  },
+  {
+    "writing": "爪",
+    "reading": "つめ",
+    "meaning": "指甲",
+    "pos": "名詞",
+    "collocation": "爪を切る",
+    "note": "",
+    "audioText": "つめ",
+    "category": "身体与健康",
+    "group": "身体部位",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "爪を切ります。",
+      "reading": "つめおきります。",
+      "translation": "剪指甲。"
+    }
+  },
+  {
+    "writing": "病気",
+    "reading": "びょうき",
+    "meaning": "疾病",
+    "pos": "名詞",
+    "collocation": "病気になる",
+    "note": "",
+    "audioText": "びょうき",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "病気になりました。",
+      "reading": "びょうきになりました。",
+      "translation": "我生病了。"
+    }
+  },
+  {
+    "writing": "風邪",
+    "reading": "かぜ",
+    "meaning": "感冒",
+    "pos": "名詞",
+    "collocation": "風邪をひく",
+    "note": "",
+    "audioText": "かぜ",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "風邪をひきました。",
+      "reading": "かぜをひきました。",
+      "translation": "我感冒了。"
+    }
+  },
+  {
+    "writing": "熱",
+    "reading": "ねつ",
+    "meaning": "发烧；热度",
+    "pos": "名詞",
+    "collocation": "熱がある",
+    "note": "",
+    "audioText": "ねつ",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "熱があります。",
+      "reading": "ねつがあります。",
+      "translation": "我发烧了。"
+    }
+  },
+  {
+    "writing": "咳",
+    "reading": "せき",
+    "meaning": "咳嗽",
+    "pos": "名詞",
+    "collocation": "咳が出る",
+    "note": "",
+    "audioText": "せき",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "咳が出ます。",
+      "reading": "せきがでます。",
+      "translation": "我咳嗽。"
+    }
+  },
+  {
+    "writing": "頭痛",
+    "reading": "ずつう",
+    "meaning": "头痛",
+    "pos": "名詞",
+    "collocation": "頭痛がする",
+    "note": "",
+    "audioText": "ずつう",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "頭痛がします。",
+      "reading": "ずつうがします。",
+      "translation": "我头疼。"
+    }
+  },
+  {
+    "writing": "けが",
+    "reading": "けが",
+    "meaning": "受伤",
+    "pos": "名詞",
+    "collocation": "けがをする",
+    "note": "",
+    "audioText": "けが",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "足にけがをしました。",
+      "reading": "あしにけがをしました。",
+      "translation": "我的脚受伤了。"
+    }
+  },
+  {
+    "writing": "薬",
+    "reading": "くすり",
+    "meaning": "药",
+    "pos": "名詞",
+    "collocation": "薬を飲む",
+    "note": "",
+    "audioText": "くすり",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この薬はいつ飲みますか。",
+      "reading": "このくすりわいつのみますか。",
+      "translation": "这个药什么时候吃？"
+    }
+  },
+  {
+    "writing": "診察",
+    "reading": "しんさつ",
+    "meaning": "诊察",
+    "pos": "名詞",
+    "collocation": "診察を受ける",
+    "note": "",
+    "audioText": "しんさつ",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "診察をお願いします。",
+      "reading": "しんさつをおねがいします。",
+      "translation": "请帮我安排看诊。"
+    }
+  },
+  {
+    "writing": "検査",
+    "reading": "けんさ",
+    "meaning": "检查",
+    "pos": "名詞",
+    "collocation": "検査を受ける",
+    "note": "",
+    "audioText": "けんさ",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "検査は必要ですか。",
+      "reading": "けんさわひつようですか。",
+      "translation": "需要检查吗？"
+    }
+  },
+  {
+    "writing": "健康",
+    "reading": "けんこう",
+    "meaning": "健康",
+    "pos": "名詞",
+    "collocation": "健康を守る",
+    "note": "",
+    "audioText": "けんこう",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "健康のために毎日歩きます。",
+      "reading": "けんこうのためにまいにちあるきます。",
+      "translation": "为了健康，我每天走路。"
+    }
+  },
+  {
+    "writing": "睡眠",
+    "reading": "すいみん",
+    "meaning": "睡眠",
+    "pos": "名詞",
+    "collocation": "睡眠をとる",
+    "note": "",
+    "audioText": "すいみん",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "睡眠が足りません。",
+      "reading": "すいみんがたりません。",
+      "translation": "睡眠不足。"
+    }
+  },
+  {
+    "writing": "運動",
+    "reading": "うんどう",
+    "meaning": "运动",
+    "pos": "名詞",
+    "collocation": "運動をする",
+    "note": "",
+    "audioText": "うんどう",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "毎日、少し運動します。",
+      "reading": "まいにちすこしうんどうします。",
+      "translation": "每天稍微运动一下。"
+    }
+  },
+  {
+    "writing": "体温",
+    "reading": "たいおん",
+    "meaning": "体温",
+    "pos": "名詞",
+    "collocation": "体温を測る",
+    "note": "",
+    "audioText": "たいおん",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "体温を測ります。",
+      "reading": "たいおんをはかります。",
+      "translation": "量体温。"
+    }
+  },
+  {
+    "writing": "アレルギー",
+    "reading": "あれるぎー",
+    "meaning": "过敏",
+    "pos": "名詞",
+    "collocation": "アレルギーがある",
+    "note": "",
+    "audioText": "あれるぎー",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "卵のアレルギーがあります。",
+      "reading": "たまごのあれるぎーがあります。",
+      "translation": "我对鸡蛋过敏。"
+    }
+  },
+  {
+    "writing": "ストレス",
+    "reading": "すとれす",
+    "meaning": "压力",
+    "pos": "名詞",
+    "collocation": "ストレスを感じる",
+    "note": "",
+    "audioText": "すとれす",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "仕事でストレスを感じます。",
+      "reading": "しごとですとれすをかんじます。",
+      "translation": "工作让我感到压力。"
+    }
+  },
+  {
+    "writing": "歯医者",
+    "reading": "はいしゃ",
+    "meaning": "牙医",
+    "pos": "名詞",
+    "collocation": "歯医者に行く",
+    "note": "",
+    "audioText": "はいしゃ",
+    "category": "身体与健康",
+    "group": "健康与就诊",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "歯医者に行きたいです。",
+      "reading": "はいしゃにいきたいです。",
+      "translation": "我想去看牙医。"
+    }
+  },
+  {
+    "writing": "シャツ",
+    "reading": "しゃつ",
+    "meaning": "衬衫",
+    "pos": "名詞",
+    "collocation": "シャツを着る",
+    "note": "",
+    "audioText": "しゃつ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "シャツを買いました。",
+      "reading": "しゃつおかいました。",
+      "translation": "买了衬衫。"
+    }
+  },
+  {
+    "writing": "Ｔシャツ",
+    "reading": "てぃーしゃつ",
+    "meaning": "T恤",
+    "pos": "名詞",
+    "collocation": "Ｔシャツを着る",
+    "note": "",
+    "audioText": "てぃーしゃつ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "Ｔシャツを買いました。",
+      "reading": "てぃーしゃつおかいました。",
+      "translation": "买了T恤。"
+    }
+  },
+  {
+    "writing": "ズボン",
+    "reading": "ずぼん",
+    "meaning": "裤子",
+    "pos": "名詞",
+    "collocation": "ズボンを履く",
+    "note": "",
+    "audioText": "ずぼん",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ズボンを買いました。",
+      "reading": "ずぼんおかいました。",
+      "translation": "买了裤子。"
+    }
+  },
+  {
+    "writing": "スカート",
+    "reading": "すかーと",
+    "meaning": "裙子",
+    "pos": "名詞",
+    "collocation": "スカートを履く",
+    "note": "",
+    "audioText": "すかーと",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "スカートを買いました。",
+      "reading": "すかーとおかいました。",
+      "translation": "买了裙子。"
+    }
+  },
+  {
+    "writing": "ワンピース",
+    "reading": "わんぴーす",
+    "meaning": "连衣裙",
+    "pos": "名詞",
+    "collocation": "ワンピースを着る",
+    "note": "",
+    "audioText": "わんぴーす",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ワンピースを買いました。",
+      "reading": "わんぴーすおかいました。",
+      "translation": "买了连衣裙。"
+    }
+  },
+  {
+    "writing": "コート",
+    "reading": "こーと",
+    "meaning": "大衣",
+    "pos": "名詞",
+    "collocation": "コートを着る",
+    "note": "",
+    "audioText": "こーと",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "コートを買いました。",
+      "reading": "こーとおかいました。",
+      "translation": "买了大衣。"
+    }
+  },
+  {
+    "writing": "上着",
+    "reading": "うわぎ",
+    "meaning": "外套",
+    "pos": "名詞",
+    "collocation": "上着を着る",
+    "note": "",
+    "audioText": "うわぎ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "上着を買いました。",
+      "reading": "うわぎおかいました。",
+      "translation": "买了外套。"
+    }
+  },
+  {
+    "writing": "セーター",
+    "reading": "せーたー",
+    "meaning": "毛衣",
+    "pos": "名詞",
+    "collocation": "セーターを着る",
+    "note": "",
+    "audioText": "せーたー",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "セーターを買いました。",
+      "reading": "せーたーおかいました。",
+      "translation": "买了毛衣。"
+    }
+  },
+  {
+    "writing": "ジャケット",
+    "reading": "じゃけっと",
+    "meaning": "夹克",
+    "pos": "名詞",
+    "collocation": "ジャケットを着る",
+    "note": "",
+    "audioText": "じゃけっと",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ジャケットを買いました。",
+      "reading": "じゃけっとおかいました。",
+      "translation": "买了夹克。"
+    }
+  },
+  {
+    "writing": "スーツ",
+    "reading": "すーつ",
+    "meaning": "西装",
+    "pos": "名詞",
+    "collocation": "スーツを着る",
+    "note": "",
+    "audioText": "すーつ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "スーツを買いました。",
+      "reading": "すーつおかいました。",
+      "translation": "买了西装。"
+    }
+  },
+  {
+    "writing": "下着",
+    "reading": "したぎ",
+    "meaning": "内衣",
+    "pos": "名詞",
+    "collocation": "下着を着る",
+    "note": "",
+    "audioText": "したぎ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "下着を買いました。",
+      "reading": "したぎおかいました。",
+      "translation": "买了内衣。"
+    }
+  },
+  {
+    "writing": "靴下",
+    "reading": "くつした",
+    "meaning": "袜子",
+    "pos": "名詞",
+    "collocation": "靴下を履く",
+    "note": "",
+    "audioText": "くつした",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "靴下を買いました。",
+      "reading": "くつしたおかいました。",
+      "translation": "买了袜子。"
+    }
+  },
+  {
+    "writing": "帽子",
+    "reading": "ぼうし",
+    "meaning": "帽子",
+    "pos": "名詞",
+    "collocation": "帽子をかぶる",
+    "note": "",
+    "audioText": "ぼうし",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "帽子を買いました。",
+      "reading": "ぼうしおかいました。",
+      "translation": "买了帽子。"
+    }
+  },
+  {
+    "writing": "手袋",
+    "reading": "てぶくろ",
+    "meaning": "手套",
+    "pos": "名詞",
+    "collocation": "手袋をする",
+    "note": "",
+    "audioText": "てぶくろ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "手袋を買いました。",
+      "reading": "てぶくろおかいました。",
+      "translation": "买了手套。"
+    }
+  },
+  {
+    "writing": "マフラー",
+    "reading": "まふらー",
+    "meaning": "围巾",
+    "pos": "名詞",
+    "collocation": "マフラーを巻く",
+    "note": "",
+    "audioText": "まふらー",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "マフラーを買いました。",
+      "reading": "まふらーおかいました。",
+      "translation": "买了围巾。"
+    }
+  },
+  {
+    "writing": "ネクタイ",
+    "reading": "ねくたい",
+    "meaning": "领带",
+    "pos": "名詞",
+    "collocation": "ネクタイを締める",
+    "note": "",
+    "audioText": "ねくたい",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ネクタイを買いました。",
+      "reading": "ねくたいおかいました。",
+      "translation": "买了领带。"
+    }
+  },
+  {
+    "writing": "ベルト",
+    "reading": "べると",
+    "meaning": "皮带",
+    "pos": "名詞",
+    "collocation": "ベルトを締める",
+    "note": "",
+    "audioText": "べると",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ベルトを買いました。",
+      "reading": "べるとおかいました。",
+      "translation": "买了皮带。"
+    }
+  },
+  {
+    "writing": "スリッパ",
+    "reading": "すりっぱ",
+    "meaning": "拖鞋",
+    "pos": "名詞",
+    "collocation": "スリッパを履く",
+    "note": "",
+    "audioText": "すりっぱ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "スリッパを買いました。",
+      "reading": "すりっぱおかいました。",
+      "translation": "买了拖鞋。"
+    }
+  },
+  {
+    "writing": "サンダル",
+    "reading": "さんだる",
+    "meaning": "凉鞋",
+    "pos": "名詞",
+    "collocation": "サンダルを履く",
+    "note": "",
+    "audioText": "さんだる",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "サンダルを買いました。",
+      "reading": "さんだるおかいました。",
+      "translation": "买了凉鞋。"
+    }
+  },
+  {
+    "writing": "ブーツ",
+    "reading": "ぶーつ",
+    "meaning": "靴子",
+    "pos": "名詞",
+    "collocation": "ブーツを履く",
+    "note": "",
+    "audioText": "ぶーつ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ブーツを買いました。",
+      "reading": "ぶーつおかいました。",
+      "translation": "买了靴子。"
+    }
+  },
+  {
+    "writing": "パジャマ",
+    "reading": "ぱじゃま",
+    "meaning": "睡衣",
+    "pos": "名詞",
+    "collocation": "パジャマを着る",
+    "note": "",
+    "audioText": "ぱじゃま",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "パジャマを買いました。",
+      "reading": "ぱじゃまおかいました。",
+      "translation": "买了睡衣。"
+    }
+  },
+  {
+    "writing": "制服",
+    "reading": "せいふく",
+    "meaning": "制服",
+    "pos": "名詞",
+    "collocation": "制服を着る",
+    "note": "",
+    "audioText": "せいふく",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "制服を買いました。",
+      "reading": "せいふくおかいました。",
+      "translation": "买了制服。"
+    }
+  },
+  {
+    "writing": "指輪",
+    "reading": "ゆびわ",
+    "meaning": "戒指",
+    "pos": "名詞",
+    "collocation": "指輪をはめる",
+    "note": "",
+    "audioText": "ゆびわ",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "指輪を買いました。",
+      "reading": "ゆびわおかいました。",
+      "translation": "买了戒指。"
+    }
+  },
+  {
+    "writing": "ハンカチ",
+    "reading": "はんかち",
+    "meaning": "手帕",
+    "pos": "名詞",
+    "collocation": "ハンカチで拭く",
+    "note": "",
+    "audioText": "はんかち",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ハンカチを買いました。",
+      "reading": "はんかちおかいました。",
+      "translation": "买了手帕。"
+    }
+  },
+  {
+    "writing": "タオル",
+    "reading": "たおる",
+    "meaning": "毛巾",
+    "pos": "名詞",
+    "collocation": "タオルで拭く",
+    "note": "",
+    "audioText": "たおる",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "タオルを買いました。",
+      "reading": "たおるおかいました。",
+      "translation": "买了毛巾。"
+    }
+  },
+  {
+    "writing": "リュック",
+    "reading": "りゅっく",
+    "meaning": "背包",
+    "pos": "名詞",
+    "collocation": "リュックを背負う",
+    "note": "",
+    "audioText": "りゅっく",
+    "category": "居家与用品",
+    "group": "衣物与配饰",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "リュックを買いました。",
+      "reading": "りゅっくおかいました。",
+      "translation": "买了背包。"
+    }
+  },
+  {
+    "writing": "玄関",
+    "reading": "げんかん",
+    "meaning": "玄关",
+    "pos": "名詞",
+    "collocation": "玄関で靴を脱ぐ",
+    "note": "",
+    "audioText": "げんかん",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは玄関です。",
+      "reading": "これわげんかんです。",
+      "translation": "这是玄关。"
+    }
+  },
+  {
+    "writing": "台所",
+    "reading": "だいどころ",
+    "meaning": "厨房",
+    "pos": "名詞",
+    "collocation": "台所で料理をする",
+    "note": "",
+    "audioText": "だいどころ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは台所です。",
+      "reading": "これわだいどころです。",
+      "translation": "这是厨房。"
+    }
+  },
+  {
+    "writing": "風呂",
+    "reading": "ふろ",
+    "meaning": "浴室；洗澡",
+    "pos": "名詞",
+    "collocation": "風呂に入る",
+    "note": "",
+    "audioText": "ふろ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "風呂に入ります。",
+      "reading": "ふろにはいります。",
+      "translation": "去洗澡。"
+    }
+  },
+  {
+    "writing": "浴室",
+    "reading": "よくしつ",
+    "meaning": "浴室",
+    "pos": "名詞",
+    "collocation": "浴室を掃除する",
+    "note": "",
+    "audioText": "よくしつ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "これは浴室です。",
+      "reading": "これわよくしつです。",
+      "translation": "这是浴室。"
+    }
+  },
+  {
+    "writing": "廊下",
+    "reading": "ろうか",
+    "meaning": "走廊",
+    "pos": "名詞",
+    "collocation": "廊下を歩く",
+    "note": "",
+    "audioText": "ろうか",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは廊下です。",
+      "reading": "これわろうかです。",
+      "translation": "这是走廊。"
+    }
+  },
+  {
+    "writing": "階段",
+    "reading": "かいだん",
+    "meaning": "楼梯",
+    "pos": "名詞",
+    "collocation": "階段を上る",
+    "note": "",
+    "audioText": "かいだん",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは階段です。",
+      "reading": "これわかいだんです。",
+      "translation": "这是楼梯。"
+    }
+  },
+  {
+    "writing": "屋根",
+    "reading": "やね",
+    "meaning": "屋顶",
+    "pos": "名詞",
+    "collocation": "屋根の上",
+    "note": "",
+    "audioText": "やね",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "これは屋根です。",
+      "reading": "これわやねです。",
+      "translation": "这是屋顶。"
+    }
+  },
+  {
+    "writing": "壁",
+    "reading": "かべ",
+    "meaning": "墙壁",
+    "pos": "名詞",
+    "collocation": "壁に写真を貼る",
+    "note": "",
+    "audioText": "かべ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "壁に写真を貼ります。",
+      "reading": "かべにしゃしんおはります。",
+      "translation": "在墙上贴照片。"
+    }
+  },
+  {
+    "writing": "床",
+    "reading": "ゆか",
+    "meaning": "地板",
+    "pos": "名詞",
+    "collocation": "床を掃除する",
+    "note": "",
+    "audioText": "ゆか",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは床です。",
+      "reading": "これわゆかです。",
+      "translation": "这是地板。"
+    }
+  },
+  {
+    "writing": "天井",
+    "reading": "てんじょう",
+    "meaning": "天花板",
+    "pos": "名詞",
+    "collocation": "天井を見る",
+    "note": "",
+    "audioText": "てんじょう",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "これは天井です。",
+      "reading": "これわてんじょうです。",
+      "translation": "这是天花板。"
+    }
+  },
+  {
+    "writing": "庭",
+    "reading": "にわ",
+    "meaning": "庭院",
+    "pos": "名詞",
+    "collocation": "庭に花を植える",
+    "note": "",
+    "audioText": "にわ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは庭です。",
+      "reading": "これわにわです。",
+      "translation": "这是庭院。"
+    }
+  },
+  {
+    "writing": "ベランダ",
+    "reading": "べらんだ",
+    "meaning": "阳台",
+    "pos": "名詞",
+    "collocation": "ベランダに出る",
+    "note": "",
+    "audioText": "べらんだ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これはベランダです。",
+      "reading": "これわべらんだです。",
+      "translation": "这是阳台。"
+    }
+  },
+  {
+    "writing": "居間",
+    "reading": "いま",
+    "meaning": "起居室",
+    "pos": "名詞",
+    "collocation": "居間で休む",
+    "note": "",
+    "audioText": "いま",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "これは居間です。",
+      "reading": "これわいまです。",
+      "translation": "这是起居室。"
+    }
+  },
+  {
+    "writing": "寝室",
+    "reading": "しんしつ",
+    "meaning": "卧室",
+    "pos": "名詞",
+    "collocation": "寝室で寝る",
+    "note": "",
+    "audioText": "しんしつ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは寝室です。",
+      "reading": "これわしんしつです。",
+      "translation": "这是卧室。"
+    }
+  },
+  {
+    "writing": "テーブル",
+    "reading": "てーぶる",
+    "meaning": "桌子",
+    "pos": "名詞",
+    "collocation": "テーブルに置く",
+    "note": "",
+    "audioText": "てーぶる",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "これはテーブルです。",
+      "reading": "これわてーぶるです。",
+      "translation": "这是桌子。"
+    }
+  },
+  {
+    "writing": "ソファ",
+    "reading": "そふぁ",
+    "meaning": "沙发",
+    "pos": "名詞",
+    "collocation": "ソファに座る",
+    "note": "",
+    "audioText": "そふぁ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これはソファです。",
+      "reading": "これわそふぁです。",
+      "translation": "这是沙发。"
+    }
+  },
+  {
+    "writing": "ベッド",
+    "reading": "べっど",
+    "meaning": "床",
+    "pos": "名詞",
+    "collocation": "ベッドで寝る",
+    "note": "",
+    "audioText": "べっど",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "これはベッドです。",
+      "reading": "これわべっどです。",
+      "translation": "这是床。"
+    }
+  },
+  {
+    "writing": "布団",
+    "reading": "ふとん",
+    "meaning": "被褥",
+    "pos": "名詞",
+    "collocation": "布団を敷く",
+    "note": "",
+    "audioText": "ふとん",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは布団です。",
+      "reading": "これわふとんです。",
+      "translation": "这是被褥。"
+    }
+  },
+  {
+    "writing": "枕",
+    "reading": "まくら",
+    "meaning": "枕头",
+    "pos": "名詞",
+    "collocation": "枕を使う",
+    "note": "",
+    "audioText": "まくら",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "これは枕です。",
+      "reading": "これわまくらです。",
+      "translation": "这是枕头。"
+    }
+  },
+  {
+    "writing": "毛布",
+    "reading": "もうふ",
+    "meaning": "毯子",
+    "pos": "名詞",
+    "collocation": "毛布をかける",
+    "note": "",
+    "audioText": "もうふ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "これは毛布です。",
+      "reading": "これわもうふです。",
+      "translation": "这是毯子。"
+    }
+  },
+  {
+    "writing": "棚",
+    "reading": "たな",
+    "meaning": "架子",
+    "pos": "名詞",
+    "collocation": "棚に置く",
+    "note": "",
+    "audioText": "たな",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは棚です。",
+      "reading": "これわたなです。",
+      "translation": "这是架子。"
+    }
+  },
+  {
+    "writing": "引き出し",
+    "reading": "ひきだし",
+    "meaning": "抽屉",
+    "pos": "名詞",
+    "collocation": "引き出しを開ける",
+    "note": "",
+    "audioText": "ひきだし",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは引き出しです。",
+      "reading": "これわひきだしです。",
+      "translation": "这是抽屉。"
+    }
+  },
+  {
+    "writing": "本棚",
+    "reading": "ほんだな",
+    "meaning": "书架",
+    "pos": "名詞",
+    "collocation": "本棚に本を並べる",
+    "note": "",
+    "audioText": "ほんだな",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは本棚です。",
+      "reading": "これわほんだなです。",
+      "translation": "这是书架。"
+    }
+  },
+  {
+    "writing": "鏡",
+    "reading": "かがみ",
+    "meaning": "镜子",
+    "pos": "名詞",
+    "collocation": "鏡を見る",
+    "note": "",
+    "audioText": "かがみ",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これは鏡です。",
+      "reading": "これわかがみです。",
+      "translation": "这是镜子。"
+    }
+  },
+  {
+    "writing": "カーテン",
+    "reading": "かーてん",
+    "meaning": "窗帘",
+    "pos": "名詞",
+    "collocation": "カーテンを開ける",
+    "note": "",
+    "audioText": "かーてん",
+    "category": "居家与用品",
+    "group": "房屋与家具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "これはカーテンです。",
+      "reading": "これわかーてんです。",
+      "translation": "这是窗帘。"
+    }
+  },
+  {
+    "writing": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "冰箱",
+    "pos": "名詞",
+    "collocation": "冷蔵庫に入れる",
+    "note": "",
+    "audioText": "れいぞうこ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "冷蔵庫を買いました。",
+      "reading": "れいぞうこおかいました。",
+      "translation": "买了冰箱。"
+    }
+  },
+  {
+    "writing": "洗濯機",
+    "reading": "せんたくき",
+    "meaning": "洗衣机",
+    "pos": "名詞",
+    "collocation": "洗濯機を使う",
+    "note": "",
+    "audioText": "せんたくき",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "洗濯機を買いました。",
+      "reading": "せんたくきおかいました。",
+      "translation": "买了洗衣机。"
+    }
+  },
+  {
+    "writing": "電子レンジ",
+    "reading": "でんしれんじ",
+    "meaning": "微波炉",
+    "pos": "名詞",
+    "collocation": "電子レンジで温める",
+    "note": "",
+    "audioText": "でんしれんじ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "電子レンジを買いました。",
+      "reading": "でんしれんじおかいました。",
+      "translation": "买了微波炉。"
+    }
+  },
+  {
+    "writing": "炊飯器",
+    "reading": "すいはんき",
+    "meaning": "电饭煲",
+    "pos": "名詞",
+    "collocation": "炊飯器でご飯を炊く",
+    "note": "",
+    "audioText": "すいはんき",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "炊飯器を買いました。",
+      "reading": "すいはんきおかいました。",
+      "translation": "买了电饭煲。"
+    }
+  },
+  {
+    "writing": "掃除機",
+    "reading": "そうじき",
+    "meaning": "吸尘器",
+    "pos": "名詞",
+    "collocation": "掃除機をかける",
+    "note": "",
+    "audioText": "そうじき",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "掃除機を買いました。",
+      "reading": "そうじきおかいました。",
+      "translation": "买了吸尘器。"
+    }
+  },
+  {
+    "writing": "エアコン",
+    "reading": "えあこん",
+    "meaning": "空调",
+    "pos": "名詞",
+    "collocation": "エアコンをつける",
+    "note": "",
+    "audioText": "えあこん",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "エアコンを買いました。",
+      "reading": "えあこんおかいました。",
+      "translation": "买了空调。"
+    }
+  },
+  {
+    "writing": "扇風機",
+    "reading": "せんぷうき",
+    "meaning": "电风扇",
+    "pos": "名詞",
+    "collocation": "扇風機をつける",
+    "note": "",
+    "audioText": "せんぷうき",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "扇風機を買いました。",
+      "reading": "せんぷうきおかいました。",
+      "translation": "买了电风扇。"
+    }
+  },
+  {
+    "writing": "暖房",
+    "reading": "だんぼう",
+    "meaning": "暖气设备",
+    "pos": "名詞",
+    "collocation": "暖房をつける",
+    "note": "",
+    "audioText": "だんぼう",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "暖房をつけます。",
+      "reading": "だんぼうおつけます。",
+      "translation": "打开暖气。"
+    }
+  },
+  {
+    "writing": "電気",
+    "reading": "でんき",
+    "meaning": "电；电灯",
+    "pos": "名詞",
+    "collocation": "電気をつける",
+    "note": "",
+    "audioText": "でんき",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "電気をつけてください。",
+      "reading": "でんきおつけてください。",
+      "translation": "请把灯打开。"
+    }
+  },
+  {
+    "writing": "電池",
+    "reading": "でんち",
+    "meaning": "电池",
+    "pos": "名詞",
+    "collocation": "電池を交換する",
+    "note": "",
+    "audioText": "でんち",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "電池を買いました。",
+      "reading": "でんちおかいました。",
+      "translation": "买了电池。"
+    }
+  },
+  {
+    "writing": "充電器",
+    "reading": "じゅうでんき",
+    "meaning": "充电器",
+    "pos": "名詞",
+    "collocation": "充電器を使う",
+    "note": "",
+    "audioText": "じゅうでんき",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "充電器を買いました。",
+      "reading": "じゅうでんきおかいました。",
+      "translation": "买了充电器。"
+    }
+  },
+  {
+    "writing": "リモコン",
+    "reading": "りもこん",
+    "meaning": "遥控器",
+    "pos": "名詞",
+    "collocation": "リモコンで操作する",
+    "note": "",
+    "audioText": "りもこん",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "リモコンを買いました。",
+      "reading": "りもこんおかいました。",
+      "translation": "买了遥控器。"
+    }
+  },
+  {
+    "writing": "洗剤",
+    "reading": "せんざい",
+    "meaning": "洗涤剂",
+    "pos": "名詞",
+    "collocation": "洗剤で洗う",
+    "note": "",
+    "audioText": "せんざい",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "洗剤を買いました。",
+      "reading": "せんざいおかいました。",
+      "translation": "买了洗涤剂。"
+    }
+  },
+  {
+    "writing": "石鹸",
+    "reading": "せっけん",
+    "meaning": "肥皂",
+    "pos": "名詞",
+    "collocation": "石鹸で手を洗う",
+    "note": "",
+    "audioText": "せっけん",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "石鹸を買いました。",
+      "reading": "せっけんおかいました。",
+      "translation": "买了肥皂。"
+    }
+  },
+  {
+    "writing": "シャンプー",
+    "reading": "しゃんぷー",
+    "meaning": "洗发水",
+    "pos": "名詞",
+    "collocation": "シャンプーで髪を洗う",
+    "note": "",
+    "audioText": "しゃんぷー",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "シャンプーを買いました。",
+      "reading": "しゃんぷーおかいました。",
+      "translation": "买了洗发水。"
+    }
+  },
+  {
+    "writing": "歯ブラシ",
+    "reading": "はぶらし",
+    "meaning": "牙刷",
+    "pos": "名詞",
+    "collocation": "歯ブラシを使う",
+    "note": "",
+    "audioText": "はぶらし",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "歯ブラシを買いました。",
+      "reading": "はぶらしおかいました。",
+      "translation": "买了牙刷。"
+    }
+  },
+  {
+    "writing": "歯磨き粉",
+    "reading": "はみがきこ",
+    "meaning": "牙膏",
+    "pos": "名詞",
+    "collocation": "歯磨き粉をつける",
+    "note": "",
+    "audioText": "はみがきこ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "歯磨き粉を買いました。",
+      "reading": "はみがきこおかいました。",
+      "translation": "买了牙膏。"
+    }
+  },
+  {
+    "writing": "ティッシュ",
+    "reading": "てぃっしゅ",
+    "meaning": "纸巾",
+    "pos": "名詞",
+    "collocation": "ティッシュで拭く",
+    "note": "",
+    "audioText": "てぃっしゅ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "ティッシュを買いました。",
+      "reading": "てぃっしゅおかいました。",
+      "translation": "买了纸巾。"
+    }
+  },
+  {
+    "writing": "ゴミ袋",
+    "reading": "ごみぶくろ",
+    "meaning": "垃圾袋",
+    "pos": "名詞",
+    "collocation": "ゴミ袋に入れる",
+    "note": "",
+    "audioText": "ごみぶくろ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "ゴミ袋を買いました。",
+      "reading": "ごみぶくろおかいました。",
+      "translation": "买了垃圾袋。"
+    }
+  },
+  {
+    "writing": "袋",
+    "reading": "ふくろ",
+    "meaning": "袋子",
+    "pos": "名詞",
+    "collocation": "袋に入れる",
+    "note": "",
+    "audioText": "ふくろ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "袋を買いました。",
+      "reading": "ふくろおかいました。",
+      "translation": "买了袋子。"
+    }
+  },
+  {
+    "writing": "はさみ",
+    "reading": "はさみ",
+    "meaning": "剪刀",
+    "pos": "名詞",
+    "collocation": "はさみで切る",
+    "note": "",
+    "audioText": "はさみ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "はさみを買いました。",
+      "reading": "はさみおかいました。",
+      "translation": "买了剪刀。"
+    }
+  },
+  {
+    "writing": "のり",
+    "reading": "のり",
+    "meaning": "胶水",
+    "pos": "名詞",
+    "collocation": "のりで貼る",
+    "note": "",
+    "audioText": "のり",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "のりを買いました。",
+      "reading": "のりおかいました。",
+      "translation": "买了胶水。"
+    }
+  },
+  {
+    "writing": "テープ",
+    "reading": "てーぷ",
+    "meaning": "胶带",
+    "pos": "名詞",
+    "collocation": "テープでとめる",
+    "note": "",
+    "audioText": "てーぷ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "テープを買いました。",
+      "reading": "てーぷおかいました。",
+      "translation": "买了胶带。"
+    }
+  },
+  {
+    "writing": "封筒",
+    "reading": "ふうとう",
+    "meaning": "信封",
+    "pos": "名詞",
+    "collocation": "封筒に入れる",
+    "note": "",
+    "audioText": "ふうとう",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "封筒を買いました。",
+      "reading": "ふうとうおかいました。",
+      "translation": "买了信封。"
+    }
+  },
+  {
+    "writing": "切手",
+    "reading": "きって",
+    "meaning": "邮票",
+    "pos": "名詞",
+    "collocation": "切手を貼る",
+    "note": "",
+    "audioText": "きって",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "切手を買いました。",
+      "reading": "きっておかいました。",
+      "translation": "买了邮票。"
+    }
+  },
+  {
+    "writing": "ボールペン",
+    "reading": "ぼーるぺん",
+    "meaning": "圆珠笔",
+    "pos": "名詞",
+    "collocation": "ボールペンで書く",
+    "note": "",
+    "audioText": "ぼーるぺん",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "ボールペンを買いました。",
+      "reading": "ぼーるぺんおかいました。",
+      "translation": "买了圆珠笔。"
+    }
+  },
+  {
+    "writing": "定規",
+    "reading": "じょうぎ",
+    "meaning": "尺子",
+    "pos": "名詞",
+    "collocation": "定規で線を引く",
+    "note": "",
+    "audioText": "じょうぎ",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "定規を買いました。",
+      "reading": "じょうぎおかいました。",
+      "translation": "买了尺子。"
+    }
+  },
+  {
+    "writing": "カレンダー",
+    "reading": "かれんだー",
+    "meaning": "日历",
+    "pos": "名詞",
+    "collocation": "カレンダーを見る",
+    "note": "",
+    "audioText": "かれんだー",
+    "category": "居家与用品",
+    "group": "家电与生活用品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "カレンダーを買いました。",
+      "reading": "かれんだーおかいました。",
+      "translation": "买了日历。"
+    }
+  },
+  {
+    "writing": "皿",
+    "reading": "さら",
+    "meaning": "盘子",
+    "pos": "名詞",
+    "collocation": "皿に盛る",
+    "note": "",
+    "audioText": "さら",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "皿を買いました。",
+      "reading": "さらおかいました。",
+      "translation": "买了盘子。"
+    }
+  },
+  {
+    "writing": "茶碗",
+    "reading": "ちゃわん",
+    "meaning": "饭碗",
+    "pos": "名詞",
+    "collocation": "茶碗にご飯を入れる",
+    "note": "",
+    "audioText": "ちゃわん",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "茶碗を買いました。",
+      "reading": "ちゃわんおかいました。",
+      "translation": "买了饭碗。"
+    }
+  },
+  {
+    "writing": "コップ",
+    "reading": "こっぷ",
+    "meaning": "杯子",
+    "pos": "名詞",
+    "collocation": "コップに水を入れる",
+    "note": "",
+    "audioText": "こっぷ",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "コップを買いました。",
+      "reading": "こっぷおかいました。",
+      "translation": "买了杯子。"
+    }
+  },
+  {
+    "writing": "カップ",
+    "reading": "かっぷ",
+    "meaning": "杯子；带柄杯",
+    "pos": "名詞",
+    "collocation": "カップに注ぐ",
+    "note": "",
+    "audioText": "かっぷ",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "カップを買いました。",
+      "reading": "かっぷおかいました。",
+      "translation": "买了一个带柄的杯子。"
+    }
+  },
+  {
+    "writing": "箸",
+    "reading": "はし",
+    "meaning": "筷子",
+    "pos": "名詞",
+    "collocation": "箸で食べる",
+    "note": "",
+    "audioText": "はし",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "箸を買いました。",
+      "reading": "はしおかいました。",
+      "translation": "买了筷子。"
+    }
+  },
+  {
+    "writing": "スプーン",
+    "reading": "すぷーん",
+    "meaning": "勺子",
+    "pos": "名詞",
+    "collocation": "スプーンで食べる",
+    "note": "",
+    "audioText": "すぷーん",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "スプーンを買いました。",
+      "reading": "すぷーんおかいました。",
+      "translation": "买了勺子。"
+    }
+  },
+  {
+    "writing": "フォーク",
+    "reading": "ふぉーく",
+    "meaning": "叉子",
+    "pos": "名詞",
+    "collocation": "フォークで食べる",
+    "note": "",
+    "audioText": "ふぉーく",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "フォークを買いました。",
+      "reading": "ふぉーくおかいました。",
+      "translation": "买了叉子。"
+    }
+  },
+  {
+    "writing": "ナイフ",
+    "reading": "ないふ",
+    "meaning": "餐刀",
+    "pos": "名詞",
+    "collocation": "ナイフで切る",
+    "note": "",
+    "audioText": "ないふ",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ナイフを買いました。",
+      "reading": "ないふおかいました。",
+      "translation": "买了餐刀。"
+    }
+  },
+  {
+    "writing": "包丁",
+    "reading": "ほうちょう",
+    "meaning": "菜刀",
+    "pos": "名詞",
+    "collocation": "包丁で切る",
+    "note": "",
+    "audioText": "ほうちょう",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "包丁を買いました。",
+      "reading": "ほうちょうおかいました。",
+      "translation": "买了菜刀。"
+    }
+  },
+  {
+    "writing": "鍋",
+    "reading": "なべ",
+    "meaning": "锅",
+    "pos": "名詞",
+    "collocation": "鍋で煮る",
+    "note": "",
+    "audioText": "なべ",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "鍋を買いました。",
+      "reading": "なべおかいました。",
+      "translation": "买了锅。"
+    }
+  },
+  {
+    "writing": "フライパン",
+    "reading": "ふらいぱん",
+    "meaning": "平底锅",
+    "pos": "名詞",
+    "collocation": "フライパンで焼く",
+    "note": "",
+    "audioText": "ふらいぱん",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "フライパンを買いました。",
+      "reading": "ふらいぱんおかいました。",
+      "translation": "买了平底锅。"
+    }
+  },
+  {
+    "writing": "やかん",
+    "reading": "やかん",
+    "meaning": "烧水壶",
+    "pos": "名詞",
+    "collocation": "やかんでお湯を沸かす",
+    "note": "",
+    "audioText": "やかん",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "やかんを買いました。",
+      "reading": "やかんおかいました。",
+      "translation": "买了烧水壶。"
+    }
+  },
+  {
+    "writing": "まな板",
+    "reading": "まないた",
+    "meaning": "切菜板",
+    "pos": "名詞",
+    "collocation": "まな板の上で切る",
+    "note": "",
+    "audioText": "まないた",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "まな板を買いました。",
+      "reading": "まないたおかいました。",
+      "translation": "买了切菜板。"
+    }
+  },
+  {
+    "writing": "食器",
+    "reading": "しょっき",
+    "meaning": "餐具",
+    "pos": "名詞",
+    "collocation": "食器を洗う",
+    "note": "",
+    "audioText": "しょっき",
+    "category": "居家与用品",
+    "group": "餐具与厨具",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "食器を買いました。",
+      "reading": "しょっきおかいました。",
+      "translation": "买了餐具。"
+    }
+  },
+  {
+    "writing": "米",
+    "reading": "こめ",
+    "meaning": "大米",
+    "pos": "名詞",
+    "collocation": "米を買う",
+    "note": "",
+    "audioText": "こめ",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "米を買いました。",
+      "reading": "こめおかいました。",
+      "translation": "买了大米。"
+    }
+  },
+  {
+    "writing": "麺",
+    "reading": "めん",
+    "meaning": "面条",
+    "pos": "名詞",
+    "collocation": "麺を買う",
+    "note": "",
+    "audioText": "めん",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "麺を買いました。",
+      "reading": "めんおかいました。",
+      "translation": "买了面条。"
+    }
+  },
+  {
+    "writing": "うどん",
+    "reading": "うどん",
+    "meaning": "乌冬面",
+    "pos": "名詞",
+    "collocation": "うどんを買う",
+    "note": "",
+    "audioText": "うどん",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "うどんを買いました。",
+      "reading": "うどんおかいました。",
+      "translation": "买了乌冬面。"
+    }
+  },
+  {
+    "writing": "そば",
+    "reading": "そば",
+    "meaning": "荞麦面",
+    "pos": "名詞",
+    "collocation": "そばを買う",
+    "note": "",
+    "audioText": "そば",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "そばを買いました。",
+      "reading": "そばおかいました。",
+      "translation": "买了荞麦面。"
+    }
+  },
+  {
+    "writing": "ラーメン",
+    "reading": "らーめん",
+    "meaning": "拉面",
+    "pos": "名詞",
+    "collocation": "ラーメンを買う",
+    "note": "",
+    "audioText": "らーめん",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ラーメンを買いました。",
+      "reading": "らーめんおかいました。",
+      "translation": "买了拉面。"
+    }
+  },
+  {
+    "writing": "パスタ",
+    "reading": "ぱすた",
+    "meaning": "意大利面",
+    "pos": "名詞",
+    "collocation": "パスタを買う",
+    "note": "",
+    "audioText": "ぱすた",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "パスタを買いました。",
+      "reading": "ぱすたおかいました。",
+      "translation": "买了意大利面。"
+    }
+  },
+  {
+    "writing": "寿司",
+    "reading": "すし",
+    "meaning": "寿司",
+    "pos": "名詞",
+    "collocation": "寿司を買う",
+    "note": "",
+    "audioText": "すし",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "寿司を買いました。",
+      "reading": "すしおかいました。",
+      "translation": "买了寿司。"
+    }
+  },
+  {
+    "writing": "おにぎり",
+    "reading": "おにぎり",
+    "meaning": "饭团",
+    "pos": "名詞",
+    "collocation": "おにぎりを買う",
+    "note": "",
+    "audioText": "おにぎり",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "おにぎりを買いました。",
+      "reading": "おにぎりおかいました。",
+      "translation": "买了饭团。"
+    }
+  },
+  {
+    "writing": "弁当",
+    "reading": "べんとう",
+    "meaning": "便当",
+    "pos": "名詞",
+    "collocation": "弁当を買う",
+    "note": "",
+    "audioText": "べんとう",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "弁当を買いました。",
+      "reading": "べんとうおかいました。",
+      "translation": "买了便当。"
+    }
+  },
+  {
+    "writing": "カレー",
+    "reading": "かれー",
+    "meaning": "咖喱",
+    "pos": "名詞",
+    "collocation": "カレーを買う",
+    "note": "",
+    "audioText": "かれー",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "カレーを買いました。",
+      "reading": "かれーおかいました。",
+      "translation": "买了咖喱。"
+    }
+  },
+  {
+    "writing": "スープ",
+    "reading": "すーぷ",
+    "meaning": "汤",
+    "pos": "名詞",
+    "collocation": "スープを買う",
+    "note": "",
+    "audioText": "すーぷ",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "スープを買いました。",
+      "reading": "すーぷおかいました。",
+      "translation": "买了汤。"
+    }
+  },
+  {
+    "writing": "味噌汁",
+    "reading": "みそしる",
+    "meaning": "味噌汤",
+    "pos": "名詞",
+    "collocation": "味噌汁を買う",
+    "note": "",
+    "audioText": "みそしる",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "味噌汁を買いました。",
+      "reading": "みそしるおかいました。",
+      "translation": "买了味噌汤。"
+    }
+  },
+  {
+    "writing": "サラダ",
+    "reading": "さらだ",
+    "meaning": "沙拉",
+    "pos": "名詞",
+    "collocation": "サラダを買う",
+    "note": "",
+    "audioText": "さらだ",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "サラダを買いました。",
+      "reading": "さらだおかいました。",
+      "translation": "买了沙拉。"
+    }
+  },
+  {
+    "writing": "サンドイッチ",
+    "reading": "さんどいっち",
+    "meaning": "三明治",
+    "pos": "名詞",
+    "collocation": "サンドイッチを買う",
+    "note": "",
+    "audioText": "さんどいっち",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "サンドイッチを買いました。",
+      "reading": "さんどいっちおかいました。",
+      "translation": "买了三明治。"
+    }
+  },
+  {
+    "writing": "天ぷら",
+    "reading": "てんぷら",
+    "meaning": "天妇罗",
+    "pos": "名詞",
+    "collocation": "天ぷらを買う",
+    "note": "",
+    "audioText": "てんぷら",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "天ぷらを買いました。",
+      "reading": "てんぷらおかいました。",
+      "translation": "买了天妇罗。"
+    }
+  },
+  {
+    "writing": "餃子",
+    "reading": "ぎょうざ",
+    "meaning": "饺子",
+    "pos": "名詞",
+    "collocation": "餃子を買う",
+    "note": "",
+    "audioText": "ぎょうざ",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "餃子を買いました。",
+      "reading": "ぎょうざおかいました。",
+      "translation": "买了饺子。"
+    }
+  },
+  {
+    "writing": "焼き肉",
+    "reading": "やきにく",
+    "meaning": "烤肉",
+    "pos": "名詞",
+    "collocation": "焼き肉を買う",
+    "note": "",
+    "audioText": "やきにく",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "焼き肉を買いました。",
+      "reading": "やきにくおかいました。",
+      "translation": "买了烤肉。"
+    }
+  },
+  {
+    "writing": "ハンバーグ",
+    "reading": "はんばーぐ",
+    "meaning": "汉堡肉饼",
+    "pos": "名詞",
+    "collocation": "ハンバーグを買う",
+    "note": "",
+    "audioText": "はんばーぐ",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "ハンバーグを買いました。",
+      "reading": "はんばーぐおかいました。",
+      "translation": "买了汉堡肉饼。"
+    }
+  },
+  {
+    "writing": "ハンバーガー",
+    "reading": "はんばーがー",
+    "meaning": "汉堡包",
+    "pos": "名詞",
+    "collocation": "ハンバーガーを買う",
+    "note": "",
+    "audioText": "はんばーがー",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ハンバーガーを買いました。",
+      "reading": "はんばーがーおかいました。",
+      "translation": "买了汉堡包。"
+    }
+  },
+  {
+    "writing": "ピザ",
+    "reading": "ぴざ",
+    "meaning": "比萨饼",
+    "pos": "名詞",
+    "collocation": "ピザを買う",
+    "note": "",
+    "audioText": "ぴざ",
+    "category": "饮食与购物",
+    "group": "主食与常见菜肴",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ピザを買いました。",
+      "reading": "ぴざおかいました。",
+      "translation": "买了比萨饼。"
+    }
+  },
+  {
+    "writing": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "牛肉",
+    "pos": "名詞",
+    "collocation": "牛肉を買う",
+    "note": "",
+    "audioText": "ぎゅうにく",
+    "category": "饮食与购物",
+    "group": "肉类与海鲜",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "牛肉を買いました。",
+      "reading": "ぎゅうにくおかいました。",
+      "translation": "买了牛肉。"
+    }
+  },
+  {
+    "writing": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "猪肉",
+    "pos": "名詞",
+    "collocation": "豚肉を買う",
+    "note": "",
+    "audioText": "ぶたにく",
+    "category": "饮食与购物",
+    "group": "肉类与海鲜",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "豚肉を買いました。",
+      "reading": "ぶたにくおかいました。",
+      "translation": "买了猪肉。"
+    }
+  },
+  {
+    "writing": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "鸡肉",
+    "pos": "名詞",
+    "collocation": "鶏肉を買う",
+    "note": "",
+    "audioText": "とりにく",
+    "category": "饮食与购物",
+    "group": "肉类与海鲜",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "鶏肉を買いました。",
+      "reading": "とりにくおかいました。",
+      "translation": "买了鸡肉。"
+    }
+  },
+  {
+    "writing": "ハム",
+    "reading": "はむ",
+    "meaning": "火腿",
+    "pos": "名詞",
+    "collocation": "ハムを買う",
+    "note": "",
+    "audioText": "はむ",
+    "category": "饮食与购物",
+    "group": "肉类与海鲜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ハムを買いました。",
+      "reading": "はむおかいました。",
+      "translation": "买了火腿。"
+    }
+  },
+  {
+    "writing": "ソーセージ",
+    "reading": "そーせーじ",
+    "meaning": "香肠",
+    "pos": "名詞",
+    "collocation": "ソーセージを買う",
+    "note": "",
+    "audioText": "そーせーじ",
+    "category": "饮食与购物",
+    "group": "肉类与海鲜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ソーセージを買いました。",
+      "reading": "そーせーじおかいました。",
+      "translation": "买了香肠。"
+    }
+  },
+  {
+    "writing": "豆腐",
+    "reading": "とうふ",
+    "meaning": "豆腐",
+    "pos": "名詞",
+    "collocation": "豆腐を買う",
+    "note": "",
+    "audioText": "とうふ",
+    "category": "饮食与购物",
+    "group": "豆类与豆制品",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "豆腐を買いました。",
+      "reading": "とうふおかいました。",
+      "translation": "买了豆腐。"
+    }
+  },
+  {
+    "writing": "納豆",
+    "reading": "なっとう",
+    "meaning": "纳豆",
+    "pos": "名詞",
+    "collocation": "納豆を買う",
+    "note": "",
+    "audioText": "なっとう",
+    "category": "饮食与购物",
+    "group": "豆类与豆制品",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "納豆を買いました。",
+      "reading": "なっとうおかいました。",
+      "translation": "买了纳豆。"
+    }
+  },
+  {
+    "writing": "豆",
+    "reading": "まめ",
+    "meaning": "豆子",
+    "pos": "名詞",
+    "collocation": "豆を買う",
+    "note": "",
+    "audioText": "まめ",
+    "category": "饮食与购物",
+    "group": "豆类与豆制品",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "豆を買いました。",
+      "reading": "まめおかいました。",
+      "translation": "买了豆子。"
+    }
+  },
+  {
+    "writing": "じゃがいも",
+    "reading": "じゃがいも",
+    "meaning": "土豆",
+    "pos": "名詞",
+    "collocation": "じゃがいもを買う",
+    "note": "",
+    "audioText": "じゃがいも",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "じゃがいもを買いました。",
+      "reading": "じゃがいもおかいました。",
+      "translation": "买了土豆。"
+    }
+  },
+  {
+    "writing": "玉ねぎ",
+    "reading": "たまねぎ",
+    "meaning": "洋葱",
+    "pos": "名詞",
+    "collocation": "玉ねぎを買う",
+    "note": "",
+    "audioText": "たまねぎ",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "玉ねぎを買いました。",
+      "reading": "たまねぎおかいました。",
+      "translation": "买了洋葱。"
+    }
+  },
+  {
+    "writing": "にんじん",
+    "reading": "にんじん",
+    "meaning": "胡萝卜",
+    "pos": "名詞",
+    "collocation": "にんじんを買う",
+    "note": "",
+    "audioText": "にんじん",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "にんじんを買いました。",
+      "reading": "にんじんおかいました。",
+      "translation": "买了胡萝卜。"
+    }
+  },
+  {
+    "writing": "キャベツ",
+    "reading": "きゃべつ",
+    "meaning": "卷心菜",
+    "pos": "名詞",
+    "collocation": "キャベツを買う",
+    "note": "",
+    "audioText": "きゃべつ",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "キャベツを買いました。",
+      "reading": "きゃべつおかいました。",
+      "translation": "买了卷心菜。"
+    }
+  },
+  {
+    "writing": "白菜",
+    "reading": "はくさい",
+    "meaning": "大白菜",
+    "pos": "名詞",
+    "collocation": "白菜を買う",
+    "note": "",
+    "audioText": "はくさい",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "白菜を買いました。",
+      "reading": "はくさいおかいました。",
+      "translation": "买了大白菜。"
+    }
+  },
+  {
+    "writing": "レタス",
+    "reading": "れたす",
+    "meaning": "生菜",
+    "pos": "名詞",
+    "collocation": "レタスを買う",
+    "note": "",
+    "audioText": "れたす",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "レタスを買いました。",
+      "reading": "れたすおかいました。",
+      "translation": "买了生菜。"
+    }
+  },
+  {
+    "writing": "きゅうり",
+    "reading": "きゅうり",
+    "meaning": "黄瓜",
+    "pos": "名詞",
+    "collocation": "きゅうりを買う",
+    "note": "",
+    "audioText": "きゅうり",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "きゅうりを買いました。",
+      "reading": "きゅうりおかいました。",
+      "translation": "买了黄瓜。"
+    }
+  },
+  {
+    "writing": "トマト",
+    "reading": "とまと",
+    "meaning": "西红柿",
+    "pos": "名詞",
+    "collocation": "トマトを買う",
+    "note": "",
+    "audioText": "とまと",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "トマトを買いました。",
+      "reading": "とまとおかいました。",
+      "translation": "买了西红柿。"
+    }
+  },
+  {
+    "writing": "なす",
+    "reading": "なす",
+    "meaning": "茄子",
+    "pos": "名詞",
+    "collocation": "なすを買う",
+    "note": "",
+    "audioText": "なす",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "なすを買いました。",
+      "reading": "なすおかいました。",
+      "translation": "买了茄子。"
+    }
+  },
+  {
+    "writing": "大根",
+    "reading": "だいこん",
+    "meaning": "白萝卜",
+    "pos": "名詞",
+    "collocation": "大根を買う",
+    "note": "",
+    "audioText": "だいこん",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "大根を買いました。",
+      "reading": "だいこんおかいました。",
+      "translation": "买了白萝卜。"
+    }
+  },
+  {
+    "writing": "ほうれん草",
+    "reading": "ほうれんそう",
+    "meaning": "菠菜",
+    "pos": "名詞",
+    "collocation": "ほうれん草を買う",
+    "note": "",
+    "audioText": "ほうれんそう",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ほうれん草を買いました。",
+      "reading": "ほうれんそうおかいました。",
+      "translation": "买了菠菜。"
+    }
+  },
+  {
+    "writing": "ピーマン",
+    "reading": "ぴーまん",
+    "meaning": "青椒",
+    "pos": "名詞",
+    "collocation": "ピーマンを買う",
+    "note": "",
+    "audioText": "ぴーまん",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ピーマンを買いました。",
+      "reading": "ぴーまんおかいました。",
+      "translation": "买了青椒。"
+    }
+  },
+  {
+    "writing": "かぼちゃ",
+    "reading": "かぼちゃ",
+    "meaning": "南瓜",
+    "pos": "名詞",
+    "collocation": "かぼちゃを買う",
+    "note": "",
+    "audioText": "かぼちゃ",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "かぼちゃを買いました。",
+      "reading": "かぼちゃおかいました。",
+      "translation": "买了南瓜。"
+    }
+  },
+  {
+    "writing": "ねぎ",
+    "reading": "ねぎ",
+    "meaning": "葱",
+    "pos": "名詞",
+    "collocation": "ねぎを買う",
+    "note": "",
+    "audioText": "ねぎ",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "ねぎを買いました。",
+      "reading": "ねぎおかいました。",
+      "translation": "买了葱。"
+    }
+  },
+  {
+    "writing": "にんにく",
+    "reading": "にんにく",
+    "meaning": "大蒜",
+    "pos": "名詞",
+    "collocation": "にんにくを買う",
+    "note": "",
+    "audioText": "にんにく",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "にんにくを買いました。",
+      "reading": "にんにくおかいました。",
+      "translation": "买了大蒜。"
+    }
+  },
+  {
+    "writing": "しょうが",
+    "reading": "しょうが",
+    "meaning": "生姜",
+    "pos": "名詞",
+    "collocation": "しょうがを買う",
+    "note": "",
+    "audioText": "しょうが",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "しょうがを買いました。",
+      "reading": "しょうがおかいました。",
+      "translation": "买了生姜。"
+    }
+  },
+  {
+    "writing": "きのこ",
+    "reading": "きのこ",
+    "meaning": "蘑菇",
+    "pos": "名詞",
+    "collocation": "きのこを買う",
+    "note": "",
+    "audioText": "きのこ",
+    "category": "饮食与购物",
+    "group": "蔬菜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "きのこを買いました。",
+      "reading": "きのこおかいました。",
+      "translation": "买了蘑菇。"
+    }
+  },
+  {
+    "writing": "えび",
+    "reading": "えび",
+    "meaning": "虾",
+    "pos": "名詞",
+    "collocation": "えびを買う",
+    "note": "",
+    "audioText": "えび",
+    "category": "饮食与购物",
+    "group": "肉类与海鲜",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "えびを買いました。",
+      "reading": "えびおかいました。",
+      "translation": "买了虾。"
+    }
+  },
+  {
+    "writing": "みかん",
+    "reading": "みかん",
+    "meaning": "橘子",
+    "pos": "名詞",
+    "collocation": "みかんを買う",
+    "note": "",
+    "audioText": "みかん",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "みかんを買いました。",
+      "reading": "みかんおかいました。",
+      "translation": "买了橘子。"
+    }
+  },
+  {
+    "writing": "オレンジ",
+    "reading": "おれんじ",
+    "meaning": "橙子",
+    "pos": "名詞",
+    "collocation": "オレンジを買う",
+    "note": "",
+    "audioText": "おれんじ",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "オレンジを買いました。",
+      "reading": "おれんじおかいました。",
+      "translation": "买了橙子。"
+    }
+  },
+  {
+    "writing": "ぶどう",
+    "reading": "ぶどう",
+    "meaning": "葡萄",
+    "pos": "名詞",
+    "collocation": "ぶどうを買う",
+    "note": "",
+    "audioText": "ぶどう",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ぶどうを買いました。",
+      "reading": "ぶどうおかいました。",
+      "translation": "买了葡萄。"
+    }
+  },
+  {
+    "writing": "いちご",
+    "reading": "いちご",
+    "meaning": "草莓",
+    "pos": "名詞",
+    "collocation": "いちごを買う",
+    "note": "",
+    "audioText": "いちご",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "いちごを買いました。",
+      "reading": "いちごおかいました。",
+      "translation": "买了草莓。"
+    }
+  },
+  {
+    "writing": "桃",
+    "reading": "もも",
+    "meaning": "桃子",
+    "pos": "名詞",
+    "collocation": "桃を買う",
+    "note": "",
+    "audioText": "もも",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "桃を買いました。",
+      "reading": "ももおかいました。",
+      "translation": "买了桃子。"
+    }
+  },
+  {
+    "writing": "梨",
+    "reading": "なし",
+    "meaning": "梨",
+    "pos": "名詞",
+    "collocation": "梨を買う",
+    "note": "",
+    "audioText": "なし",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "梨を買いました。",
+      "reading": "なしおかいました。",
+      "translation": "买了梨。"
+    }
+  },
+  {
+    "writing": "すいか",
+    "reading": "すいか",
+    "meaning": "西瓜",
+    "pos": "名詞",
+    "collocation": "すいかを買う",
+    "note": "",
+    "audioText": "すいか",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "すいかを買いました。",
+      "reading": "すいかおかいました。",
+      "translation": "买了西瓜。"
+    }
+  },
+  {
+    "writing": "メロン",
+    "reading": "めろん",
+    "meaning": "甜瓜",
+    "pos": "名詞",
+    "collocation": "メロンを買う",
+    "note": "",
+    "audioText": "めろん",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "メロンを買いました。",
+      "reading": "めろんおかいました。",
+      "translation": "买了甜瓜。"
+    }
+  },
+  {
+    "writing": "レモン",
+    "reading": "れもん",
+    "meaning": "柠檬",
+    "pos": "名詞",
+    "collocation": "レモンを買う",
+    "note": "",
+    "audioText": "れもん",
+    "category": "饮食与购物",
+    "group": "水果",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "レモンを買いました。",
+      "reading": "れもんおかいました。",
+      "translation": "买了柠檬。"
+    }
+  },
+  {
+    "writing": "ケーキ",
+    "reading": "けーき",
+    "meaning": "蛋糕",
+    "pos": "名詞",
+    "collocation": "ケーキを買う",
+    "note": "",
+    "audioText": "けーき",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ケーキを買いました。",
+      "reading": "けーきおかいました。",
+      "translation": "买了蛋糕。"
+    }
+  },
+  {
+    "writing": "チョコレート",
+    "reading": "ちょこれーと",
+    "meaning": "巧克力",
+    "pos": "名詞",
+    "collocation": "チョコレートを買う",
+    "note": "",
+    "audioText": "ちょこれーと",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "チョコレートを買いました。",
+      "reading": "ちょこれーとおかいました。",
+      "translation": "买了巧克力。"
+    }
+  },
+  {
+    "writing": "アイスクリーム",
+    "reading": "あいすくりーむ",
+    "meaning": "冰淇淋",
+    "pos": "名詞",
+    "collocation": "アイスクリームを買う",
+    "note": "",
+    "audioText": "あいすくりーむ",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "アイスクリームを買いました。",
+      "reading": "あいすくりーむおかいました。",
+      "translation": "买了冰淇淋。"
+    }
+  },
+  {
+    "writing": "クッキー",
+    "reading": "くっきー",
+    "meaning": "曲奇饼干",
+    "pos": "名詞",
+    "collocation": "クッキーを買う",
+    "note": "",
+    "audioText": "くっきー",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "クッキーを買いました。",
+      "reading": "くっきーおかいました。",
+      "translation": "买了曲奇饼干。"
+    }
+  },
+  {
+    "writing": "飴",
+    "reading": "あめ",
+    "meaning": "糖果",
+    "pos": "名詞",
+    "collocation": "飴を買う",
+    "note": "",
+    "audioText": "あめ",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "飴を買いました。",
+      "reading": "あめおかいました。",
+      "translation": "买了糖果。"
+    }
+  },
+  {
+    "writing": "プリン",
+    "reading": "ぷりん",
+    "meaning": "布丁",
+    "pos": "名詞",
+    "collocation": "プリンを買う",
+    "note": "",
+    "audioText": "ぷりん",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "context",
+    "example": {
+      "text": "プリンを買いました。",
+      "reading": "ぷりんおかいました。",
+      "translation": "买了布丁。"
+    }
+  },
+  {
+    "writing": "ヨーグルト",
+    "reading": "よーぐると",
+    "meaning": "酸奶",
+    "pos": "名詞",
+    "collocation": "ヨーグルトを買う",
+    "note": "",
+    "audioText": "よーぐると",
+    "category": "饮食与购物",
+    "group": "乳制品",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ヨーグルトを買いました。",
+      "reading": "よーぐるとおかいました。",
+      "translation": "买了酸奶。"
+    }
+  },
+  {
+    "writing": "チーズ",
+    "reading": "ちーず",
+    "meaning": "奶酪",
+    "pos": "名詞",
+    "collocation": "チーズを買う",
+    "note": "",
+    "audioText": "ちーず",
+    "category": "饮食与购物",
+    "group": "乳制品",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "チーズを買いました。",
+      "reading": "ちーずおかいました。",
+      "translation": "买了奶酪。"
+    }
+  },
+  {
+    "writing": "バター",
+    "reading": "ばたー",
+    "meaning": "黄油",
+    "pos": "名詞",
+    "collocation": "バターを買う",
+    "note": "",
+    "audioText": "ばたー",
+    "category": "饮食与购物",
+    "group": "乳制品",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "バターを買いました。",
+      "reading": "ばたーおかいました。",
+      "translation": "买了黄油。"
+    }
+  },
+  {
+    "writing": "ジャム",
+    "reading": "じゃむ",
+    "meaning": "果酱",
+    "pos": "名詞",
+    "collocation": "ジャムを買う",
+    "note": "",
+    "audioText": "じゃむ",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 1,
+    "frequency": "medium",
+    "example": {
+      "text": "ジャムを買いました。",
+      "reading": "じゃむおかいました。",
+      "translation": "买了果酱。"
+    }
+  },
+  {
+    "writing": "はちみつ",
+    "reading": "はちみつ",
+    "meaning": "蜂蜜",
+    "pos": "名詞",
+    "collocation": "はちみつを買う",
+    "note": "",
+    "audioText": "はちみつ",
+    "category": "饮食与购物",
+    "group": "甜点与涂酱",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "はちみつを買いました。",
+      "reading": "はちみつおかいました。",
+      "translation": "买了蜂蜜。"
+    }
+  },
+  {
+    "writing": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "红茶",
+    "pos": "名詞",
+    "collocation": "紅茶を買う",
+    "note": "",
+    "audioText": "こうちゃ",
+    "category": "饮食与购物",
+    "group": "饮品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "紅茶を買いました。",
+      "reading": "こうちゃおかいました。",
+      "translation": "买了红茶。"
+    }
+  },
+  {
+    "writing": "緑茶",
+    "reading": "りょくちゃ",
+    "meaning": "绿茶",
+    "pos": "名詞",
+    "collocation": "緑茶を買う",
+    "note": "",
+    "audioText": "りょくちゃ",
+    "category": "饮食与购物",
+    "group": "饮品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "緑茶を買いました。",
+      "reading": "りょくちゃおかいました。",
+      "translation": "买了绿茶。"
+    }
+  },
+  {
+    "writing": "ジュース",
+    "reading": "じゅーす",
+    "meaning": "果汁",
+    "pos": "名詞",
+    "collocation": "ジュースを買う",
+    "note": "",
+    "audioText": "じゅーす",
+    "category": "饮食与购物",
+    "group": "饮品",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ジュースを買いました。",
+      "reading": "じゅーすおかいました。",
+      "translation": "买了果汁。"
+    }
+  },
+  {
+    "writing": "ビール",
+    "reading": "びーる",
+    "meaning": "啤酒",
+    "pos": "名詞",
+    "collocation": "ビールを買う",
+    "note": "",
+    "audioText": "びーる",
+    "category": "饮食与购物",
+    "group": "饮品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "ビールを買いました。",
+      "reading": "びーるおかいました。",
+      "translation": "买了啤酒。"
+    }
+  },
+  {
+    "writing": "ワイン",
+    "reading": "わいん",
+    "meaning": "葡萄酒",
+    "pos": "名詞",
+    "collocation": "ワインを買う",
+    "note": "",
+    "audioText": "わいん",
+    "category": "饮食与购物",
+    "group": "饮品",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "ワインを買いました。",
+      "reading": "わいんおかいました。",
+      "translation": "买了葡萄酒。"
+    }
+  },
+  {
+    "writing": "酒",
+    "reading": "さけ",
+    "meaning": "酒",
+    "pos": "名詞",
+    "collocation": "酒を買う",
+    "note": "",
+    "audioText": "さけ",
+    "category": "饮食与购物",
+    "group": "饮品",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "酒を買いました。",
+      "reading": "さけおかいました。",
+      "translation": "买了酒。"
+    }
+  },
+  {
+    "writing": "醤油",
+    "reading": "しょうゆ",
+    "meaning": "酱油",
+    "pos": "名詞",
+    "collocation": "醤油を買う",
+    "note": "",
+    "audioText": "しょうゆ",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "醤油を買いました。",
+      "reading": "しょうゆおかいました。",
+      "translation": "买了酱油。"
+    }
+  },
+  {
+    "writing": "味噌",
+    "reading": "みそ",
+    "meaning": "味噌",
+    "pos": "名詞",
+    "collocation": "味噌を買う",
+    "note": "",
+    "audioText": "みそ",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "味噌を買いました。",
+      "reading": "みそおかいました。",
+      "translation": "买了味噌。"
+    }
+  },
+  {
+    "writing": "酢",
+    "reading": "す",
+    "meaning": "醋",
+    "pos": "名詞",
+    "collocation": "酢を買う",
+    "note": "",
+    "audioText": "す",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "酢を買いました。",
+      "reading": "すおかいました。",
+      "translation": "买了醋。"
+    }
+  },
+  {
+    "writing": "油",
+    "reading": "あぶら",
+    "meaning": "油",
+    "pos": "名詞",
+    "collocation": "油を買う",
+    "note": "",
+    "audioText": "あぶら",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "油を買いました。",
+      "reading": "あぶらおかいました。",
+      "translation": "买了油。"
+    }
+  },
+  {
+    "writing": "胡椒",
+    "reading": "こしょう",
+    "meaning": "胡椒",
+    "pos": "名詞",
+    "collocation": "胡椒を買う",
+    "note": "",
+    "audioText": "こしょう",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "胡椒を買いました。",
+      "reading": "こしょうおかいました。",
+      "translation": "买了胡椒。"
+    }
+  },
+  {
+    "writing": "ソース",
+    "reading": "そーす",
+    "meaning": "酱汁",
+    "pos": "名詞",
+    "collocation": "ソースを買う",
+    "note": "",
+    "audioText": "そーす",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "ソースを買いました。",
+      "reading": "そーすおかいました。",
+      "translation": "买了酱汁。"
+    }
+  },
+  {
+    "writing": "マヨネーズ",
+    "reading": "まよねーず",
+    "meaning": "蛋黄酱",
+    "pos": "名詞",
+    "collocation": "マヨネーズを買う",
+    "note": "",
+    "audioText": "まよねーず",
+    "category": "饮食与购物",
+    "group": "调味料",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "マヨネーズを買いました。",
+      "reading": "まよねーずおかいました。",
+      "translation": "买了蛋黄酱。"
+    }
+  },
+  {
+    "writing": "鳥",
+    "reading": "とり",
+    "meaning": "鸟",
+    "pos": "名詞",
+    "collocation": "鳥が鳴く",
+    "note": "",
+    "audioText": "とり",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "鳥の写真を見ました。",
+      "reading": "とりのしゃしんおみました。",
+      "translation": "看了鸟的照片。"
+    }
+  },
+  {
+    "writing": "馬",
+    "reading": "うま",
+    "meaning": "马",
+    "pos": "名詞",
+    "collocation": "馬の写真",
+    "note": "",
+    "audioText": "うま",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "馬の写真を見ました。",
+      "reading": "うまのしゃしんおみました。",
+      "translation": "看了马的照片。"
+    }
+  },
+  {
+    "writing": "牛",
+    "reading": "うし",
+    "meaning": "牛",
+    "pos": "名詞",
+    "collocation": "牛の写真",
+    "note": "",
+    "audioText": "うし",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "牛の写真を見ました。",
+      "reading": "うしのしゃしんおみました。",
+      "translation": "看了牛的照片。"
+    }
+  },
+  {
+    "writing": "豚",
+    "reading": "ぶた",
+    "meaning": "猪",
+    "pos": "名詞",
+    "collocation": "豚の写真",
+    "note": "",
+    "audioText": "ぶた",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "豚の写真を見ました。",
+      "reading": "ぶたのしゃしんおみました。",
+      "translation": "看了猪的照片。"
+    }
+  },
+  {
+    "writing": "羊",
+    "reading": "ひつじ",
+    "meaning": "羊",
+    "pos": "名詞",
+    "collocation": "羊の写真",
+    "note": "",
+    "audioText": "ひつじ",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "羊の写真を見ました。",
+      "reading": "ひつじのしゃしんおみました。",
+      "translation": "看了羊的照片。"
+    }
+  },
+  {
+    "writing": "鶏",
+    "reading": "にわとり",
+    "meaning": "鸡",
+    "pos": "名詞",
+    "collocation": "鶏の写真",
+    "note": "",
+    "audioText": "にわとり",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "鶏の写真を見ました。",
+      "reading": "にわとりのしゃしんおみました。",
+      "translation": "看了鸡的照片。"
+    }
+  },
+  {
+    "writing": "うさぎ",
+    "reading": "うさぎ",
+    "meaning": "兔子",
+    "pos": "名詞",
+    "collocation": "うさぎの写真",
+    "note": "",
+    "audioText": "うさぎ",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "うさぎの写真を見ました。",
+      "reading": "うさぎのしゃしんおみました。",
+      "translation": "看了兔子的照片。"
+    }
+  },
+  {
+    "writing": "猿",
+    "reading": "さる",
+    "meaning": "猴子",
+    "pos": "名詞",
+    "collocation": "猿の写真",
+    "note": "",
+    "audioText": "さる",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "猿の写真を見ました。",
+      "reading": "さるのしゃしんおみました。",
+      "translation": "看了猴子的照片。"
+    }
+  },
+  {
+    "writing": "熊",
+    "reading": "くま",
+    "meaning": "熊",
+    "pos": "名詞",
+    "collocation": "熊の写真",
+    "note": "",
+    "audioText": "くま",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "熊の写真を見ました。",
+      "reading": "くまのしゃしんおみました。",
+      "translation": "看了熊的照片。"
+    }
+  },
+  {
+    "writing": "ライオン",
+    "reading": "らいおん",
+    "meaning": "狮子",
+    "pos": "名詞",
+    "collocation": "ライオンの写真",
+    "note": "",
+    "audioText": "らいおん",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "ライオンの写真を見ました。",
+      "reading": "らいおんのしゃしんおみました。",
+      "translation": "看了狮子的照片。"
+    }
+  },
+  {
+    "writing": "パンダ",
+    "reading": "ぱんだ",
+    "meaning": "熊猫",
+    "pos": "名詞",
+    "collocation": "パンダの写真",
+    "note": "",
+    "audioText": "ぱんだ",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "パンダの写真を見ました。",
+      "reading": "ぱんだのしゃしんおみました。",
+      "translation": "看了熊猫的照片。"
+    }
+  },
+  {
+    "writing": "かめ",
+    "reading": "かめ",
+    "meaning": "乌龟",
+    "pos": "名詞",
+    "collocation": "かめの写真",
+    "note": "",
+    "audioText": "かめ",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "かめの写真を見ました。",
+      "reading": "かめのしゃしんおみました。",
+      "translation": "看了乌龟的照片。"
+    }
+  },
+  {
+    "writing": "へび",
+    "reading": "へび",
+    "meaning": "蛇",
+    "pos": "名詞",
+    "collocation": "へびの写真",
+    "note": "",
+    "audioText": "へび",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "へびの写真を見ました。",
+      "reading": "へびのしゃしんおみました。",
+      "translation": "看了蛇的照片。"
+    }
+  },
+  {
+    "writing": "かえる",
+    "reading": "かえる",
+    "meaning": "青蛙",
+    "pos": "名詞",
+    "collocation": "かえるの写真",
+    "note": "",
+    "audioText": "かえる",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "かえるの写真を見ました。",
+      "reading": "かえるのしゃしんおみました。",
+      "translation": "看了青蛙的照片。"
+    }
+  },
+  {
+    "writing": "虫",
+    "reading": "むし",
+    "meaning": "虫子",
+    "pos": "名詞",
+    "collocation": "虫がいる",
+    "note": "",
+    "audioText": "むし",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "虫の写真を見ました。",
+      "reading": "むしのしゃしんおみました。",
+      "translation": "看了虫子的照片。"
+    }
+  },
+  {
+    "writing": "蝶",
+    "reading": "ちょう",
+    "meaning": "蝴蝶",
+    "pos": "名詞",
+    "collocation": "蝶の写真",
+    "note": "",
+    "audioText": "ちょう",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "蝶の写真を見ました。",
+      "reading": "ちょうのしゃしんおみました。",
+      "translation": "看了蝴蝶的照片。"
+    }
+  },
+  {
+    "writing": "ペット",
+    "reading": "ぺっと",
+    "meaning": "宠物",
+    "pos": "名詞",
+    "collocation": "ペットを飼う",
+    "note": "",
+    "audioText": "ぺっと",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "ペットの写真を見ました。",
+      "reading": "ぺっとのしゃしんおみました。",
+      "translation": "看了宠物的照片。"
+    }
+  },
+  {
+    "writing": "動物",
+    "reading": "どうぶつ",
+    "meaning": "动物",
+    "pos": "名詞",
+    "collocation": "動物を飼う",
+    "note": "",
+    "audioText": "どうぶつ",
+    "category": "自然与天气",
+    "group": "动物",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "動物の写真を見ました。",
+      "reading": "どうぶつのしゃしんおみました。",
+      "translation": "看了动物的照片。"
+    }
+  },
+  {
+    "writing": "空",
+    "reading": "そら",
+    "meaning": "天空",
+    "pos": "名詞",
+    "collocation": "空を見る",
+    "note": "",
+    "audioText": "そら",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "空の写真を見ました。",
+      "reading": "そらのしゃしんおみました。",
+      "translation": "看了天空的照片。"
+    }
+  },
+  {
+    "writing": "雲",
+    "reading": "くも",
+    "meaning": "云",
+    "pos": "名詞",
+    "collocation": "雲が出る",
+    "note": "",
+    "audioText": "くも",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "雲の写真を見ました。",
+      "reading": "くものしゃしんおみました。",
+      "translation": "看了云的照片。"
+    }
+  },
+  {
+    "writing": "太陽",
+    "reading": "たいよう",
+    "meaning": "太阳",
+    "pos": "名詞",
+    "collocation": "太陽が出る",
+    "note": "",
+    "audioText": "たいよう",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "太陽の写真を見ました。",
+      "reading": "たいようのしゃしんおみました。",
+      "translation": "看了太阳的照片。"
+    }
+  },
+  {
+    "writing": "月",
+    "reading": "つき",
+    "meaning": "月亮",
+    "pos": "名詞",
+    "collocation": "月を見る",
+    "note": "",
+    "audioText": "つき",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "月の写真を見ました。",
+      "reading": "つきのしゃしんおみました。",
+      "translation": "看了月亮的照片。"
+    }
+  },
+  {
+    "writing": "星",
+    "reading": "ほし",
+    "meaning": "星星",
+    "pos": "名詞",
+    "collocation": "星が見える",
+    "note": "",
+    "audioText": "ほし",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "星の写真を見ました。",
+      "reading": "ほしのしゃしんおみました。",
+      "translation": "看了星星的照片。"
+    }
+  },
+  {
+    "writing": "川",
+    "reading": "かわ",
+    "meaning": "河流",
+    "pos": "名詞",
+    "collocation": "川を渡る",
+    "note": "",
+    "audioText": "かわ",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "川の写真を見ました。",
+      "reading": "かわのしゃしんおみました。",
+      "translation": "看了河流的照片。"
+    }
+  },
+  {
+    "writing": "池",
+    "reading": "いけ",
+    "meaning": "池塘",
+    "pos": "名詞",
+    "collocation": "池の魚",
+    "note": "",
+    "audioText": "いけ",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "池の写真を見ました。",
+      "reading": "いけのしゃしんおみました。",
+      "translation": "看了池塘的照片。"
+    }
+  },
+  {
+    "writing": "湖",
+    "reading": "みずうみ",
+    "meaning": "湖泊",
+    "pos": "名詞",
+    "collocation": "湖の近く",
+    "note": "",
+    "audioText": "みずうみ",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "湖の写真を見ました。",
+      "reading": "みずうみのしゃしんおみました。",
+      "translation": "看了湖泊的照片。"
+    }
+  },
+  {
+    "writing": "森",
+    "reading": "もり",
+    "meaning": "森林",
+    "pos": "名詞",
+    "collocation": "森を歩く",
+    "note": "",
+    "audioText": "もり",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "森の写真を見ました。",
+      "reading": "もりのしゃしんおみました。",
+      "translation": "看了森林的照片。"
+    }
+  },
+  {
+    "writing": "花",
+    "reading": "はな",
+    "meaning": "花",
+    "pos": "名詞",
+    "collocation": "花が咲く",
+    "note": "",
+    "audioText": "はな",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "花の写真を見ました。",
+      "reading": "はなのしゃしんおみました。",
+      "translation": "看了花的照片。"
+    }
+  },
+  {
+    "writing": "草",
+    "reading": "くさ",
+    "meaning": "草",
+    "pos": "名詞",
+    "collocation": "草が生える",
+    "note": "",
+    "audioText": "くさ",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "草の写真を見ました。",
+      "reading": "くさのしゃしんおみました。",
+      "translation": "看了草的照片。"
+    }
+  },
+  {
+    "writing": "葉",
+    "reading": "は",
+    "meaning": "叶子",
+    "pos": "名詞",
+    "collocation": "緑の葉",
+    "note": "",
+    "audioText": "は",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "緑の葉があります。",
+      "reading": "みどりのはがあります。",
+      "translation": "有绿色的叶子。"
+    }
+  },
+  {
+    "writing": "桜",
+    "reading": "さくら",
+    "meaning": "樱花",
+    "pos": "名詞",
+    "collocation": "桜が咲く",
+    "note": "",
+    "audioText": "さくら",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "桜の写真を見ました。",
+      "reading": "さくらのしゃしんおみました。",
+      "translation": "看了樱花的照片。"
+    }
+  },
+  {
+    "writing": "石",
+    "reading": "いし",
+    "meaning": "石头",
+    "pos": "名詞",
+    "collocation": "石を拾う",
+    "note": "",
+    "audioText": "いし",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "石の写真を見ました。",
+      "reading": "いしのしゃしんおみました。",
+      "translation": "看了石头的照片。"
+    }
+  },
+  {
+    "writing": "砂",
+    "reading": "すな",
+    "meaning": "沙子",
+    "pos": "名詞",
+    "collocation": "砂の上",
+    "note": "",
+    "audioText": "すな",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "砂の写真を見ました。",
+      "reading": "すなのしゃしんおみました。",
+      "translation": "看了沙子的照片。"
+    }
+  },
+  {
+    "writing": "土",
+    "reading": "つち",
+    "meaning": "泥土",
+    "pos": "名詞",
+    "collocation": "土に植える",
+    "note": "",
+    "audioText": "つち",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "土の写真を見ました。",
+      "reading": "つちのしゃしんおみました。",
+      "translation": "看了泥土的照片。"
+    }
+  },
+  {
+    "writing": "島",
+    "reading": "しま",
+    "meaning": "岛屿",
+    "pos": "名詞",
+    "collocation": "島に行く",
+    "note": "",
+    "audioText": "しま",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "島の写真を見ました。",
+      "reading": "しまのしゃしんおみました。",
+      "translation": "看了岛屿的照片。"
+    }
+  },
+  {
+    "writing": "波",
+    "reading": "なみ",
+    "meaning": "波浪",
+    "pos": "名詞",
+    "collocation": "波が高い",
+    "note": "",
+    "audioText": "なみ",
+    "category": "自然与天气",
+    "group": "自然景物",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "波の写真を見ました。",
+      "reading": "なみのしゃしんおみました。",
+      "translation": "看了波浪的照片。"
+    }
+  },
+  {
+    "writing": "坂",
+    "reading": "さか",
+    "meaning": "坡道",
+    "pos": "名詞",
+    "collocation": "坂を上る",
+    "note": "",
+    "audioText": "さか",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "坂の写真を見ました。",
+      "reading": "さかのしゃしんおみました。",
+      "translation": "看了坡道的照片。"
+    }
+  },
+  {
+    "writing": "風",
+    "reading": "かぜ",
+    "meaning": "风",
+    "pos": "名詞",
+    "collocation": "風が吹く",
+    "note": "",
+    "audioText": "かぜ",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "風が吹いています。",
+      "reading": "かぜがふいています。",
+      "translation": "风正在吹。"
+    }
+  },
+  {
+    "writing": "晴れ",
+    "reading": "はれ",
+    "meaning": "晴天",
+    "pos": "名詞",
+    "collocation": "今日は晴れ",
+    "note": "",
+    "audioText": "はれ",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今日は晴れです。",
+      "reading": "きょうわはれです。",
+      "translation": "今天是晴天。"
+    }
+  },
+  {
+    "writing": "曇り",
+    "reading": "くもり",
+    "meaning": "阴天",
+    "pos": "名詞",
+    "collocation": "曇りの日",
+    "note": "",
+    "audioText": "くもり",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今日は曇りです。",
+      "reading": "きょうわくもりです。",
+      "translation": "今天是阴天。"
+    }
+  },
+  {
+    "writing": "台風",
+    "reading": "たいふう",
+    "meaning": "台风",
+    "pos": "名詞",
+    "collocation": "台風が来る",
+    "note": "",
+    "audioText": "たいふう",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "台風が来ました。",
+      "reading": "たいふうがきました。",
+      "translation": "台风来了。"
+    }
+  },
+  {
+    "writing": "雷",
+    "reading": "かみなり",
+    "meaning": "雷",
+    "pos": "名詞",
+    "collocation": "雷が鳴る",
+    "note": "",
+    "audioText": "かみなり",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "雷が鳴っています。",
+      "reading": "かみなりがなっています。",
+      "translation": "正在打雷。"
+    }
+  },
+  {
+    "writing": "虹",
+    "reading": "にじ",
+    "meaning": "彩虹",
+    "pos": "名詞",
+    "collocation": "虹が出る",
+    "note": "",
+    "audioText": "にじ",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "虹が見えます。",
+      "reading": "にじがみえます。",
+      "translation": "可以看见彩虹。"
+    }
+  },
+  {
+    "writing": "気温",
+    "reading": "きおん",
+    "meaning": "气温",
+    "pos": "名詞",
+    "collocation": "気温が高い",
+    "note": "",
+    "audioText": "きおん",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今日は気温が高いです。",
+      "reading": "きょうわきおんがたかいです。",
+      "translation": "今天气温很高。"
+    }
+  },
+  {
+    "writing": "季節",
+    "reading": "きせつ",
+    "meaning": "季节",
+    "pos": "名詞",
+    "collocation": "季節が変わる",
+    "note": "",
+    "audioText": "きせつ",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "季節について話しました。",
+      "reading": "きせつについてはなしました。",
+      "translation": "谈了关于季节的事。"
+    }
+  },
+  {
+    "writing": "梅雨",
+    "reading": "つゆ",
+    "meaning": "梅雨季节",
+    "pos": "名詞",
+    "collocation": "梅雨に入る",
+    "note": "",
+    "audioText": "つゆ",
+    "category": "自然与天气",
+    "group": "天气与季节现象",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "梅雨について話しました。",
+      "reading": "つゆについてはなしました。",
+      "translation": "谈了关于梅雨季节的事。"
+    }
+  },
+  {
+    "writing": "地震",
+    "reading": "じしん",
+    "meaning": "地震",
+    "pos": "名詞",
+    "collocation": "地震が起きる",
+    "note": "",
+    "audioText": "じしん",
+    "category": "自然与天气",
+    "group": "灾害与安全",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "昨日、地震がありました。",
+      "reading": "きのう、じしんがありました。",
+      "translation": "昨天发生了地震。"
+    }
+  },
+  {
+    "writing": "火事",
+    "reading": "かじ",
+    "meaning": "火灾",
+    "pos": "名詞",
+    "collocation": "火事が起きる",
+    "note": "",
+    "audioText": "かじ",
+    "category": "自然与天气",
+    "group": "灾害与安全",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "昨日、火事がありました。",
+      "reading": "きのう、かじがありました。",
+      "translation": "昨天发生了火灾。"
+    }
+  },
+  {
+    "writing": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "银行",
+    "pos": "名詞",
+    "collocation": "銀行に行く",
+    "note": "",
+    "audioText": "ぎんこう",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "銀行はどこですか。",
+      "reading": "ぎんこうわどこですか。",
+      "translation": "银行在哪里？"
+    }
+  },
+  {
+    "writing": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "邮局",
+    "pos": "名詞",
+    "collocation": "郵便局に行く",
+    "note": "",
+    "audioText": "ゆうびんきょく",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "郵便局はどこですか。",
+      "reading": "ゆうびんきょくわどこですか。",
+      "translation": "邮局在哪里？"
+    }
+  },
+  {
+    "writing": "交番",
+    "reading": "こうばん",
+    "meaning": "派出所",
+    "pos": "名詞",
+    "collocation": "交番に行く",
+    "note": "",
+    "audioText": "こうばん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "交番はどこですか。",
+      "reading": "こうばんわどこですか。",
+      "translation": "派出所在哪里？"
+    }
+  },
+  {
+    "writing": "警察署",
+    "reading": "けいさつしょ",
+    "meaning": "警察署",
+    "pos": "名詞",
+    "collocation": "警察署に行く",
+    "note": "",
+    "audioText": "けいさつしょ",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "警察署はどこですか。",
+      "reading": "けいさつしょわどこですか。",
+      "translation": "警察署在哪里？"
+    }
+  },
+  {
+    "writing": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "市政府办公楼",
+    "pos": "名詞",
+    "collocation": "市役所に行く",
+    "note": "",
+    "audioText": "しやくしょ",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "市役所はどこですか。",
+      "reading": "しやくしょわどこですか。",
+      "translation": "市政府办公楼在哪里？"
+    }
+  },
+  {
+    "writing": "美術館",
+    "reading": "びじゅつかん",
+    "meaning": "美术馆",
+    "pos": "名詞",
+    "collocation": "美術館に行く",
+    "note": "",
+    "audioText": "びじゅつかん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "美術館はどこですか。",
+      "reading": "びじゅつかんわどこですか。",
+      "translation": "美术馆在哪里？"
+    }
+  },
+  {
+    "writing": "博物館",
+    "reading": "はくぶつかん",
+    "meaning": "博物馆",
+    "pos": "名詞",
+    "collocation": "博物館に行く",
+    "note": "",
+    "audioText": "はくぶつかん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "博物館はどこですか。",
+      "reading": "はくぶつかんわどこですか。",
+      "translation": "博物馆在哪里？"
+    }
+  },
+  {
+    "writing": "映画館",
+    "reading": "えいがかん",
+    "meaning": "电影院",
+    "pos": "名詞",
+    "collocation": "映画館に行く",
+    "note": "",
+    "audioText": "えいがかん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "映画館はどこですか。",
+      "reading": "えいがかんわどこですか。",
+      "translation": "电影院在哪里？"
+    }
+  },
+  {
+    "writing": "体育館",
+    "reading": "たいいくかん",
+    "meaning": "体育馆",
+    "pos": "名詞",
+    "collocation": "体育館に行く",
+    "note": "",
+    "audioText": "たいいくかん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "体育館はどこですか。",
+      "reading": "たいいくかんわどこですか。",
+      "translation": "体育馆在哪里？"
+    }
+  },
+  {
+    "writing": "プール",
+    "reading": "ぷーる",
+    "meaning": "游泳池",
+    "pos": "名詞",
+    "collocation": "プールに行く",
+    "note": "",
+    "audioText": "ぷーる",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "プールはどこですか。",
+      "reading": "ぷーるわどこですか。",
+      "translation": "游泳池在哪里？"
+    }
+  },
+  {
+    "writing": "動物園",
+    "reading": "どうぶつえん",
+    "meaning": "动物园",
+    "pos": "名詞",
+    "collocation": "動物園に行く",
+    "note": "",
+    "audioText": "どうぶつえん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "動物園はどこですか。",
+      "reading": "どうぶつえんわどこですか。",
+      "translation": "动物园在哪里？"
+    }
+  },
+  {
+    "writing": "水族館",
+    "reading": "すいぞくかん",
+    "meaning": "水族馆",
+    "pos": "名詞",
+    "collocation": "水族館に行く",
+    "note": "",
+    "audioText": "すいぞくかん",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "水族館はどこですか。",
+      "reading": "すいぞくかんわどこですか。",
+      "translation": "水族馆在哪里？"
+    }
+  },
+  {
+    "writing": "遊園地",
+    "reading": "ゆうえんち",
+    "meaning": "游乐园",
+    "pos": "名詞",
+    "collocation": "遊園地に行く",
+    "note": "",
+    "audioText": "ゆうえんち",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "遊園地はどこですか。",
+      "reading": "ゆうえんちわどこですか。",
+      "translation": "游乐园在哪里？"
+    }
+  },
+  {
+    "writing": "空港",
+    "reading": "くうこう",
+    "meaning": "机场",
+    "pos": "名詞",
+    "collocation": "空港に行く",
+    "note": "",
+    "audioText": "くうこう",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "空港はどこですか。",
+      "reading": "くうこうわどこですか。",
+      "translation": "机场在哪里？"
+    }
+  },
+  {
+    "writing": "港",
+    "reading": "みなと",
+    "meaning": "港口",
+    "pos": "名詞",
+    "collocation": "港に行く",
+    "note": "",
+    "audioText": "みなと",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "港はどこですか。",
+      "reading": "みなとわどこですか。",
+      "translation": "港口在哪里？"
+    }
+  },
+  {
+    "writing": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "meaning": "停车场",
+    "pos": "名詞",
+    "collocation": "駐車場に行く",
+    "note": "",
+    "audioText": "ちゅうしゃじょう",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "駐車場はどこですか。",
+      "reading": "ちゅうしゃじょうわどこですか。",
+      "translation": "停车场在哪里？"
+    }
+  },
+  {
+    "writing": "バス停",
+    "reading": "ばすてい",
+    "meaning": "公交车站",
+    "pos": "名詞",
+    "collocation": "バス停に行く",
+    "note": "",
+    "audioText": "ばすてい",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "バス停はどこですか。",
+      "reading": "ばすていわどこですか。",
+      "translation": "公交车站在哪里？"
+    }
+  },
+  {
+    "writing": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "地铁",
+    "pos": "名詞",
+    "collocation": "地下鉄に乗る",
+    "note": "",
+    "audioText": "ちかてつ",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "地下鉄はどこですか。",
+      "reading": "ちかてつわどこですか。",
+      "translation": "地铁在哪里？"
+    }
+  },
+  {
+    "writing": "入口",
+    "reading": "いりぐち",
+    "meaning": "入口",
+    "pos": "名詞",
+    "collocation": "入口に行く",
+    "note": "",
+    "audioText": "いりぐち",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "入口はどこですか。",
+      "reading": "いりぐちわどこですか。",
+      "translation": "入口在哪里？"
+    }
+  },
+  {
+    "writing": "出口",
+    "reading": "でぐち",
+    "meaning": "出口",
+    "pos": "名詞",
+    "collocation": "出口に行く",
+    "note": "",
+    "audioText": "でぐち",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "出口はどこですか。",
+      "reading": "でぐちわどこですか。",
+      "translation": "出口在哪里？"
+    }
+  },
+  {
+    "writing": "受付",
+    "reading": "うけつけ",
+    "meaning": "接待处",
+    "pos": "名詞",
+    "collocation": "受付に行く",
+    "note": "",
+    "audioText": "うけつけ",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "受付はどこですか。",
+      "reading": "うけつけわどこですか。",
+      "translation": "接待处在哪里？"
+    }
+  },
+  {
+    "writing": "エレベーター",
+    "reading": "えれべーたー",
+    "meaning": "电梯",
+    "pos": "名詞",
+    "collocation": "エレベーターに乗る",
+    "note": "",
+    "audioText": "えれべーたー",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "エレベーターはどこですか。",
+      "reading": "えれべーたーわどこですか。",
+      "translation": "电梯在哪里？"
+    }
+  },
+  {
+    "writing": "エスカレーター",
+    "reading": "えすかれーたー",
+    "meaning": "自动扶梯",
+    "pos": "名詞",
+    "collocation": "エスカレーターに乗る",
+    "note": "",
+    "audioText": "えすかれーたー",
+    "category": "城市与设施",
+    "group": "公共设施",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "エスカレーターはどこですか。",
+      "reading": "えすかれーたーわどこですか。",
+      "translation": "自动扶梯在哪里？"
+    }
+  },
+  {
+    "writing": "デパート",
+    "reading": "でぱーと",
+    "meaning": "百货商店",
+    "pos": "名詞",
+    "collocation": "デパートに行く",
+    "note": "",
+    "audioText": "でぱーと",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "デパートはどこですか。",
+      "reading": "でぱーとわどこですか。",
+      "translation": "百货商店在哪里？"
+    }
+  },
+  {
+    "writing": "本屋",
+    "reading": "ほんや",
+    "meaning": "书店",
+    "pos": "名詞",
+    "collocation": "本屋に行く",
+    "note": "",
+    "audioText": "ほんや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "本屋はどこですか。",
+      "reading": "ほんやわどこですか。",
+      "translation": "书店在哪里？"
+    }
+  },
+  {
+    "writing": "薬局",
+    "reading": "やっきょく",
+    "meaning": "药店",
+    "pos": "名詞",
+    "collocation": "薬局に行く",
+    "note": "",
+    "audioText": "やっきょく",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "薬局はどこですか。",
+      "reading": "やっきょくわどこですか。",
+      "translation": "药店在哪里？"
+    }
+  },
+  {
+    "writing": "パン屋",
+    "reading": "ぱんや",
+    "meaning": "面包店",
+    "pos": "名詞",
+    "collocation": "パン屋に行く",
+    "note": "",
+    "audioText": "ぱんや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "パン屋はどこですか。",
+      "reading": "ぱんやわどこですか。",
+      "translation": "面包店在哪里？"
+    }
+  },
+  {
+    "writing": "花屋",
+    "reading": "はなや",
+    "meaning": "花店",
+    "pos": "名詞",
+    "collocation": "花屋に行く",
+    "note": "",
+    "audioText": "はなや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "花屋はどこですか。",
+      "reading": "はなやわどこですか。",
+      "translation": "花店在哪里？"
+    }
+  },
+  {
+    "writing": "八百屋",
+    "reading": "やおや",
+    "meaning": "蔬菜店",
+    "pos": "名詞",
+    "collocation": "八百屋に行く",
+    "note": "",
+    "audioText": "やおや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "八百屋はどこですか。",
+      "reading": "やおやわどこですか。",
+      "translation": "蔬菜店在哪里？"
+    }
+  },
+  {
+    "writing": "魚屋",
+    "reading": "さかなや",
+    "meaning": "鱼店",
+    "pos": "名詞",
+    "collocation": "魚屋に行く",
+    "note": "",
+    "audioText": "さかなや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "魚屋はどこですか。",
+      "reading": "さかなやわどこですか。",
+      "translation": "鱼店在哪里？"
+    }
+  },
+  {
+    "writing": "肉屋",
+    "reading": "にくや",
+    "meaning": "肉店",
+    "pos": "名詞",
+    "collocation": "肉屋に行く",
+    "note": "",
+    "audioText": "にくや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "肉屋はどこですか。",
+      "reading": "にくやわどこですか。",
+      "translation": "肉店在哪里？"
+    }
+  },
+  {
+    "writing": "美容院",
+    "reading": "びよういん",
+    "meaning": "美发店",
+    "pos": "名詞",
+    "collocation": "美容院に行く",
+    "note": "",
+    "audioText": "びよういん",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "美容院はどこですか。",
+      "reading": "びよういんわどこですか。",
+      "translation": "美发店在哪里？"
+    }
+  },
+  {
+    "writing": "床屋",
+    "reading": "とこや",
+    "meaning": "理发店",
+    "pos": "名詞",
+    "collocation": "床屋に行く",
+    "note": "",
+    "audioText": "とこや",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "床屋はどこですか。",
+      "reading": "とこやわどこですか。",
+      "translation": "理发店在哪里？"
+    }
+  },
+  {
+    "writing": "クリーニング店",
+    "reading": "くりーにんぐてん",
+    "meaning": "洗衣店",
+    "pos": "名詞",
+    "collocation": "クリーニング店に行く",
+    "note": "",
+    "audioText": "くりーにんぐてん",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "クリーニング店はどこですか。",
+      "reading": "くりーにんぐてんわどこですか。",
+      "translation": "洗衣店在哪里？"
+    }
+  },
+  {
+    "writing": "旅館",
+    "reading": "りょかん",
+    "meaning": "日式旅馆",
+    "pos": "名詞",
+    "collocation": "旅館に行く",
+    "note": "",
+    "audioText": "りょかん",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "旅館はどこですか。",
+      "reading": "りょかんわどこですか。",
+      "translation": "日式旅馆在哪里？"
+    }
+  },
+  {
+    "writing": "温泉",
+    "reading": "おんせん",
+    "meaning": "温泉",
+    "pos": "名詞",
+    "collocation": "温泉に行く",
+    "note": "",
+    "audioText": "おんせん",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "温泉はどこですか。",
+      "reading": "おんせんわどこですか。",
+      "translation": "温泉在哪里？"
+    }
+  },
+  {
+    "writing": "カフェ",
+    "reading": "かふぇ",
+    "meaning": "咖啡馆",
+    "pos": "名詞",
+    "collocation": "カフェに行く",
+    "note": "",
+    "audioText": "かふぇ",
+    "category": "城市与设施",
+    "group": "商店与服务",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "カフェはどこですか。",
+      "reading": "かふぇわどこですか。",
+      "translation": "咖啡馆在哪里？"
+    }
+  },
+  {
+    "writing": "建物",
+    "reading": "たてもの",
+    "meaning": "建筑物",
+    "pos": "名詞",
+    "collocation": "建物に入る",
+    "note": "",
+    "audioText": "たてもの",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "これは建物です。",
+      "reading": "これわたてものです。",
+      "translation": "这是建筑物。"
+    }
+  },
+  {
+    "writing": "マンション",
+    "reading": "まんしょん",
+    "meaning": "公寓楼",
+    "pos": "名詞",
+    "collocation": "マンションに住む",
+    "note": "",
+    "audioText": "まんしょん",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "これはマンションです。",
+      "reading": "これわまんしょんです。",
+      "translation": "这是公寓楼。"
+    }
+  },
+  {
+    "writing": "アパート",
+    "reading": "あぱーと",
+    "meaning": "出租公寓",
+    "pos": "名詞",
+    "collocation": "アパートを借りる",
+    "note": "",
+    "audioText": "あぱーと",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "これはアパートです。",
+      "reading": "これわあぱーとです。",
+      "translation": "这是出租公寓。"
+    }
+  },
+  {
+    "writing": "橋",
+    "reading": "はし",
+    "meaning": "桥",
+    "pos": "名詞",
+    "collocation": "橋を渡る",
+    "note": "",
+    "audioText": "はし",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは橋です。",
+      "reading": "これわはしです。",
+      "translation": "这是桥。"
+    }
+  },
+  {
+    "writing": "交差点",
+    "reading": "こうさてん",
+    "meaning": "十字路口",
+    "pos": "名詞",
+    "collocation": "交差点で曲がる",
+    "note": "",
+    "audioText": "こうさてん",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは交差点です。",
+      "reading": "これわこうさてんです。",
+      "translation": "这是十字路口。"
+    }
+  },
+  {
+    "writing": "信号",
+    "reading": "しんごう",
+    "meaning": "交通信号灯",
+    "pos": "名詞",
+    "collocation": "信号が赤になる",
+    "note": "",
+    "audioText": "しんごう",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "これは信号です。",
+      "reading": "これわしんごうです。",
+      "translation": "这是交通信号灯。"
+    }
+  },
+  {
+    "writing": "歩道",
+    "reading": "ほどう",
+    "meaning": "人行道",
+    "pos": "名詞",
+    "collocation": "歩道を歩く",
+    "note": "",
+    "audioText": "ほどう",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは歩道です。",
+      "reading": "これわほどうです。",
+      "translation": "这是人行道。"
+    }
+  },
+  {
+    "writing": "道路",
+    "reading": "どうろ",
+    "meaning": "道路",
+    "pos": "名詞",
+    "collocation": "道路を渡る",
+    "note": "",
+    "audioText": "どうろ",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "これは道路です。",
+      "reading": "これわどうろです。",
+      "translation": "这是道路。"
+    }
+  },
+  {
+    "writing": "高速道路",
+    "reading": "こうそくどうろ",
+    "meaning": "高速公路",
+    "pos": "名詞",
+    "collocation": "高速道路を走る",
+    "note": "",
+    "audioText": "こうそくどうろ",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "これは高速道路です。",
+      "reading": "これわこうそくどうろです。",
+      "translation": "这是高速公路。"
+    }
+  },
+  {
+    "writing": "線路",
+    "reading": "せんろ",
+    "meaning": "铁路轨道",
+    "pos": "名詞",
+    "collocation": "線路の近く",
+    "note": "",
+    "audioText": "せんろ",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "これは線路です。",
+      "reading": "これわせんろです。",
+      "translation": "这是铁路轨道。"
+    }
+  },
+  {
+    "writing": "ホーム",
+    "reading": "ほーむ",
+    "meaning": "站台",
+    "pos": "名詞",
+    "collocation": "ホームで待つ",
+    "note": "",
+    "audioText": "ほーむ",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これはホームです。",
+      "reading": "これわほーむです。",
+      "translation": "这是站台。"
+    }
+  },
+  {
+    "writing": "改札",
+    "reading": "かいさつ",
+    "meaning": "检票口",
+    "pos": "名詞",
+    "collocation": "改札を通る",
+    "note": "",
+    "audioText": "かいさつ",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは改札です。",
+      "reading": "これわかいさつです。",
+      "translation": "这是检票口。"
+    }
+  },
+  {
+    "writing": "踏切",
+    "reading": "ふみきり",
+    "meaning": "铁路道口",
+    "pos": "名詞",
+    "collocation": "踏切を渡る",
+    "note": "",
+    "audioText": "ふみきり",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "これは踏切です。",
+      "reading": "これわふみきりです。",
+      "translation": "这是铁路道口。"
+    }
+  },
+  {
+    "writing": "看板",
+    "reading": "かんばん",
+    "meaning": "招牌",
+    "pos": "名詞",
+    "collocation": "看板を見る",
+    "note": "",
+    "audioText": "かんばん",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは看板です。",
+      "reading": "これわかんばんです。",
+      "translation": "这是招牌。"
+    }
+  },
+  {
+    "writing": "ポスト",
+    "reading": "ぽすと",
+    "meaning": "邮筒",
+    "pos": "名詞",
+    "collocation": "ポストに手紙を入れる",
+    "note": "",
+    "audioText": "ぽすと",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これはポストです。",
+      "reading": "これわぽすとです。",
+      "translation": "这是邮筒。"
+    }
+  },
+  {
+    "writing": "自動販売機",
+    "reading": "じどうはんばいき",
+    "meaning": "自动售货机",
+    "pos": "名詞",
+    "collocation": "自動販売機で買う",
+    "note": "",
+    "audioText": "じどうはんばいき",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは自動販売機です。",
+      "reading": "これわじどうはんばいきです。",
+      "translation": "这是自动售货机。"
+    }
+  },
+  {
+    "writing": "タクシー",
+    "reading": "たくしー",
+    "meaning": "出租车",
+    "pos": "名詞",
+    "collocation": "タクシーに乗る",
+    "note": "",
+    "audioText": "たくしー",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "これはタクシーです。",
+      "reading": "これわたくしーです。",
+      "translation": "这是出租车。"
+    }
+  },
+  {
+    "writing": "船",
+    "reading": "ふね",
+    "meaning": "船",
+    "pos": "名詞",
+    "collocation": "船に乗る",
+    "note": "",
+    "audioText": "ふね",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "medium",
+    "example": {
+      "text": "これは船です。",
+      "reading": "これわふねです。",
+      "translation": "这是船。"
+    }
+  },
+  {
+    "writing": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "新干线",
+    "pos": "名詞",
+    "collocation": "新幹線に乗る",
+    "note": "",
+    "audioText": "しんかんせん",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "これは新幹線です。",
+      "reading": "これわしんかんせんです。",
+      "translation": "这是新干线。"
+    }
+  },
+  {
+    "writing": "特急",
+    "reading": "とっきゅう",
+    "meaning": "特快列车",
+    "pos": "名詞",
+    "collocation": "特急に乗る",
+    "note": "",
+    "audioText": "とっきゅう",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "これは特急です。",
+      "reading": "これわとっきゅうです。",
+      "translation": "这是特快列车。"
+    }
+  },
+  {
+    "writing": "急行",
+    "reading": "きゅうこう",
+    "meaning": "快车",
+    "pos": "名詞",
+    "collocation": "急行に乗る",
+    "note": "",
+    "audioText": "きゅうこう",
+    "category": "城市与设施",
+    "group": "城市与交通环境",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "これは急行です。",
+      "reading": "これわきゅうこうです。",
+      "translation": "这是快车。"
+    }
+  }
+]

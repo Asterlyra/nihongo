@@ -1,0 +1,6572 @@
+[
+  {
+    "writing": "立つ",
+    "reading": "たつ",
+    "meaning": "站；站立",
+    "pos": "動詞・五段",
+    "collocation": "ここに立つ",
+    "note": "",
+    "audioText": "たつ",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ここに立ちます。",
+      "reading": "ここにたちます。",
+      "translation": "站在这里。"
+    }
+  },
+  {
+    "writing": "座る",
+    "reading": "すわる",
+    "meaning": "坐",
+    "pos": "動詞・五段",
+    "collocation": "ここに座る",
+    "note": "",
+    "audioText": "すわる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ここに座ります。",
+      "reading": "ここにすわります。",
+      "translation": "坐在这里。"
+    }
+  },
+  {
+    "writing": "止まる",
+    "reading": "とまる",
+    "meaning": "停下",
+    "pos": "動詞・五段",
+    "collocation": "バスが止まる",
+    "note": "",
+    "audioText": "とまる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "バスが止まります。",
+      "reading": "ばすがとまります。",
+      "translation": "公交车停下。"
+    }
+  },
+  {
+    "writing": "止める",
+    "reading": "とめる",
+    "meaning": "使停止；停下",
+    "pos": "動詞・一段",
+    "collocation": "車を止める",
+    "note": "",
+    "audioText": "とめる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "車を止めます。",
+      "reading": "くるまおとめます。",
+      "translation": "把车停下。"
+    }
+  },
+  {
+    "writing": "動く",
+    "reading": "うごく",
+    "meaning": "动；运转",
+    "pos": "動詞・五段",
+    "collocation": "時計が動く",
+    "note": "",
+    "audioText": "うごく",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時計が動きます。",
+      "reading": "とけいがうごきます。",
+      "translation": "钟在走。"
+    }
+  },
+  {
+    "writing": "動かす",
+    "reading": "うごかす",
+    "meaning": "移动；使运转",
+    "pos": "動詞・五段",
+    "collocation": "椅子を動かす",
+    "note": "",
+    "audioText": "うごかす",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "椅子を動かします。",
+      "reading": "いすおうごかします。",
+      "translation": "移动椅子。"
+    }
+  },
+  {
+    "writing": "続く",
+    "reading": "つづく",
+    "meaning": "持续",
+    "pos": "動詞・五段",
+    "collocation": "雨が続く",
+    "note": "",
+    "audioText": "つづく",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "雨が続きます。",
+      "reading": "あめがつづきます。",
+      "translation": "雨还会继续下。"
+    }
+  },
+  {
+    "writing": "続ける",
+    "reading": "つづける",
+    "meaning": "继续",
+    "pos": "動詞・一段",
+    "collocation": "勉強を続ける",
+    "note": "",
+    "audioText": "つづける",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "勉強を続けます。",
+      "reading": "べんきょうおつづけます。",
+      "translation": "继续学习。"
+    }
+  },
+  {
+    "writing": "終わる",
+    "reading": "おわる",
+    "meaning": "结束",
+    "pos": "動詞・五段",
+    "collocation": "仕事が終わる",
+    "note": "",
+    "audioText": "おわる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "仕事が終わります。",
+      "reading": "しごとがおわります。",
+      "translation": "工作结束。"
+    }
+  },
+  {
+    "writing": "始まる",
+    "reading": "はじまる",
+    "meaning": "开始",
+    "pos": "動詞・五段",
+    "collocation": "授業が始まる",
+    "note": "",
+    "audioText": "はじまる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "授業が始まります。",
+      "reading": "じゅぎょうがはじまります。",
+      "translation": "课程开始。"
+    }
+  },
+  {
+    "writing": "始める",
+    "reading": "はじめる",
+    "meaning": "开始做",
+    "pos": "動詞・一段",
+    "collocation": "勉強を始める",
+    "note": "",
+    "audioText": "はじめる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "勉強を始めます。",
+      "reading": "べんきょうおはじめます。",
+      "translation": "开始学习。"
+    }
+  },
+  {
+    "writing": "分かる",
+    "reading": "わかる",
+    "meaning": "懂；明白",
+    "pos": "動詞・五段",
+    "collocation": "意味が分かる",
+    "note": "",
+    "audioText": "わかる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "意味が分かります。",
+      "reading": "いみがわかります。",
+      "translation": "明白意思。"
+    }
+  },
+  {
+    "writing": "知る",
+    "reading": "しる",
+    "meaning": "知道；获知",
+    "pos": "動詞・五段",
+    "collocation": "ニュースで知る",
+    "note": "表示获知这一动作；表示已知道时常说「知っています」。",
+    "audioText": "しる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ニュースで知りました。",
+      "reading": "にゅーすでしりました。",
+      "translation": "通过新闻得知了消息。"
+    }
+  },
+  {
+    "writing": "覚える",
+    "reading": "おぼえる",
+    "meaning": "记住",
+    "pos": "動詞・一段",
+    "collocation": "単語を覚える",
+    "note": "",
+    "audioText": "おぼえる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "単語を覚えます。",
+      "reading": "たんごおおぼえます。",
+      "translation": "记住单词。"
+    }
+  },
+  {
+    "writing": "忘れる",
+    "reading": "わすれる",
+    "meaning": "忘记",
+    "pos": "動詞・一段",
+    "collocation": "名前を忘れる",
+    "note": "",
+    "audioText": "わすれる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "名前を忘れます。",
+      "reading": "なまえおわすれます。",
+      "translation": "忘记名字。"
+    }
+  },
+  {
+    "writing": "考える",
+    "reading": "かんがえる",
+    "meaning": "思考；考虑",
+    "pos": "動詞・一段",
+    "collocation": "予定を考える",
+    "note": "",
+    "audioText": "かんがえる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "予定を考えます。",
+      "reading": "よていおかんがえます。",
+      "translation": "考虑安排。"
+    }
+  },
+  {
+    "writing": "思う",
+    "reading": "おもう",
+    "meaning": "想；认为",
+    "pos": "動詞・五段",
+    "collocation": "そう思う",
+    "note": "",
+    "audioText": "おもう",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "そう思います。",
+      "reading": "そうおもいます。",
+      "translation": "这样想。"
+    }
+  },
+  {
+    "writing": "教える",
+    "reading": "おしえる",
+    "meaning": "教；告诉",
+    "pos": "動詞・一段",
+    "collocation": "日本語を教える",
+    "note": "",
+    "audioText": "おしえる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "日本語を教えます。",
+      "reading": "にほんごおおしえます。",
+      "translation": "教日语。"
+    }
+  },
+  {
+    "writing": "習う",
+    "reading": "ならう",
+    "meaning": "学习；跟人学",
+    "pos": "動詞・五段",
+    "collocation": "日本語を習う",
+    "note": "",
+    "audioText": "ならう",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本語を習います。",
+      "reading": "にほんごおならいます。",
+      "translation": "学习日语。"
+    }
+  },
+  {
+    "writing": "答える",
+    "reading": "こたえる",
+    "meaning": "回答",
+    "pos": "動詞・一段",
+    "collocation": "質問に答える",
+    "note": "",
+    "audioText": "こたえる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "質問に答えます。",
+      "reading": "しつもんにこたえます。",
+      "translation": "回答问题。"
+    }
+  },
+  {
+    "writing": "選ぶ",
+    "reading": "えらぶ",
+    "meaning": "选择",
+    "pos": "動詞・五段",
+    "collocation": "本を選ぶ",
+    "note": "",
+    "audioText": "えらぶ",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "本を選びます。",
+      "reading": "ほんおえらびます。",
+      "translation": "选书。"
+    }
+  },
+  {
+    "writing": "決める",
+    "reading": "きめる",
+    "meaning": "决定",
+    "pos": "動詞・一段",
+    "collocation": "予定を決める",
+    "note": "",
+    "audioText": "きめる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "予定を決めます。",
+      "reading": "よていおきめます。",
+      "translation": "决定安排。"
+    }
+  },
+  {
+    "writing": "決まる",
+    "reading": "きまる",
+    "meaning": "确定；被决定",
+    "pos": "動詞・五段",
+    "collocation": "予定が決まる",
+    "note": "",
+    "audioText": "きまる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "予定が決まります。",
+      "reading": "よていがきまります。",
+      "translation": "安排确定。"
+    }
+  },
+  {
+    "writing": "探す",
+    "reading": "さがす",
+    "meaning": "寻找",
+    "pos": "動詞・五段",
+    "collocation": "鍵を探す",
+    "note": "",
+    "audioText": "さがす",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "鍵を探します。",
+      "reading": "かぎおさがします。",
+      "translation": "找钥匙。"
+    }
+  },
+  {
+    "writing": "見つける",
+    "reading": "みつける",
+    "meaning": "找到",
+    "pos": "動詞・一段",
+    "collocation": "鍵を見つける",
+    "note": "",
+    "audioText": "みつける",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "鍵を見つけます。",
+      "reading": "かぎおみつけます。",
+      "translation": "找到钥匙。"
+    }
+  },
+  {
+    "writing": "見つかる",
+    "reading": "みつかる",
+    "meaning": "被找到；找到",
+    "pos": "動詞・五段",
+    "collocation": "鍵が見つかる",
+    "note": "",
+    "audioText": "みつかる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "鍵が見つかります。",
+      "reading": "かぎがみつかります。",
+      "translation": "钥匙会被找到。"
+    }
+  },
+  {
+    "writing": "調べる",
+    "reading": "しらべる",
+    "meaning": "调查；查找",
+    "pos": "動詞・一段",
+    "collocation": "言葉を調べる",
+    "note": "",
+    "audioText": "しらべる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "言葉を調べます。",
+      "reading": "ことばおしらべます。",
+      "translation": "查词。"
+    }
+  },
+  {
+    "writing": "比べる",
+    "reading": "くらべる",
+    "meaning": "比较",
+    "pos": "動詞・一段",
+    "collocation": "値段を比べる",
+    "note": "",
+    "audioText": "くらべる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "値段を比べます。",
+      "reading": "ねだんおくらべます。",
+      "translation": "比较价格。"
+    }
+  },
+  {
+    "writing": "見せる",
+    "reading": "みせる",
+    "meaning": "给看；展示",
+    "pos": "動詞・一段",
+    "collocation": "写真を見せる",
+    "note": "",
+    "audioText": "みせる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "写真を見せます。",
+      "reading": "しゃしんおみせます。",
+      "translation": "给人看照片。"
+    }
+  },
+  {
+    "writing": "見える",
+    "reading": "みえる",
+    "meaning": "看得见",
+    "pos": "動詞・一段",
+    "collocation": "山が見える",
+    "note": "",
+    "audioText": "みえる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "山が見えます。",
+      "reading": "やまがみえます。",
+      "translation": "看得见山。"
+    }
+  },
+  {
+    "writing": "聞こえる",
+    "reading": "きこえる",
+    "meaning": "听得见",
+    "pos": "動詞・一段",
+    "collocation": "声が聞こえる",
+    "note": "",
+    "audioText": "きこえる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "声が聞こえます。",
+      "reading": "こえがきこえます。",
+      "translation": "听得见声音。"
+    }
+  },
+  {
+    "writing": "触る",
+    "reading": "さわる",
+    "meaning": "触摸；碰",
+    "pos": "動詞・五段",
+    "collocation": "ここに触る",
+    "note": "",
+    "audioText": "さわる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ここに触ります。",
+      "reading": "ここにさわります。",
+      "translation": "碰这里。"
+    }
+  },
+  {
+    "writing": "取る",
+    "reading": "とる",
+    "meaning": "拿；取",
+    "pos": "動詞・五段",
+    "collocation": "本を取る",
+    "note": "",
+    "audioText": "とる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "本を取ります。",
+      "reading": "ほんおとります。",
+      "translation": "拿书。"
+    }
+  },
+  {
+    "writing": "置く",
+    "reading": "おく",
+    "meaning": "放置",
+    "pos": "動詞・五段",
+    "collocation": "ここに本を置く",
+    "note": "",
+    "audioText": "おく",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ここに本を置きます。",
+      "reading": "ここにほんおおきます。",
+      "translation": "把书放在这里。"
+    }
+  },
+  {
+    "writing": "拾う",
+    "reading": "ひろう",
+    "meaning": "捡起",
+    "pos": "動詞・五段",
+    "collocation": "ごみを拾う",
+    "note": "",
+    "audioText": "ひろう",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ごみを拾います。",
+      "reading": "ごみおひろいます。",
+      "translation": "捡垃圾。"
+    }
+  },
+  {
+    "writing": "捨てる",
+    "reading": "すてる",
+    "meaning": "扔掉",
+    "pos": "動詞・一段",
+    "collocation": "ごみを捨てる",
+    "note": "",
+    "audioText": "すてる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ごみを捨てます。",
+      "reading": "ごみおすてます。",
+      "translation": "扔垃圾。"
+    }
+  },
+  {
+    "writing": "渡す",
+    "reading": "わたす",
+    "meaning": "递给；交给",
+    "pos": "動詞・五段",
+    "collocation": "先生にノートを渡す",
+    "note": "",
+    "audioText": "わたす",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "先生にノートを渡します。",
+      "reading": "せんせいにのーとおわたします。",
+      "translation": "把笔记本交给老师。"
+    }
+  },
+  {
+    "writing": "運ぶ",
+    "reading": "はこぶ",
+    "meaning": "搬运；运送",
+    "pos": "動詞・五段",
+    "collocation": "荷物を運ぶ",
+    "note": "",
+    "audioText": "はこぶ",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "荷物を運びます。",
+      "reading": "にもつおはこびます。",
+      "translation": "搬行李。"
+    }
+  },
+  {
+    "writing": "持っていく",
+    "reading": "もっていく",
+    "meaning": "带去",
+    "pos": "動詞・五段",
+    "collocation": "傘を持っていく",
+    "note": "",
+    "audioText": "もっていく",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "傘を持っていきます。",
+      "reading": "かさおもっていきます。",
+      "translation": "带伞去。"
+    }
+  },
+  {
+    "writing": "持ってくる",
+    "reading": "もってくる",
+    "meaning": "带来",
+    "pos": "動詞・来る",
+    "collocation": "明日、傘を持ってくる",
+    "note": "",
+    "audioText": "もってくる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明日、傘を持ってきます。",
+      "reading": "あした、かさおもってきます。",
+      "translation": "明天带伞来。"
+    }
+  },
+  {
+    "writing": "戻る",
+    "reading": "もどる",
+    "meaning": "返回",
+    "pos": "動詞・五段",
+    "collocation": "部屋に戻る",
+    "note": "",
+    "audioText": "もどる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "部屋に戻ります。",
+      "reading": "へやにもどります。",
+      "translation": "返回房间。"
+    }
+  },
+  {
+    "writing": "戻す",
+    "reading": "もどす",
+    "meaning": "放回；恢复",
+    "pos": "動詞・五段",
+    "collocation": "本を戻す",
+    "note": "",
+    "audioText": "もどす",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "本を戻します。",
+      "reading": "ほんおもどします。",
+      "translation": "把书放回去。"
+    }
+  },
+  {
+    "writing": "進む",
+    "reading": "すすむ",
+    "meaning": "前进；进展",
+    "pos": "動詞・五段",
+    "collocation": "前に進む",
+    "note": "",
+    "audioText": "すすむ",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "前に進みます。",
+      "reading": "まえにすすみます。",
+      "translation": "向前走。"
+    }
+  },
+  {
+    "writing": "急ぐ",
+    "reading": "いそぐ",
+    "meaning": "赶紧；赶路",
+    "pos": "動詞・五段",
+    "collocation": "駅へ急ぐ",
+    "note": "",
+    "audioText": "いそぐ",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "駅へ急ぎます。",
+      "reading": "えきえいそぎます。",
+      "translation": "赶往车站。"
+    }
+  },
+  {
+    "writing": "遅れる",
+    "reading": "おくれる",
+    "meaning": "迟到；延迟",
+    "pos": "動詞・一段",
+    "collocation": "電車が遅れる",
+    "note": "",
+    "audioText": "おくれる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "電車が遅れます。",
+      "reading": "でんしゃがおくれます。",
+      "translation": "电车晚点。"
+    }
+  },
+  {
+    "writing": "間に合う",
+    "reading": "まにあう",
+    "meaning": "来得及",
+    "pos": "動詞・五段",
+    "collocation": "授業に間に合う",
+    "note": "",
+    "audioText": "まにあう",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "授業に間に合います。",
+      "reading": "じゅぎょうにまにあいます。",
+      "translation": "赶得上课。"
+    }
+  },
+  {
+    "writing": "通う",
+    "reading": "かよう",
+    "meaning": "定期往返；上学上班",
+    "pos": "動詞・五段",
+    "collocation": "学校に通う",
+    "note": "",
+    "audioText": "かよう",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "学校に通います。",
+      "reading": "がっこうにかよいます。",
+      "translation": "上学。"
+    }
+  },
+  {
+    "writing": "通る",
+    "reading": "とおる",
+    "meaning": "经过；通过",
+    "pos": "動詞・五段",
+    "collocation": "この道を通る",
+    "note": "",
+    "audioText": "とおる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この道を通ります。",
+      "reading": "このみちおとおります。",
+      "translation": "走这条路。"
+    }
+  },
+  {
+    "writing": "離れる",
+    "reading": "はなれる",
+    "meaning": "离开；隔开",
+    "pos": "動詞・一段",
+    "collocation": "席を離れる",
+    "note": "",
+    "audioText": "はなれる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "席を離れます。",
+      "reading": "せきおはなれます。",
+      "translation": "离开座位。"
+    }
+  },
+  {
+    "writing": "泊まる",
+    "reading": "とまる",
+    "meaning": "住宿；过夜",
+    "pos": "動詞・五段",
+    "collocation": "ホテルに泊まる",
+    "note": "",
+    "audioText": "とまる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ホテルに泊まります。",
+      "reading": "ほてるにとまります。",
+      "translation": "住酒店。"
+    }
+  },
+  {
+    "writing": "迎える",
+    "reading": "むかえる",
+    "meaning": "迎接",
+    "pos": "動詞・一段",
+    "collocation": "友達を迎える",
+    "note": "",
+    "audioText": "むかえる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "友達を迎えます。",
+      "reading": "ともだちおむかえます。",
+      "translation": "迎接朋友。"
+    }
+  },
+  {
+    "writing": "払う",
+    "reading": "はらう",
+    "meaning": "支付",
+    "pos": "動詞・五段",
+    "collocation": "お金を払う",
+    "note": "",
+    "audioText": "はらう",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "お金を払います。",
+      "reading": "おかねおはらいます。",
+      "translation": "付钱。"
+    }
+  },
+  {
+    "writing": "売る",
+    "reading": "うる",
+    "meaning": "卖",
+    "pos": "動詞・五段",
+    "collocation": "本を売る",
+    "note": "",
+    "audioText": "うる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "本を売ります。",
+      "reading": "ほんおうります。",
+      "translation": "卖书。"
+    }
+  },
+  {
+    "writing": "売れる",
+    "reading": "うれる",
+    "meaning": "卖出；畅销",
+    "pos": "動詞・一段",
+    "collocation": "この本はよく売れる",
+    "note": "",
+    "audioText": "うれる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この本はよく売れます。",
+      "reading": "このほんわよくうれます。",
+      "translation": "这本书很畅销。"
+    }
+  },
+  {
+    "writing": "頼む",
+    "reading": "たのむ",
+    "meaning": "请求；点餐",
+    "pos": "動詞・五段",
+    "collocation": "コーヒーを頼む",
+    "note": "",
+    "audioText": "たのむ",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "コーヒーを頼みます。",
+      "reading": "こーひーおたのみます。",
+      "translation": "点咖啡。"
+    }
+  },
+  {
+    "writing": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "叫；呼唤",
+    "pos": "動詞・五段",
+    "collocation": "友達を呼ぶ",
+    "note": "",
+    "audioText": "よぶ",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "友達を呼びます。",
+      "reading": "ともだちおよびます。",
+      "translation": "叫朋友。"
+    }
+  },
+  {
+    "writing": "伝える",
+    "reading": "つたえる",
+    "meaning": "传达；告知",
+    "pos": "動詞・一段",
+    "collocation": "予定を伝える",
+    "note": "",
+    "audioText": "つたえる",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "予定を伝えます。",
+      "reading": "よていおつたえます。",
+      "translation": "告知安排。"
+    }
+  },
+  {
+    "writing": "説明する",
+    "reading": "せつめいする",
+    "meaning": "说明；解释",
+    "pos": "動詞・する",
+    "collocation": "意味を説明する",
+    "note": "",
+    "audioText": "せつめいする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "意味を説明します。",
+      "reading": "いみおせつめいします。",
+      "translation": "解释意思。"
+    }
+  },
+  {
+    "writing": "相談する",
+    "reading": "そうだんする",
+    "meaning": "商量；咨询",
+    "pos": "動詞・する",
+    "collocation": "先生に相談する",
+    "note": "",
+    "audioText": "そうだんする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "先生に相談します。",
+      "reading": "せんせいにそうだんします。",
+      "translation": "向老师请教。"
+    }
+  },
+  {
+    "writing": "連絡する",
+    "reading": "れんらくする",
+    "meaning": "联系",
+    "pos": "動詞・する",
+    "collocation": "友達に連絡する",
+    "note": "",
+    "audioText": "れんらくする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "友達に連絡します。",
+      "reading": "ともだちにれんらくします。",
+      "translation": "联系朋友。"
+    }
+  },
+  {
+    "writing": "紹介する",
+    "reading": "しょうかいする",
+    "meaning": "介绍",
+    "pos": "動詞・する",
+    "collocation": "友達を紹介する",
+    "note": "",
+    "audioText": "しょうかいする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "友達を紹介します。",
+      "reading": "ともだちおしょうかいします。",
+      "translation": "介绍朋友。"
+    }
+  },
+  {
+    "writing": "約束する",
+    "reading": "やくそくする",
+    "meaning": "约定；承诺",
+    "pos": "動詞・する",
+    "collocation": "友達と約束する",
+    "note": "",
+    "audioText": "やくそくする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "友達と約束します。",
+      "reading": "ともだちとやくそくします。",
+      "translation": "和朋友约定。"
+    }
+  },
+  {
+    "writing": "予約する",
+    "reading": "よやくする",
+    "meaning": "预约；预订",
+    "pos": "動詞・する",
+    "collocation": "ホテルを予約する",
+    "note": "",
+    "audioText": "よやくする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ホテルを予約します。",
+      "reading": "ほてるおよやくします。",
+      "translation": "预订酒店。"
+    }
+  },
+  {
+    "writing": "準備する",
+    "reading": "じゅんびする",
+    "meaning": "准备",
+    "pos": "動詞・する",
+    "collocation": "旅行のために準備する",
+    "note": "",
+    "audioText": "じゅんびする",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "旅行のために準備します。",
+      "reading": "りょこうのためにじゅんびします。",
+      "translation": "为旅行做准备。"
+    }
+  },
+  {
+    "writing": "参加する",
+    "reading": "さんかする",
+    "meaning": "参加",
+    "pos": "動詞・する",
+    "collocation": "会議に参加する",
+    "note": "",
+    "audioText": "さんかする",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "会議に参加します。",
+      "reading": "かいぎにさんかします。",
+      "translation": "参加会议。"
+    }
+  },
+  {
+    "writing": "卒業する",
+    "reading": "そつぎょうする",
+    "meaning": "毕业",
+    "pos": "動詞・する",
+    "collocation": "学校を卒業する",
+    "note": "",
+    "audioText": "そつぎょうする",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "学校を卒業します。",
+      "reading": "がっこうおそつぎょうします。",
+      "translation": "从学校毕业。"
+    }
+  },
+  {
+    "writing": "入学する",
+    "reading": "にゅうがくする",
+    "meaning": "入学",
+    "pos": "動詞・する",
+    "collocation": "大学に入学する",
+    "note": "",
+    "audioText": "にゅうがくする",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "大学に入学します。",
+      "reading": "だいがくににゅうがくします。",
+      "translation": "进入大学学习。"
+    }
+  },
+  {
+    "writing": "確認する",
+    "reading": "かくにんする",
+    "meaning": "确认；核对",
+    "pos": "動詞・する",
+    "collocation": "時間を確認する",
+    "note": "",
+    "audioText": "かくにんする",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時間を確認します。",
+      "reading": "じかんおかくにんします。",
+      "translation": "核对时间。"
+    }
+  },
+  {
+    "writing": "変更する",
+    "reading": "へんこうする",
+    "meaning": "变更",
+    "pos": "動詞・する",
+    "collocation": "予定を変更する",
+    "note": "",
+    "audioText": "へんこうする",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "予定を変更します。",
+      "reading": "よていおへんこうします。",
+      "translation": "更改安排。"
+    }
+  },
+  {
+    "writing": "利用する",
+    "reading": "りようする",
+    "meaning": "使用；利用",
+    "pos": "動詞・する",
+    "collocation": "バスを利用する",
+    "note": "",
+    "audioText": "りようする",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "バスを利用します。",
+      "reading": "ばすおりようします。",
+      "translation": "乘坐公交车。"
+    }
+  },
+  {
+    "writing": "注文する",
+    "reading": "ちゅうもんする",
+    "meaning": "点餐；订购",
+    "pos": "動詞・する",
+    "collocation": "料理を注文する",
+    "note": "",
+    "audioText": "ちゅうもんする",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "料理を注文します。",
+      "reading": "りょうりおちゅうもんします。",
+      "translation": "点菜。"
+    }
+  },
+  {
+    "writing": "交換する",
+    "reading": "こうかんする",
+    "meaning": "交换；更换",
+    "pos": "動詞・する",
+    "collocation": "メールアドレスを交換する",
+    "note": "",
+    "audioText": "こうかんする",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "メールアドレスを交換します。",
+      "reading": "めーるあどれすおこうかんします。",
+      "translation": "交换电子邮箱地址。"
+    }
+  },
+  {
+    "writing": "出発する",
+    "reading": "しゅっぱつする",
+    "meaning": "出发",
+    "pos": "動詞・する",
+    "collocation": "明日出発する",
+    "note": "",
+    "audioText": "しゅっぱつする",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明日出発します。",
+      "reading": "あしたしゅっぱつします。",
+      "translation": "明天出发。"
+    }
+  },
+  {
+    "writing": "到着する",
+    "reading": "とうちゃくする",
+    "meaning": "到达",
+    "pos": "動詞・する",
+    "collocation": "駅に到着する",
+    "note": "",
+    "audioText": "とうちゃくする",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "駅に到着します。",
+      "reading": "えきにとうちゃくします。",
+      "translation": "到达车站。"
+    }
+  },
+  {
+    "writing": "着る",
+    "reading": "きる",
+    "meaning": "穿上身衣物",
+    "pos": "動詞・一段",
+    "collocation": "シャツを着る",
+    "note": "",
+    "audioText": "きる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "シャツを着ます。",
+      "reading": "しゃつおきます。",
+      "translation": "穿衬衫。"
+    }
+  },
+  {
+    "writing": "履く",
+    "reading": "はく",
+    "meaning": "穿鞋或下身衣物",
+    "pos": "動詞・五段",
+    "collocation": "靴を履く",
+    "note": "",
+    "audioText": "はく",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "靴を履きます。",
+      "reading": "くつおはきます。",
+      "translation": "穿鞋。"
+    }
+  },
+  {
+    "writing": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "脱下",
+    "pos": "動詞・五段",
+    "collocation": "靴を脱ぐ",
+    "note": "",
+    "audioText": "ぬぐ",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "靴を脱ぎます。",
+      "reading": "くつおぬぎます。",
+      "translation": "脱鞋。"
+    }
+  },
+  {
+    "writing": "かぶる",
+    "reading": "かぶる",
+    "meaning": "戴帽子",
+    "pos": "動詞・五段",
+    "collocation": "帽子をかぶる",
+    "note": "帽子等套在头上的物品用「かぶる」。",
+    "audioText": "かぶる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "帽子をかぶります。",
+      "reading": "ぼうしおかぶります。",
+      "translation": "戴帽子。"
+    }
+  },
+  {
+    "writing": "掛ける",
+    "reading": "かける",
+    "meaning": "挂；戴；拨打",
+    "pos": "動詞・一段",
+    "collocation": "眼鏡を掛ける",
+    "note": "多义词；本词例句学习「眼鏡を掛ける」戴眼镜。",
+    "audioText": "かける",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "眼鏡を掛けます。",
+      "reading": "めがねおかけます。",
+      "translation": "戴眼镜。"
+    }
+  },
+  {
+    "writing": "磨く",
+    "reading": "みがく",
+    "meaning": "磨；刷",
+    "pos": "動詞・五段",
+    "collocation": "歯を磨く",
+    "note": "",
+    "audioText": "みがく",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "歯を磨きます。",
+      "reading": "はおみがきます。",
+      "translation": "刷牙。"
+    }
+  },
+  {
+    "writing": "切る",
+    "reading": "きる",
+    "meaning": "切；剪；关闭",
+    "pos": "動詞・五段",
+    "collocation": "紙を切る",
+    "note": "",
+    "audioText": "きる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "紙を切ります。",
+      "reading": "かみおきります。",
+      "translation": "剪纸。"
+    }
+  },
+  {
+    "writing": "貼る",
+    "reading": "はる",
+    "meaning": "贴",
+    "pos": "動詞・五段",
+    "collocation": "写真を貼る",
+    "note": "",
+    "audioText": "はる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "写真を貼ります。",
+      "reading": "しゃしんおはります。",
+      "translation": "贴照片。"
+    }
+  },
+  {
+    "writing": "折る",
+    "reading": "おる",
+    "meaning": "折；折断",
+    "pos": "動詞・五段",
+    "collocation": "紙を折る",
+    "note": "",
+    "audioText": "おる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "紙を折ります。",
+      "reading": "かみおおります。",
+      "translation": "折纸。"
+    }
+  },
+  {
+    "writing": "拭く",
+    "reading": "ふく",
+    "meaning": "擦拭",
+    "pos": "動詞・五段",
+    "collocation": "机を拭く",
+    "note": "",
+    "audioText": "ふく",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "机を拭きます。",
+      "reading": "つくえおふきます。",
+      "translation": "擦桌子。"
+    }
+  },
+  {
+    "writing": "片付ける",
+    "reading": "かたづける",
+    "meaning": "收拾；整理",
+    "pos": "動詞・一段",
+    "collocation": "部屋を片付ける",
+    "note": "",
+    "audioText": "かたづける",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "部屋を片付けます。",
+      "reading": "へやおかたづけます。",
+      "translation": "整理房间。"
+    }
+  },
+  {
+    "writing": "並べる",
+    "reading": "ならべる",
+    "meaning": "排列；摆放",
+    "pos": "動詞・一段",
+    "collocation": "本を並べる",
+    "note": "",
+    "audioText": "ならべる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "本を並べます。",
+      "reading": "ほんおならべます。",
+      "translation": "摆放书本。"
+    }
+  },
+  {
+    "writing": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "排队；排列",
+    "pos": "動詞・五段",
+    "collocation": "ここに並ぶ",
+    "note": "",
+    "audioText": "ならぶ",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ここに並びます。",
+      "reading": "ここにならびます。",
+      "translation": "在这里排队。"
+    }
+  },
+  {
+    "writing": "入れる",
+    "reading": "いれる",
+    "meaning": "放入",
+    "pos": "動詞・一段",
+    "collocation": "鞄に本を入れる",
+    "note": "",
+    "audioText": "いれる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "鞄に本を入れます。",
+      "reading": "かばんにほんおいれます。",
+      "translation": "把书放进包里。"
+    }
+  },
+  {
+    "writing": "出す",
+    "reading": "だす",
+    "meaning": "拿出；提交",
+    "pos": "動詞・五段",
+    "collocation": "宿題を出す",
+    "note": "",
+    "audioText": "だす",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "宿題を出します。",
+      "reading": "しゅくだいおだします。",
+      "translation": "交作业。"
+    }
+  },
+  {
+    "writing": "開く",
+    "reading": "あく",
+    "meaning": "打开；开着",
+    "pos": "動詞・五段",
+    "collocation": "店が開く",
+    "note": "此词读あく，是自动词，表示门等打开；开着的状态用開いている。打开书等的開く读ひらく，不能混用读音。",
+    "audioText": "あく",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "店が開きます。",
+      "reading": "みせがあきます。",
+      "translation": "店开门。"
+    }
+  },
+  {
+    "writing": "閉まる",
+    "reading": "しまる",
+    "meaning": "关闭；关着",
+    "pos": "動詞・五段",
+    "collocation": "店が閉まる",
+    "note": "自动词，表示门等关上；关着的状态用閉まっている。把门关上用他动词閉める。",
+    "audioText": "しまる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "店が閉まります。",
+      "reading": "みせがしまります。",
+      "translation": "店关门。"
+    }
+  },
+  {
+    "writing": "消す",
+    "reading": "けす",
+    "meaning": "关掉；擦掉",
+    "pos": "動詞・五段",
+    "collocation": "テレビを消す",
+    "note": "",
+    "audioText": "けす",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "テレビを消します。",
+      "reading": "てれびおけします。",
+      "translation": "关电视。"
+    }
+  },
+  {
+    "writing": "消える",
+    "reading": "きえる",
+    "meaning": "消失；熄灭",
+    "pos": "動詞・一段",
+    "collocation": "電気が消える",
+    "note": "",
+    "audioText": "きえる",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "電気が消えます。",
+      "reading": "でんきがきえます。",
+      "translation": "灯会熄灭。"
+    }
+  },
+  {
+    "writing": "つける",
+    "reading": "つける",
+    "meaning": "打开电器；附上",
+    "pos": "動詞・一段",
+    "collocation": "テレビをつける",
+    "note": "",
+    "audioText": "つける",
+    "category": "动作与状态",
+    "group": "穿戴与整理",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "テレビをつけます。",
+      "reading": "てれびおつけます。",
+      "translation": "打开电视。"
+    }
+  },
+  {
+    "writing": "壊す",
+    "reading": "こわす",
+    "meaning": "弄坏；破坏",
+    "pos": "動詞・五段",
+    "collocation": "時計を壊す",
+    "note": "",
+    "audioText": "こわす",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時計を壊します。",
+      "reading": "とけいおこわします。",
+      "translation": "弄坏钟表。"
+    }
+  },
+  {
+    "writing": "壊れる",
+    "reading": "こわれる",
+    "meaning": "坏掉",
+    "pos": "動詞・一段",
+    "collocation": "時計が壊れる",
+    "note": "",
+    "audioText": "こわれる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時計が壊れます。",
+      "reading": "とけいがこわれます。",
+      "translation": "钟表会坏。"
+    }
+  },
+  {
+    "writing": "直す",
+    "reading": "なおす",
+    "meaning": "修理；改正",
+    "pos": "動詞・五段",
+    "collocation": "時計を直す",
+    "note": "",
+    "audioText": "なおす",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時計を直します。",
+      "reading": "とけいおなおします。",
+      "translation": "修钟表。"
+    }
+  },
+  {
+    "writing": "直る",
+    "reading": "なおる",
+    "meaning": "修好；恢复",
+    "pos": "動詞・五段",
+    "collocation": "時計が直る",
+    "note": "",
+    "audioText": "なおる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時計が直ります。",
+      "reading": "とけいがなおります。",
+      "translation": "钟表会修好。"
+    }
+  },
+  {
+    "writing": "足す",
+    "reading": "たす",
+    "meaning": "加；补充",
+    "pos": "動詞・五段",
+    "collocation": "水を足す",
+    "note": "",
+    "audioText": "たす",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "水を足します。",
+      "reading": "みずおたします。",
+      "translation": "加水。"
+    }
+  },
+  {
+    "writing": "足りる",
+    "reading": "たりる",
+    "meaning": "够；足够",
+    "pos": "動詞・一段",
+    "collocation": "時間は足りる",
+    "note": "",
+    "audioText": "たりる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時間は足ります。",
+      "reading": "じかんわたります。",
+      "translation": "时间够用。"
+    }
+  },
+  {
+    "writing": "残る",
+    "reading": "のこる",
+    "meaning": "留下；剩余",
+    "pos": "動詞・五段",
+    "collocation": "少し残る",
+    "note": "",
+    "audioText": "のこる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "少し残ります。",
+      "reading": "すこしのこります。",
+      "translation": "剩下一点。"
+    }
+  },
+  {
+    "writing": "残す",
+    "reading": "のこす",
+    "meaning": "留下；剩下",
+    "pos": "動詞・五段",
+    "collocation": "メモを残す",
+    "note": "",
+    "audioText": "のこす",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "メモを残します。",
+      "reading": "めもおのこします。",
+      "translation": "留下便条。"
+    }
+  },
+  {
+    "writing": "増える",
+    "reading": "ふえる",
+    "meaning": "增加",
+    "pos": "動詞・一段",
+    "collocation": "仕事が増える",
+    "note": "",
+    "audioText": "ふえる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "仕事が増えます。",
+      "reading": "しごとがふえます。",
+      "translation": "工作增多。"
+    }
+  },
+  {
+    "writing": "増やす",
+    "reading": "ふやす",
+    "meaning": "增加；使增多",
+    "pos": "動詞・五段",
+    "collocation": "練習の時間を増やす",
+    "note": "",
+    "audioText": "ふやす",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "練習の時間を増やします。",
+      "reading": "れんしゅうのじかんおふやします。",
+      "translation": "增加练习时间。"
+    }
+  },
+  {
+    "writing": "減る",
+    "reading": "へる",
+    "meaning": "减少",
+    "pos": "動詞・五段",
+    "collocation": "仕事が減る",
+    "note": "",
+    "audioText": "へる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "仕事が減ります。",
+      "reading": "しごとがへります。",
+      "translation": "工作减少。"
+    }
+  },
+  {
+    "writing": "減らす",
+    "reading": "へらす",
+    "meaning": "减少；使减少",
+    "pos": "動詞・五段",
+    "collocation": "仕事を減らす",
+    "note": "",
+    "audioText": "へらす",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "仕事を減らします。",
+      "reading": "しごとおへらします。",
+      "translation": "减少工作。"
+    }
+  },
+  {
+    "writing": "変わる",
+    "reading": "かわる",
+    "meaning": "改变；变化",
+    "pos": "動詞・五段",
+    "collocation": "予定が変わる",
+    "note": "",
+    "audioText": "かわる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "予定が変わります。",
+      "reading": "よていがかわります。",
+      "translation": "安排会改变。"
+    }
+  },
+  {
+    "writing": "変える",
+    "reading": "かえる",
+    "meaning": "改变；更换",
+    "pos": "動詞・一段",
+    "collocation": "予定を変える",
+    "note": "",
+    "audioText": "かえる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "予定を変えます。",
+      "reading": "よていおかえます。",
+      "translation": "更改安排。"
+    }
+  },
+  {
+    "writing": "疲れる",
+    "reading": "つかれる",
+    "meaning": "疲倦",
+    "pos": "動詞・一段",
+    "collocation": "仕事で疲れる",
+    "note": "",
+    "audioText": "つかれる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "仕事で疲れます。",
+      "reading": "しごとでつかれます。",
+      "translation": "因工作而疲倦。"
+    }
+  },
+  {
+    "writing": "困る",
+    "reading": "こまる",
+    "meaning": "为难；苦恼",
+    "pos": "動詞・五段",
+    "collocation": "時々困る",
+    "note": "",
+    "audioText": "こまる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "時々困ります。",
+      "reading": "ときどきこまります。",
+      "translation": "有时会感到为难。"
+    }
+  },
+  {
+    "writing": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "高兴；喜悦",
+    "pos": "動詞・五段",
+    "collocation": "子供が喜ぶ",
+    "note": "",
+    "audioText": "よろこぶ",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "子供が喜びます。",
+      "reading": "こどもがよろこびます。",
+      "translation": "孩子很高兴。"
+    }
+  },
+  {
+    "writing": "驚く",
+    "reading": "おどろく",
+    "meaning": "吃惊",
+    "pos": "動詞・五段",
+    "collocation": "ニュースを聞いて驚く",
+    "note": "",
+    "audioText": "おどろく",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ニュースを聞いて驚きます。",
+      "reading": "にゅーすおきいておどろきます。",
+      "translation": "听到新闻会感到惊讶。"
+    }
+  },
+  {
+    "writing": "笑う",
+    "reading": "わらう",
+    "meaning": "笑",
+    "pos": "動詞・五段",
+    "collocation": "子供が笑う",
+    "note": "",
+    "audioText": "わらう",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "子供が笑います。",
+      "reading": "こどもがわらいます。",
+      "translation": "孩子笑。"
+    }
+  },
+  {
+    "writing": "泣く",
+    "reading": "なく",
+    "meaning": "哭",
+    "pos": "動詞・五段",
+    "collocation": "子供が泣く",
+    "note": "",
+    "audioText": "なく",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "子供が泣きます。",
+      "reading": "こどもがなきます。",
+      "translation": "孩子哭。"
+    }
+  },
+  {
+    "writing": "怒る",
+    "reading": "おこる",
+    "meaning": "生气",
+    "pos": "動詞・五段",
+    "collocation": "先生が怒る",
+    "note": "",
+    "audioText": "おこる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "先生が怒ります。",
+      "reading": "せんせいがおこります。",
+      "translation": "老师生气。"
+    }
+  },
+  {
+    "writing": "頑張る",
+    "reading": "がんばる",
+    "meaning": "努力；加油",
+    "pos": "動詞・五段",
+    "collocation": "明日も頑張る",
+    "note": "",
+    "audioText": "がんばる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "明日も頑張ります。",
+      "reading": "あしたもがんばります。",
+      "translation": "明天也会努力。"
+    }
+  },
+  {
+    "writing": "慣れる",
+    "reading": "なれる",
+    "meaning": "习惯；适应",
+    "pos": "動詞・一段",
+    "collocation": "新しい仕事に慣れる",
+    "note": "",
+    "audioText": "なれる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "新しい仕事に慣れます。",
+      "reading": "あたらしいしごとになれます。",
+      "translation": "适应新工作。"
+    }
+  },
+  {
+    "writing": "信じる",
+    "reading": "しんじる",
+    "meaning": "相信",
+    "pos": "動詞・一段",
+    "collocation": "友達を信じる",
+    "note": "",
+    "audioText": "しんじる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "友達を信じます。",
+      "reading": "ともだちおしんじます。",
+      "translation": "相信朋友。"
+    }
+  },
+  {
+    "writing": "助ける",
+    "reading": "たすける",
+    "meaning": "帮助；救助",
+    "pos": "動詞・一段",
+    "collocation": "友達を助ける",
+    "note": "",
+    "audioText": "たすける",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "友達を助けます。",
+      "reading": "ともだちおたすけます。",
+      "translation": "帮助朋友。"
+    }
+  },
+  {
+    "writing": "手伝う",
+    "reading": "てつだう",
+    "meaning": "帮忙",
+    "pos": "動詞・五段",
+    "collocation": "母を手伝う",
+    "note": "",
+    "audioText": "てつだう",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "母を手伝います。",
+      "reading": "ははおてつだいます。",
+      "translation": "帮母亲做事。"
+    }
+  },
+  {
+    "writing": "謝る",
+    "reading": "あやまる",
+    "meaning": "道歉",
+    "pos": "動詞・五段",
+    "collocation": "友達に謝る",
+    "note": "",
+    "audioText": "あやまる",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "友達に謝ります。",
+      "reading": "ともだちにあやまります。",
+      "translation": "向朋友道歉。"
+    }
+  },
+  {
+    "writing": "なくす",
+    "reading": "なくす",
+    "meaning": "丢失",
+    "pos": "動詞・五段",
+    "collocation": "鍵をなくす",
+    "note": "",
+    "audioText": "なくす",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "鍵をなくします。",
+      "reading": "かぎおなくします。",
+      "translation": "弄丢钥匙。"
+    }
+  },
+  {
+    "writing": "間違える",
+    "reading": "まちがえる",
+    "meaning": "弄错",
+    "pos": "動詞・一段",
+    "collocation": "答えを間違える",
+    "note": "",
+    "audioText": "まちがえる",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "答えを間違えます。",
+      "reading": "こたえおまちがえます。",
+      "translation": "答错。"
+    }
+  },
+  {
+    "writing": "試す",
+    "reading": "ためす",
+    "meaning": "尝试；试验",
+    "pos": "動詞・五段",
+    "collocation": "新しい方法を試す",
+    "note": "",
+    "audioText": "ためす",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "新しい方法を試します。",
+      "reading": "あたらしいほうほうおためします。",
+      "translation": "尝试新方法。"
+    }
+  },
+  {
+    "writing": "眠る",
+    "reading": "ねむる",
+    "meaning": "睡；入眠",
+    "pos": "動詞・五段",
+    "collocation": "夜、よく眠る",
+    "note": "",
+    "audioText": "ねむる",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "夜、よく眠ります。",
+      "reading": "よる、よくねむります。",
+      "translation": "夜里睡得好。"
+    }
+  },
+  {
+    "writing": "休憩する",
+    "reading": "きゅうけいする",
+    "meaning": "休息一下",
+    "pos": "動詞・する",
+    "collocation": "ここで休憩する",
+    "note": "",
+    "audioText": "きゅうけいする",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ここで休憩します。",
+      "reading": "ここできゅうけいします。",
+      "translation": "在这里休息一下。"
+    }
+  },
+  {
+    "writing": "復習する",
+    "reading": "ふくしゅうする",
+    "meaning": "复习",
+    "pos": "動詞・する",
+    "collocation": "単語を復習する",
+    "note": "",
+    "audioText": "ふくしゅうする",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "単語を復習します。",
+      "reading": "たんごおふくしゅうします。",
+      "translation": "复习单词。"
+    }
+  },
+  {
+    "writing": "予習する",
+    "reading": "よしゅうする",
+    "meaning": "预习",
+    "pos": "動詞・する",
+    "collocation": "明日の授業を予習する",
+    "note": "",
+    "audioText": "よしゅうする",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明日の授業を予習します。",
+      "reading": "あしたのじゅぎょうおよしゅうします。",
+      "translation": "预习明天的课程。"
+    }
+  },
+  {
+    "writing": "保存する",
+    "reading": "ほぞんする",
+    "meaning": "保存",
+    "pos": "動詞・する",
+    "collocation": "写真を保存する",
+    "note": "",
+    "audioText": "ほぞんする",
+    "category": "动作与状态",
+    "group": "数字操作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "写真を保存します。",
+      "reading": "しゃしんおほぞんします。",
+      "translation": "保存照片。"
+    }
+  },
+  {
+    "writing": "入力する",
+    "reading": "にゅうりょくする",
+    "meaning": "输入",
+    "pos": "動詞・する",
+    "collocation": "名前を入力する",
+    "note": "",
+    "audioText": "にゅうりょくする",
+    "category": "动作与状态",
+    "group": "数字操作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "名前を入力します。",
+      "reading": "なまえおにゅうりょくします。",
+      "translation": "输入名字。"
+    }
+  },
+  {
+    "writing": "検索する",
+    "reading": "けんさくする",
+    "meaning": "搜索",
+    "pos": "動詞・する",
+    "collocation": "言葉を検索する",
+    "note": "",
+    "audioText": "けんさくする",
+    "category": "动作与状态",
+    "group": "数字操作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "言葉を検索します。",
+      "reading": "ことばおけんさくします。",
+      "translation": "搜索词语。"
+    }
+  },
+  {
+    "writing": "祝う",
+    "reading": "いわう",
+    "meaning": "庆祝；祝贺",
+    "pos": "動詞・五段",
+    "collocation": "誕生日を祝う",
+    "note": "",
+    "audioText": "いわう",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "誕生日を祝います。",
+      "reading": "たんじょうびおいわいます。",
+      "translation": "庆祝生日。"
+    }
+  },
+  {
+    "writing": "楽しむ",
+    "reading": "たのしむ",
+    "meaning": "享受；乐在其中",
+    "pos": "動詞・五段",
+    "collocation": "旅行を楽しむ",
+    "note": "",
+    "audioText": "たのしむ",
+    "category": "动作与状态",
+    "group": "感官与情绪",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "旅行を楽しみます。",
+      "reading": "りょこうおたのしみます。",
+      "translation": "享受旅行。"
+    }
+  },
+  {
+    "writing": "青い",
+    "reading": "あおい",
+    "meaning": "蓝色的",
+    "pos": "い形容詞",
+    "collocation": "空は青いです",
+    "note": "",
+    "audioText": "あおい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "空は青いです。",
+      "reading": "そらわあおいです。",
+      "translation": "天空是蓝色的。"
+    }
+  },
+  {
+    "writing": "黄色い",
+    "reading": "きいろい",
+    "meaning": "黄色的",
+    "pos": "い形容詞",
+    "collocation": "この花は黄色いです",
+    "note": "",
+    "audioText": "きいろい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この花は黄色いです。",
+      "reading": "このはなわきいろいです。",
+      "translation": "这朵花是黄色的。"
+    }
+  },
+  {
+    "writing": "明るい",
+    "reading": "あかるい",
+    "meaning": "明亮的；开朗的",
+    "pos": "い形容詞",
+    "collocation": "部屋は明るいです",
+    "note": "",
+    "audioText": "あかるい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "部屋は明るいです。",
+      "reading": "へやわあかるいです。",
+      "translation": "房间很明亮。"
+    }
+  },
+  {
+    "writing": "暗い",
+    "reading": "くらい",
+    "meaning": "昏暗的；阴沉的",
+    "pos": "い形容詞",
+    "collocation": "部屋は暗いです",
+    "note": "",
+    "audioText": "くらい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "部屋は暗いです。",
+      "reading": "へやわくらいです。",
+      "translation": "房间很暗。"
+    }
+  },
+  {
+    "writing": "重い",
+    "reading": "おもい",
+    "meaning": "重的",
+    "pos": "い形容詞",
+    "collocation": "この鞄は重いです",
+    "note": "",
+    "audioText": "おもい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この鞄は重いです。",
+      "reading": "このかばんわおもいです。",
+      "translation": "这个包很重。"
+    }
+  },
+  {
+    "writing": "軽い",
+    "reading": "かるい",
+    "meaning": "轻的",
+    "pos": "い形容詞",
+    "collocation": "この鞄は軽いです",
+    "note": "",
+    "audioText": "かるい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この鞄は軽いです。",
+      "reading": "このかばんわかるいです。",
+      "translation": "这个包很轻。"
+    }
+  },
+  {
+    "writing": "厚い",
+    "reading": "あつい",
+    "meaning": "厚的",
+    "pos": "い形容詞",
+    "collocation": "この本は厚いです",
+    "note": "",
+    "audioText": "あつい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この本は厚いです。",
+      "reading": "このほんわあついです。",
+      "translation": "这本书很厚。"
+    }
+  },
+  {
+    "writing": "薄い",
+    "reading": "うすい",
+    "meaning": "薄的；淡的",
+    "pos": "い形容詞",
+    "collocation": "この本は薄いです",
+    "note": "",
+    "audioText": "うすい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この本は薄いです。",
+      "reading": "このほんわうすいです。",
+      "translation": "这本书很薄。"
+    }
+  },
+  {
+    "writing": "太い",
+    "reading": "ふとい",
+    "meaning": "粗的",
+    "pos": "い形容詞",
+    "collocation": "このペンは太いです",
+    "note": "",
+    "audioText": "ふとい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このペンは太いです。",
+      "reading": "このぺんわふといです。",
+      "translation": "这支笔很粗。"
+    }
+  },
+  {
+    "writing": "細い",
+    "reading": "ほそい",
+    "meaning": "细的",
+    "pos": "い形容詞",
+    "collocation": "このペンは細いです",
+    "note": "",
+    "audioText": "ほそい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このペンは細いです。",
+      "reading": "このぺんわほそいです。",
+      "translation": "这支笔很细。"
+    }
+  },
+  {
+    "writing": "狭い",
+    "reading": "せまい",
+    "meaning": "窄的",
+    "pos": "い形容詞",
+    "collocation": "この道は狭いです",
+    "note": "",
+    "audioText": "せまい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この道は狭いです。",
+      "reading": "このみちわせまいです。",
+      "translation": "这条路很窄。"
+    }
+  },
+  {
+    "writing": "近い",
+    "reading": "ちかい",
+    "meaning": "近的",
+    "pos": "い形容詞",
+    "collocation": "駅は近いです",
+    "note": "",
+    "audioText": "ちかい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "駅は近いです。",
+      "reading": "えきわちかいです。",
+      "translation": "车站很近。"
+    }
+  },
+  {
+    "writing": "深い",
+    "reading": "ふかい",
+    "meaning": "深的",
+    "pos": "い形容詞",
+    "collocation": "この海は深いです",
+    "note": "",
+    "audioText": "ふかい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この海は深いです。",
+      "reading": "このうみわふかいです。",
+      "translation": "这片海很深。"
+    }
+  },
+  {
+    "writing": "浅い",
+    "reading": "あさい",
+    "meaning": "浅的",
+    "pos": "い形容詞",
+    "collocation": "この川は浅いです",
+    "note": "",
+    "audioText": "あさい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この川は浅いです。",
+      "reading": "このかわわあさいです。",
+      "translation": "这条河很浅。"
+    }
+  },
+  {
+    "writing": "早い",
+    "reading": "はやい",
+    "meaning": "时间早的",
+    "pos": "い形容詞",
+    "collocation": "明日の出発は早いです",
+    "note": "侧重时间早；表示速度快用同音的「速い」。",
+    "audioText": "はやい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "明日の出発は早いです。",
+      "reading": "あしたのしゅっぱつわはやいです。",
+      "translation": "明天的出发时间很早。"
+    }
+  },
+  {
+    "writing": "速い",
+    "reading": "はやい",
+    "meaning": "速度快的",
+    "pos": "い形容詞",
+    "collocation": "この電車は速いです",
+    "note": "侧重速度快；表示时间早用同音的「早い」。",
+    "audioText": "はやい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この電車は速いです。",
+      "reading": "このでんしゃわはやいです。",
+      "translation": "这班电车很快。"
+    }
+  },
+  {
+    "writing": "遅い",
+    "reading": "おそい",
+    "meaning": "慢的；晚的",
+    "pos": "い形容詞",
+    "collocation": "この電車は遅いです",
+    "note": "",
+    "audioText": "おそい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この電車は遅いです。",
+      "reading": "このでんしゃわおそいです。",
+      "translation": "这班电车很慢。"
+    }
+  },
+  {
+    "writing": "強い",
+    "reading": "つよい",
+    "meaning": "强的",
+    "pos": "い形容詞",
+    "collocation": "風は強いです",
+    "note": "",
+    "audioText": "つよい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "風は強いです。",
+      "reading": "かぜわつよいです。",
+      "translation": "风很大。"
+    }
+  },
+  {
+    "writing": "弱い",
+    "reading": "よわい",
+    "meaning": "弱的",
+    "pos": "い形容詞",
+    "collocation": "風は弱いです",
+    "note": "",
+    "audioText": "よわい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "風は弱いです。",
+      "reading": "かぜわよわいです。",
+      "translation": "风很小。"
+    }
+  },
+  {
+    "writing": "硬い",
+    "reading": "かたい",
+    "meaning": "硬的",
+    "pos": "い形容詞",
+    "collocation": "このパンは硬いです",
+    "note": "",
+    "audioText": "かたい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このパンは硬いです。",
+      "reading": "このぱんわかたいです。",
+      "translation": "这个面包很硬。"
+    }
+  },
+  {
+    "writing": "柔らかい",
+    "reading": "やわらかい",
+    "meaning": "柔软的",
+    "pos": "い形容詞",
+    "collocation": "このパンは柔らかいです",
+    "note": "",
+    "audioText": "やわらかい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このパンは柔らかいです。",
+      "reading": "このぱんわやわらかいです。",
+      "translation": "这个面包很软。"
+    }
+  },
+  {
+    "writing": "丸い",
+    "reading": "まるい",
+    "meaning": "圆的",
+    "pos": "い形容詞",
+    "collocation": "この時計は丸いです",
+    "note": "",
+    "audioText": "まるい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この時計は丸いです。",
+      "reading": "このとけいわまるいです。",
+      "translation": "这个钟是圆的。"
+    }
+  },
+  {
+    "writing": "正しい",
+    "reading": "ただしい",
+    "meaning": "正确的",
+    "pos": "い形容詞",
+    "collocation": "この答えは正しいです",
+    "note": "",
+    "audioText": "ただしい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この答えは正しいです。",
+      "reading": "このこたえわただしいです。",
+      "translation": "这个答案是正确的。"
+    }
+  },
+  {
+    "writing": "汚い",
+    "reading": "きたない",
+    "meaning": "脏的",
+    "pos": "い形容詞",
+    "collocation": "この靴は汚いです",
+    "note": "",
+    "audioText": "きたない",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この靴は汚いです。",
+      "reading": "このくつわきたないです。",
+      "translation": "这双鞋很脏。"
+    }
+  },
+  {
+    "writing": "うるさい",
+    "reading": "うるさい",
+    "meaning": "吵闹的",
+    "pos": "い形容詞",
+    "collocation": "外はうるさいです",
+    "note": "",
+    "audioText": "うるさい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "外はうるさいです。",
+      "reading": "そとわうるさいです。",
+      "translation": "外面很吵。"
+    }
+  },
+  {
+    "writing": "眠い",
+    "reading": "ねむい",
+    "meaning": "困；想睡觉",
+    "pos": "い形容詞",
+    "collocation": "今、私は眠いです",
+    "note": "",
+    "audioText": "ねむい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今、私は眠いです。",
+      "reading": "いま、わたしわねむいです。",
+      "translation": "我现在很困。"
+    }
+  },
+  {
+    "writing": "痛い",
+    "reading": "いたい",
+    "meaning": "疼的",
+    "pos": "い形容詞",
+    "collocation": "頭が痛いです",
+    "note": "",
+    "audioText": "いたい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "頭が痛いです。",
+      "reading": "あたまがいたいです。",
+      "translation": "头很疼。"
+    }
+  },
+  {
+    "writing": "怖い",
+    "reading": "こわい",
+    "meaning": "害怕的；可怕的",
+    "pos": "い形容詞",
+    "collocation": "この映画は怖いです",
+    "note": "",
+    "audioText": "こわい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この映画は怖いです。",
+      "reading": "このえいがわこわいです。",
+      "translation": "这部电影很吓人。"
+    }
+  },
+  {
+    "writing": "嬉しい",
+    "reading": "うれしい",
+    "meaning": "高兴的",
+    "pos": "い形容詞",
+    "collocation": "今日は嬉しいです",
+    "note": "",
+    "audioText": "うれしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今日は嬉しいです。",
+      "reading": "きょうわうれしいです。",
+      "translation": "今天很高兴。"
+    }
+  },
+  {
+    "writing": "悲しい",
+    "reading": "かなしい",
+    "meaning": "悲伤的",
+    "pos": "い形容詞",
+    "collocation": "今日は悲しいです",
+    "note": "",
+    "audioText": "かなしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今日は悲しいです。",
+      "reading": "きょうわかなしいです。",
+      "translation": "今天很难过。"
+    }
+  },
+  {
+    "writing": "寂しい",
+    "reading": "さびしい",
+    "meaning": "寂寞的",
+    "pos": "い形容詞",
+    "collocation": "一人の夜は寂しいです",
+    "note": "",
+    "audioText": "さびしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "一人の夜は寂しいです。",
+      "reading": "ひとりのよるわさびしいです。",
+      "translation": "独自一人的夜晚很寂寞。"
+    }
+  },
+  {
+    "writing": "優しい",
+    "reading": "やさしい",
+    "meaning": "温柔的；体贴的",
+    "pos": "い形容詞",
+    "collocation": "先生は優しいです",
+    "note": "",
+    "audioText": "やさしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "先生は優しいです。",
+      "reading": "せんせいわやさしいです。",
+      "translation": "老师很温柔。"
+    }
+  },
+  {
+    "writing": "厳しい",
+    "reading": "きびしい",
+    "meaning": "严格的",
+    "pos": "い形容詞",
+    "collocation": "先生は厳しいです",
+    "note": "",
+    "audioText": "きびしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "先生は厳しいです。",
+      "reading": "せんせいわきびしいです。",
+      "translation": "老师很严格。"
+    }
+  },
+  {
+    "writing": "若い",
+    "reading": "わかい",
+    "meaning": "年轻的",
+    "pos": "い形容詞",
+    "collocation": "先生は若いです",
+    "note": "",
+    "audioText": "わかい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "先生は若いです。",
+      "reading": "せんせいわわかいです。",
+      "translation": "老师很年轻。"
+    }
+  },
+  {
+    "writing": "美しい",
+    "reading": "うつくしい",
+    "meaning": "美丽的",
+    "pos": "い形容詞",
+    "collocation": "この花は美しいです",
+    "note": "",
+    "audioText": "うつくしい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この花は美しいです。",
+      "reading": "このはなわうつくしいです。",
+      "translation": "这朵花很美。"
+    }
+  },
+  {
+    "writing": "可愛い",
+    "reading": "かわいい",
+    "meaning": "可爱的",
+    "pos": "い形容詞",
+    "collocation": "この猫は可愛いです",
+    "note": "",
+    "audioText": "かわいい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この猫は可愛いです。",
+      "reading": "このねこわかわいいです。",
+      "translation": "这只猫很可爱。"
+    }
+  },
+  {
+    "writing": "かっこいい",
+    "reading": "かっこいい",
+    "meaning": "帅气的；酷的",
+    "pos": "い形容詞",
+    "collocation": "この車はかっこいいです",
+    "note": "",
+    "audioText": "かっこいい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この車はかっこいいです。",
+      "reading": "このくるまわかっこいいです。",
+      "translation": "这辆车很酷。"
+    }
+  },
+  {
+    "writing": "素晴らしい",
+    "reading": "すばらしい",
+    "meaning": "出色的；极好的",
+    "pos": "い形容詞",
+    "collocation": "この映画は素晴らしいです",
+    "note": "",
+    "audioText": "すばらしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この映画は素晴らしいです。",
+      "reading": "このえいがわすばらしいです。",
+      "translation": "这部电影非常好。"
+    }
+  },
+  {
+    "writing": "つまらない",
+    "reading": "つまらない",
+    "meaning": "无聊的；没意思的",
+    "pos": "い形容詞",
+    "collocation": "このゲームはつまらないです",
+    "note": "",
+    "audioText": "つまらない",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このゲームはつまらないです。",
+      "reading": "このげーむわつまらないです。",
+      "translation": "这个游戏很无聊。"
+    }
+  },
+  {
+    "writing": "すごい",
+    "reading": "すごい",
+    "meaning": "厉害的；惊人的",
+    "pos": "い形容詞",
+    "collocation": "この選手はすごいです",
+    "note": "",
+    "audioText": "すごい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この選手はすごいです。",
+      "reading": "このせんしゅわすごいです。",
+      "translation": "这位选手很厉害。"
+    }
+  },
+  {
+    "writing": "おかしい",
+    "reading": "おかしい",
+    "meaning": "奇怪的；可笑的",
+    "pos": "い形容詞",
+    "collocation": "この答えはおかしいです",
+    "note": "",
+    "audioText": "おかしい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この答えはおかしいです。",
+      "reading": "このこたえわおかしいです。",
+      "translation": "这个答案很奇怪。"
+    }
+  },
+  {
+    "writing": "酸っぱい",
+    "reading": "すっぱい",
+    "meaning": "酸的",
+    "pos": "い形容詞",
+    "collocation": "この果物は酸っぱいです",
+    "note": "",
+    "audioText": "すっぱい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この果物は酸っぱいです。",
+      "reading": "このくだものわすっぱいです。",
+      "translation": "这个水果很酸。"
+    }
+  },
+  {
+    "writing": "苦い",
+    "reading": "にがい",
+    "meaning": "苦的",
+    "pos": "い形容詞",
+    "collocation": "この薬は苦いです",
+    "note": "",
+    "audioText": "にがい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この薬は苦いです。",
+      "reading": "このくすりわにがいです。",
+      "translation": "这个药很苦。"
+    }
+  },
+  {
+    "writing": "涼しい",
+    "reading": "すずしい",
+    "meaning": "凉爽的",
+    "pos": "い形容詞",
+    "collocation": "今日は涼しいです",
+    "note": "",
+    "audioText": "すずしい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今日は涼しいです。",
+      "reading": "きょうわすずしいです。",
+      "translation": "今天很凉爽。"
+    }
+  },
+  {
+    "writing": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "温暖的（天气等）",
+    "pos": "い形容詞",
+    "collocation": "今日は暖かいです",
+    "note": "用于天气、气温或衣物等；与物体温热的「温かい」区别。",
+    "audioText": "あたたかい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今日は暖かいです。",
+      "reading": "きょうわあたたかいです。",
+      "translation": "今天很暖和。"
+    }
+  },
+  {
+    "writing": "臭い",
+    "reading": "くさい",
+    "meaning": "臭的",
+    "pos": "い形容詞",
+    "collocation": "このごみは臭いです",
+    "note": "",
+    "audioText": "くさい",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このごみは臭いです。",
+      "reading": "このごみわくさいです。",
+      "translation": "这些垃圾很臭。"
+    }
+  },
+  {
+    "writing": "危ない",
+    "reading": "あぶない",
+    "meaning": "危险的",
+    "pos": "い形容詞",
+    "collocation": "この道は危ないです",
+    "note": "",
+    "audioText": "あぶない",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この道は危ないです。",
+      "reading": "このみちわあぶないです。",
+      "translation": "这条路很危险。"
+    }
+  },
+  {
+    "writing": "必要",
+    "reading": "ひつよう",
+    "meaning": "必要的",
+    "pos": "な形容詞",
+    "collocation": "辞書は必要です",
+    "note": "",
+    "audioText": "ひつよう",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "辞書は必要です。",
+      "reading": "じしょわひつようです。",
+      "translation": "词典是必需的。"
+    }
+  },
+  {
+    "writing": "大切",
+    "reading": "たいせつ",
+    "meaning": "重要的；珍贵的",
+    "pos": "な形容詞",
+    "collocation": "家族は大切です",
+    "note": "",
+    "audioText": "たいせつ",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "家族は大切です。",
+      "reading": "かぞくわたいせつです。",
+      "translation": "家人很重要。"
+    }
+  },
+  {
+    "writing": "簡単",
+    "reading": "かんたん",
+    "meaning": "简单的",
+    "pos": "な形容詞",
+    "collocation": "この問題は簡単です",
+    "note": "",
+    "audioText": "かんたん",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この問題は簡単です。",
+      "reading": "このもんだいわかんたんです。",
+      "translation": "这道题很简单。"
+    }
+  },
+  {
+    "writing": "不便",
+    "reading": "ふべん",
+    "meaning": "不方便的",
+    "pos": "な形容詞",
+    "collocation": "この町は不便です",
+    "note": "",
+    "audioText": "ふべん",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この町は不便です。",
+      "reading": "このまちわふべんです。",
+      "translation": "这个城镇不太方便。"
+    }
+  },
+  {
+    "writing": "安全",
+    "reading": "あんぜん",
+    "meaning": "安全的",
+    "pos": "な形容詞",
+    "collocation": "この道は安全です",
+    "note": "",
+    "audioText": "あんぜん",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この道は安全です。",
+      "reading": "このみちわあんぜんです。",
+      "translation": "这条路很安全。"
+    }
+  },
+  {
+    "writing": "危険",
+    "reading": "きけん",
+    "meaning": "危险的",
+    "pos": "な形容詞",
+    "collocation": "この道は危険です",
+    "note": "",
+    "audioText": "きけん",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この道は危険です。",
+      "reading": "このみちわきけんです。",
+      "translation": "这条路很危险。"
+    }
+  },
+  {
+    "writing": "自由",
+    "reading": "じゆう",
+    "meaning": "自由的；不受限制的",
+    "pos": "な形容詞",
+    "collocation": "明日の予定は自由です",
+    "note": "",
+    "audioText": "じゆう",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明日の予定は自由です。",
+      "reading": "あしたのよていわじゆうです。",
+      "translation": "明天的安排很自由。"
+    }
+  },
+  {
+    "writing": "無理",
+    "reading": "むり",
+    "meaning": "勉强的；办不到的",
+    "pos": "な形容詞",
+    "collocation": "今日は無理です",
+    "note": "",
+    "audioText": "むり",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "今日は無理です。",
+      "reading": "きょうわむりです。",
+      "translation": "今天办不到。"
+    }
+  },
+  {
+    "writing": "心配",
+    "reading": "しんぱい",
+    "meaning": "担心的；令人担心的",
+    "pos": "な形容詞",
+    "collocation": "明日の天気が心配です",
+    "note": "",
+    "audioText": "しんぱい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "明日の天気が心配です。",
+      "reading": "あしたのてんきがしんぱいです。",
+      "translation": "担心明天的天气。"
+    }
+  },
+  {
+    "writing": "安心",
+    "reading": "あんしん",
+    "meaning": "安心的",
+    "pos": "な形容詞",
+    "collocation": "これで安心です",
+    "note": "",
+    "audioText": "あんしん",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "これで安心です。",
+      "reading": "これであんしんです。",
+      "translation": "这样就放心了。"
+    }
+  },
+  {
+    "writing": "残念",
+    "reading": "ざんねん",
+    "meaning": "遗憾的；可惜的",
+    "pos": "な形容詞",
+    "collocation": "それは残念です",
+    "note": "",
+    "audioText": "ざんねん",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "それは残念です。",
+      "reading": "それわざんねんです。",
+      "translation": "那真遗憾。"
+    }
+  },
+  {
+    "writing": "得意",
+    "reading": "とくい",
+    "meaning": "擅长的",
+    "pos": "な形容詞",
+    "collocation": "日本語が得意です",
+    "note": "",
+    "audioText": "とくい",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本語が得意です。",
+      "reading": "にほんごがとくいです。",
+      "translation": "擅长日语。"
+    }
+  },
+  {
+    "writing": "苦手",
+    "reading": "にがて",
+    "meaning": "不擅长的；不喜欢的",
+    "pos": "な形容詞",
+    "collocation": "数学が苦手です",
+    "note": "",
+    "audioText": "にがて",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "数学が苦手です。",
+      "reading": "すうがくがにがてです。",
+      "translation": "不擅长数学。"
+    }
+  },
+  {
+    "writing": "変",
+    "reading": "へん",
+    "meaning": "奇怪的",
+    "pos": "な形容詞",
+    "collocation": "この音は変です",
+    "note": "",
+    "audioText": "へん",
+    "category": "描述与感受",
+    "group": "心情与评价",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この音は変です。",
+      "reading": "このおとわへんです。",
+      "translation": "这个声音很奇怪。"
+    }
+  },
+  {
+    "writing": "普通",
+    "reading": "ふつう",
+    "meaning": "普通的；一般的",
+    "pos": "な形容詞",
+    "collocation": "このサイズは普通です",
+    "note": "",
+    "audioText": "ふつう",
+    "category": "描述与感受",
+    "group": "颜色与性质",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このサイズは普通です。",
+      "reading": "このさいずわふつうです。",
+      "translation": "这个尺寸很普通。"
+    }
+  },
+  {
+    "writing": "たくさん",
+    "reading": "たくさん",
+    "meaning": "很多；大量",
+    "pos": "副詞",
+    "collocation": "本をたくさん読みます",
+    "note": "",
+    "audioText": "たくさん",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "本をたくさん読みます。",
+      "reading": "ほんおたくさんよみます。",
+      "translation": "我读很多书。"
+    }
+  },
+  {
+    "writing": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "稍微；一下",
+    "pos": "副詞",
+    "collocation": "ちょっと待ってください",
+    "note": "",
+    "audioText": "ちょっと",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ちょっと待ってください。",
+      "reading": "ちょっとまってください。",
+      "translation": "请稍等一下。"
+    }
+  },
+  {
+    "writing": "もっと",
+    "reading": "もっと",
+    "meaning": "更；更多",
+    "pos": "副詞",
+    "collocation": "もっと練習します",
+    "note": "",
+    "audioText": "もっと",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "もっと練習します。",
+      "reading": "もっとれんしゅうします。",
+      "translation": "我会多加练习。"
+    }
+  },
+  {
+    "writing": "一番",
+    "reading": "いちばん",
+    "meaning": "最；第一",
+    "pos": "副詞",
+    "collocation": "これが一番好きです",
+    "note": "",
+    "audioText": "いちばん",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "これが一番好きです。",
+      "reading": "これがいちばんすきです。",
+      "translation": "我最喜欢这个。"
+    }
+  },
+  {
+    "writing": "すぐ",
+    "reading": "すぐ",
+    "meaning": "马上；立刻",
+    "pos": "副詞",
+    "collocation": "すぐ行きます",
+    "note": "",
+    "audioText": "すぐ",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "すぐ行きます。",
+      "reading": "すぐいきます。",
+      "translation": "我马上去。"
+    }
+  },
+  {
+    "writing": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "慢慢地；从容地",
+    "pos": "副詞",
+    "collocation": "ゆっくり話してください",
+    "note": "",
+    "audioText": "ゆっくり",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ゆっくり話してください。",
+      "reading": "ゆっくりはなしてください。",
+      "translation": "请慢慢说。"
+    }
+  },
+  {
+    "writing": "しっかり",
+    "reading": "しっかり",
+    "meaning": "好好地；牢牢地",
+    "pos": "副詞",
+    "collocation": "しっかり勉強します",
+    "note": "",
+    "audioText": "しっかり",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "しっかり勉強します。",
+      "reading": "しっかりべんきょうします。",
+      "translation": "我会好好学习。"
+    }
+  },
+  {
+    "writing": "はっきり",
+    "reading": "はっきり",
+    "meaning": "清楚地；明确地",
+    "pos": "副詞",
+    "collocation": "はっきり話してください",
+    "note": "",
+    "audioText": "はっきり",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "はっきり話してください。",
+      "reading": "はっきりはなしてください。",
+      "translation": "请说清楚。"
+    }
+  },
+  {
+    "writing": "ちゃんと",
+    "reading": "ちゃんと",
+    "meaning": "好好地；认真地",
+    "pos": "副詞",
+    "collocation": "ちゃんと宿題をします",
+    "note": "",
+    "audioText": "ちゃんと",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ちゃんと宿題をします。",
+      "reading": "ちゃんとしゅくだいおします。",
+      "translation": "我会认真做作业。"
+    }
+  },
+  {
+    "writing": "ぜひ",
+    "reading": "ぜひ",
+    "meaning": "务必；一定（意愿）",
+    "pos": "副詞",
+    "collocation": "ぜひ来てください",
+    "note": "",
+    "audioText": "ぜひ",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ぜひ来てください。",
+      "reading": "ぜひきてください。",
+      "translation": "请一定来。"
+    }
+  },
+  {
+    "writing": "必ず",
+    "reading": "かならず",
+    "meaning": "一定；必定",
+    "pos": "副詞",
+    "collocation": "明日、必ず来ます",
+    "note": "",
+    "audioText": "かならず",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明日、必ず来ます。",
+      "reading": "あした、かならずきます。",
+      "translation": "明天我一定来。"
+    }
+  },
+  {
+    "writing": "きっと",
+    "reading": "きっと",
+    "meaning": "一定；想必（推测）",
+    "pos": "副詞",
+    "collocation": "明日はきっと晴れます",
+    "note": "",
+    "audioText": "きっと",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明日はきっと晴れます。",
+      "reading": "あしたわきっとはれます。",
+      "translation": "明天一定会放晴。"
+    }
+  },
+  {
+    "writing": "たぶん",
+    "reading": "たぶん",
+    "meaning": "大概；可能",
+    "pos": "副詞",
+    "collocation": "たぶん明日は雨です",
+    "note": "",
+    "audioText": "たぶん",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "たぶん明日は雨です。",
+      "reading": "たぶんあしたわあめです。",
+      "translation": "明天大概会下雨。"
+    }
+  },
+  {
+    "writing": "もちろん",
+    "reading": "もちろん",
+    "meaning": "当然",
+    "pos": "副詞",
+    "collocation": "もちろん行きます",
+    "note": "",
+    "audioText": "もちろん",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "もちろん行きます。",
+      "reading": "もちろんいきます。",
+      "translation": "当然会去。"
+    }
+  },
+  {
+    "writing": "本当に",
+    "reading": "ほんとうに",
+    "meaning": "真的；实在",
+    "pos": "副詞",
+    "collocation": "本当にありがとうございます",
+    "note": "",
+    "audioText": "ほんとうに",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "本当にありがとうございます。",
+      "reading": "ほんとうにありがとうございます。",
+      "translation": "真的非常感谢。"
+    }
+  },
+  {
+    "writing": "例えば",
+    "reading": "たとえば",
+    "meaning": "例如",
+    "pos": "副詞",
+    "collocation": "例えば、この本がいいです",
+    "note": "",
+    "audioText": "たとえば",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "例えば、この本がいいです。",
+      "reading": "たとえば、このほんがいいです。",
+      "translation": "例如，这本书就很好。"
+    }
+  },
+  {
+    "writing": "ほとんど",
+    "reading": "ほとんど",
+    "meaning": "几乎；大部分",
+    "pos": "副詞",
+    "collocation": "宿題はほとんど終わりました",
+    "note": "",
+    "audioText": "ほとんど",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "宿題はほとんど終わりました。",
+      "reading": "しゅくだいわほとんどおわりました。",
+      "translation": "作业基本做完了。"
+    }
+  },
+  {
+    "writing": "全然",
+    "reading": "ぜんぜん",
+    "meaning": "完全；一点也（常接否定）",
+    "pos": "副詞",
+    "collocation": "全然分かりません",
+    "note": "",
+    "audioText": "ぜんぜん",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "全然分かりません。",
+      "reading": "ぜんぜんわかりません。",
+      "translation": "完全不明白。"
+    }
+  },
+  {
+    "writing": "だんだん",
+    "reading": "だんだん",
+    "meaning": "渐渐地",
+    "pos": "副詞",
+    "collocation": "だんだん寒くなります",
+    "note": "",
+    "audioText": "だんだん",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "だんだん寒くなります。",
+      "reading": "だんだんさむくなります。",
+      "translation": "天气渐渐冷起来。"
+    }
+  },
+  {
+    "writing": "そろそろ",
+    "reading": "そろそろ",
+    "meaning": "差不多该；快要",
+    "pos": "副詞",
+    "collocation": "そろそろ帰ります",
+    "note": "",
+    "audioText": "そろそろ",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "そろそろ帰ります。",
+      "reading": "そろそろかえります。",
+      "translation": "差不多该回去了。"
+    }
+  },
+  {
+    "writing": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "马上就；快要",
+    "pos": "副詞",
+    "collocation": "もうすぐ電車が来ます",
+    "note": "",
+    "audioText": "もうすぐ",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "もうすぐ電車が来ます。",
+      "reading": "もうすぐでんしゃがきます。",
+      "translation": "电车马上就来。"
+    }
+  },
+  {
+    "writing": "さっき",
+    "reading": "さっき",
+    "meaning": "刚才",
+    "pos": "副詞",
+    "collocation": "さっき電話しました",
+    "note": "",
+    "audioText": "さっき",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "さっき電話しました。",
+      "reading": "さっきでんわしました。",
+      "translation": "刚才打了电话。"
+    }
+  },
+  {
+    "writing": "後で",
+    "reading": "あとで",
+    "meaning": "之后；过一会儿",
+    "pos": "副詞",
+    "collocation": "後で連絡します",
+    "note": "",
+    "audioText": "あとで",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "後で連絡します。",
+      "reading": "あとでれんらくします。",
+      "translation": "我过一会儿联系。"
+    }
+  },
+  {
+    "writing": "先に",
+    "reading": "さきに",
+    "meaning": "先；提前",
+    "pos": "副詞",
+    "collocation": "先に食べてください",
+    "note": "",
+    "audioText": "さきに",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "先に食べてください。",
+      "reading": "さきにたべてください。",
+      "translation": "请先吃。"
+    }
+  },
+  {
+    "writing": "一度",
+    "reading": "いちど",
+    "meaning": "一次；一回",
+    "pos": "副詞",
+    "collocation": "一度行ったことがあります",
+    "note": "",
+    "audioText": "いちど",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "一度行ったことがあります。",
+      "reading": "いちどいったことがあります。",
+      "translation": "曾经去过一次。"
+    }
+  },
+  {
+    "writing": "初めて",
+    "reading": "はじめて",
+    "meaning": "第一次",
+    "pos": "副詞",
+    "collocation": "初めて日本へ行きます",
+    "note": "",
+    "audioText": "はじめて",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "初めて日本へ行きます。",
+      "reading": "はじめてにほんえいきます。",
+      "translation": "第一次去日本。"
+    }
+  },
+  {
+    "writing": "なるべく",
+    "reading": "なるべく",
+    "meaning": "尽量",
+    "pos": "副詞",
+    "collocation": "なるべく早く来てください",
+    "note": "",
+    "audioText": "なるべく",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "なるべく早く来てください。",
+      "reading": "なるべくはやくきてください。",
+      "translation": "请尽量早来。"
+    }
+  },
+  {
+    "writing": "ちょうど",
+    "reading": "ちょうど",
+    "meaning": "正好；恰好",
+    "pos": "副詞",
+    "collocation": "今、ちょうど一時です",
+    "note": "",
+    "audioText": "ちょうど",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今、ちょうど一時です。",
+      "reading": "いま、ちょうどいちじです。",
+      "translation": "现在正好一点。"
+    }
+  },
+  {
+    "writing": "いっぱい",
+    "reading": "いっぱい",
+    "meaning": "很多；满满",
+    "pos": "副詞",
+    "collocation": "本がいっぱいあります",
+    "note": "",
+    "audioText": "いっぱい",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "本がいっぱいあります。",
+      "reading": "ほんがいっぱいあります。",
+      "translation": "有很多书。"
+    }
+  },
+  {
+    "writing": "まず",
+    "reading": "まず",
+    "meaning": "首先",
+    "pos": "副詞",
+    "collocation": "まず名前を書きます",
+    "note": "",
+    "audioText": "まず",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "まず名前を書きます。",
+      "reading": "まずなまえおかきます。",
+      "translation": "先写名字。"
+    }
+  },
+  {
+    "writing": "次に",
+    "reading": "つぎに",
+    "meaning": "接着；然后",
+    "pos": "副詞",
+    "collocation": "次に本を読みます",
+    "note": "",
+    "audioText": "つぎに",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "次に本を読みます。",
+      "reading": "つぎにほんおよみます。",
+      "translation": "接着读书。"
+    }
+  },
+  {
+    "writing": "お互いに",
+    "reading": "おたがいに",
+    "meaning": "互相",
+    "pos": "副詞",
+    "collocation": "お互いに助けます",
+    "note": "",
+    "audioText": "おたがいに",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "お互いに助けます。",
+      "reading": "おたがいにたすけます。",
+      "translation": "互相帮助。"
+    }
+  },
+  {
+    "writing": "なるほど",
+    "reading": "なるほど",
+    "meaning": "原来如此",
+    "pos": "副詞",
+    "collocation": "なるほど、分かりました",
+    "note": "",
+    "audioText": "なるほど",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "なるほど、分かりました。",
+      "reading": "なるほど、わかりました。",
+      "translation": "原来如此，我明白了。"
+    }
+  },
+  {
+    "writing": "もし",
+    "reading": "もし",
+    "meaning": "如果",
+    "pos": "副詞",
+    "collocation": "もし時間があれば、来てください",
+    "note": "",
+    "audioText": "もし",
+    "category": "交流与表达",
+    "group": "方式与时间副词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "もし時間があれば、来てください。",
+      "reading": "もしじかんがあれば、きてください。",
+      "translation": "如果有时间，请来。"
+    }
+  },
+  {
+    "writing": "どうして",
+    "reading": "どうして",
+    "meaning": "为什么",
+    "pos": "副詞",
+    "collocation": "どうして遅れましたか",
+    "note": "",
+    "audioText": "どうして",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "どうして遅れましたか。",
+      "reading": "どうしておくれましたか。",
+      "translation": "为什么迟到了？"
+    }
+  },
+  {
+    "writing": "なぜ",
+    "reading": "なぜ",
+    "meaning": "为什么",
+    "pos": "副詞",
+    "collocation": "なぜ日本語を勉強しますか",
+    "note": "",
+    "audioText": "なぜ",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "なぜ日本語を勉強しますか。",
+      "reading": "なぜにほんごおべんきょうしますか。",
+      "translation": "为什么学习日语？"
+    }
+  },
+  {
+    "writing": "どうやって",
+    "reading": "どうやって",
+    "meaning": "如何；用什么办法",
+    "pos": "副詞",
+    "collocation": "どうやって行きますか",
+    "note": "",
+    "audioText": "どうやって",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "どうやって行きますか。",
+      "reading": "どうやっていきますか。",
+      "translation": "怎么去？"
+    }
+  },
+  {
+    "writing": "どのくらい",
+    "reading": "どのくらい",
+    "meaning": "多少；多长时间",
+    "pos": "副詞",
+    "collocation": "どのくらいかかりますか",
+    "note": "",
+    "audioText": "どのくらい",
+    "category": "交流与表达",
+    "group": "疑问与程度",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "どのくらいかかりますか。",
+      "reading": "どのくらいかかりますか。",
+      "translation": "需要多长时间？"
+    }
+  },
+  {
+    "writing": "そして",
+    "reading": "そして",
+    "meaning": "然后；而且",
+    "pos": "接続詞",
+    "collocation": "朝ご飯を食べます。そして、学校へ行きます",
+    "note": "",
+    "audioText": "そして",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "朝ご飯を食べます。そして、学校へ行きます。",
+      "reading": "あさごはんおたべます。そして、がっこうえいきます。",
+      "translation": "吃早饭，然后去学校。"
+    }
+  },
+  {
+    "writing": "それから",
+    "reading": "それから",
+    "meaning": "然后；之后",
+    "pos": "接続詞",
+    "collocation": "本を読みます。それから、寝ます",
+    "note": "",
+    "audioText": "それから",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "本を読みます。それから、寝ます。",
+      "reading": "ほんおよみます。それから、ねます。",
+      "translation": "读书，然后睡觉。"
+    }
+  },
+  {
+    "writing": "でも",
+    "reading": "でも",
+    "meaning": "但是；不过",
+    "pos": "接続詞",
+    "collocation": "この本は高いです。でも、買います",
+    "note": "",
+    "audioText": "でも",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この本は高いです。でも、買います。",
+      "reading": "このほんわたかいです。でも、かいます。",
+      "translation": "这本书很贵，不过我会买。"
+    }
+  },
+  {
+    "writing": "しかし",
+    "reading": "しかし",
+    "meaning": "但是；然而",
+    "pos": "接続詞",
+    "collocation": "安いです。しかし、買いません",
+    "note": "",
+    "audioText": "しかし",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "安いです。しかし、買いません。",
+      "reading": "やすいです。しかし、かいません。",
+      "translation": "很便宜，但是我不买。"
+    }
+  },
+  {
+    "writing": "だから",
+    "reading": "だから",
+    "meaning": "所以",
+    "pos": "接続詞",
+    "collocation": "今日は休みです。だから、家にいます",
+    "note": "",
+    "audioText": "だから",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今日は休みです。だから、家にいます。",
+      "reading": "きょうわやすみです。だから、いえにいます。",
+      "translation": "今天休息，所以待在家里。"
+    }
+  },
+  {
+    "writing": "それで",
+    "reading": "それで",
+    "meaning": "于是；因此",
+    "pos": "接続詞",
+    "collocation": "雨です。それで、バスで行きます",
+    "note": "",
+    "audioText": "それで",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "雨です。それで、バスで行きます。",
+      "reading": "あめです。それで、ばすでいきます。",
+      "translation": "下雨了，因此乘公交车去。"
+    }
+  },
+  {
+    "writing": "それでは",
+    "reading": "それでは",
+    "meaning": "那么；这样的话",
+    "pos": "接続詞",
+    "collocation": "それでは、始めましょう",
+    "note": "",
+    "audioText": "それでは",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "それでは、始めましょう。",
+      "reading": "それでは、はじめましょう。",
+      "translation": "那么，开始吧。"
+    }
+  },
+  {
+    "writing": "それに",
+    "reading": "それに",
+    "meaning": "而且；此外",
+    "pos": "接続詞",
+    "collocation": "安いです。それに、おいしいです",
+    "note": "",
+    "audioText": "それに",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "安いです。それに、おいしいです。",
+      "reading": "やすいです。それに、おいしいです。",
+      "translation": "很便宜，而且很好吃。"
+    }
+  },
+  {
+    "writing": "または",
+    "reading": "または",
+    "meaning": "或者",
+    "pos": "接続詞",
+    "collocation": "ペン、または鉛筆を使います",
+    "note": "",
+    "audioText": "または",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ペン、または鉛筆を使います。",
+      "reading": "ぺん、またはえんぴつおつかいます。",
+      "translation": "使用笔或者铅笔。"
+    }
+  },
+  {
+    "writing": "それとも",
+    "reading": "それとも",
+    "meaning": "还是（疑问选择）",
+    "pos": "接続詞",
+    "collocation": "お茶ですか。それとも、コーヒーですか",
+    "note": "",
+    "audioText": "それとも",
+    "category": "交流与表达",
+    "group": "连接词",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "お茶ですか。それとも、コーヒーですか。",
+      "reading": "おちゃですか。それとも、こーひーですか。",
+      "translation": "要茶，还是要咖啡？"
+    }
+  },
+  {
+    "writing": "おはよう",
+    "reading": "おはよう",
+    "meaning": "早上好（随意）",
+    "pos": "表現",
+    "collocation": "おはよう、今日は早いですね",
+    "note": "礼貌程度随场合而变；对长辈或正式场合应学习对应礼貌表达。",
+    "audioText": "おはよう",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "おはよう、今日は早いですね。",
+      "reading": "おはよう、きょうわはやいですね。",
+      "translation": "早上好，今天真早啊。"
+    }
+  },
+  {
+    "writing": "こんにちは",
+    "reading": "こんにちは",
+    "meaning": "你好；下午好",
+    "pos": "表現",
+    "collocation": "こんにちは。お元気ですか",
+    "note": "",
+    "audioText": "こんにちわ",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "こんにちは。お元気ですか。",
+      "reading": "こんにちわ。おげんきですか。",
+      "translation": "你好，你好吗？"
+    }
+  },
+  {
+    "writing": "こんばんは",
+    "reading": "こんばんは",
+    "meaning": "晚上好",
+    "pos": "表現",
+    "collocation": "こんばんは。今日は寒いですね",
+    "note": "",
+    "audioText": "こんばんわ",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "こんばんは。今日は寒いですね。",
+      "reading": "こんばんわ。きょうわさむいですね。",
+      "translation": "晚上好，今天真冷啊。"
+    }
+  },
+  {
+    "writing": "おやすみ",
+    "reading": "おやすみ",
+    "meaning": "晚安（随意）",
+    "pos": "表現",
+    "collocation": "おやすみ。また明日",
+    "note": "礼貌程度随场合而变；对长辈或正式场合应学习对应礼貌表达。",
+    "audioText": "おやすみ",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "おやすみ。また明日。",
+      "reading": "おやすみ。またあした。",
+      "translation": "晚安，明天见。"
+    }
+  },
+  {
+    "writing": "ありがとう",
+    "reading": "ありがとう",
+    "meaning": "谢谢（随意）",
+    "pos": "表現",
+    "collocation": "ありがとう。助かりました",
+    "note": "礼貌程度随场合而变；对长辈或正式场合应学习对应礼貌表达。",
+    "audioText": "ありがとう",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ありがとう。助かりました。",
+      "reading": "ありがとう。たすかりました。",
+      "translation": "谢谢，帮了大忙。"
+    }
+  },
+  {
+    "writing": "すみません",
+    "reading": "すみません",
+    "meaning": "不好意思；对不起；劳驾",
+    "pos": "表現",
+    "collocation": "すみません、駅はどこですか",
+    "note": "",
+    "audioText": "すみません",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "すみません、駅はどこですか。",
+      "reading": "すみません、えきわどこですか。",
+      "translation": "劳驾，车站在哪里？"
+    }
+  },
+  {
+    "writing": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "meaning": "对不起",
+    "pos": "表現",
+    "collocation": "遅れてごめんなさい",
+    "note": "",
+    "audioText": "ごめんなさい",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "遅れてごめんなさい。",
+      "reading": "おくれてごめんなさい。",
+      "translation": "对不起，我迟到了。"
+    }
+  },
+  {
+    "writing": "お願いします",
+    "reading": "おねがいします",
+    "meaning": "拜托了；请帮忙",
+    "pos": "表現",
+    "collocation": "コーヒーをお願いします",
+    "note": "",
+    "audioText": "おねがいします",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "コーヒーをお願いします。",
+      "reading": "こーひーおおねがいします。",
+      "translation": "请给我咖啡。"
+    }
+  },
+  {
+    "writing": "失礼します",
+    "reading": "しつれいします",
+    "meaning": "打扰了；告辞了",
+    "pos": "表現",
+    "collocation": "失礼します。中に入ってもいいですか",
+    "note": "进门、打断或告辞时的礼貌表达，具体中文意思取决于场景。",
+    "audioText": "しつれいします",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "失礼します。中に入ってもいいですか。",
+      "reading": "しつれいします。なかにはいってもいいですか。",
+      "translation": "打扰了，可以进去吗？"
+    }
+  },
+  {
+    "writing": "いただきます",
+    "reading": "いただきます",
+    "meaning": "我开动了（饭前用语）",
+    "pos": "表現",
+    "collocation": "いただきます。おいしそうですね",
+    "note": "",
+    "audioText": "いただきます",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "いただきます。おいしそうですね。",
+      "reading": "いただきます。おいしそうですね。",
+      "translation": "我开动了，看起来很好吃。"
+    }
+  },
+  {
+    "writing": "ごちそうさま",
+    "reading": "ごちそうさま",
+    "meaning": "谢谢款待（饭后用语）",
+    "pos": "表現",
+    "collocation": "ごちそうさま。おいしかったです",
+    "note": "礼貌程度随场合而变；对长辈或正式场合应学习对应礼貌表达。",
+    "audioText": "ごちそうさま",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ごちそうさま。おいしかったです。",
+      "reading": "ごちそうさま。おいしかったです。",
+      "translation": "谢谢款待，很好吃。"
+    }
+  },
+  {
+    "writing": "いってきます",
+    "reading": "いってきます",
+    "meaning": "我出门了",
+    "pos": "表現",
+    "collocation": "いってきます。夕方帰ります",
+    "note": "",
+    "audioText": "いってきます",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "いってきます。夕方帰ります。",
+      "reading": "いってきます。ゆうがたかえります。",
+      "translation": "我出门了，傍晚回来。"
+    }
+  },
+  {
+    "writing": "いってらっしゃい",
+    "reading": "いってらっしゃい",
+    "meaning": "路上小心（送人出门）",
+    "pos": "表現",
+    "collocation": "いってらっしゃい。気をつけてね",
+    "note": "",
+    "audioText": "いってらっしゃい",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "いってらっしゃい。気をつけてね。",
+      "reading": "いってらっしゃい。きをつけてね。",
+      "translation": "路上小心，多加注意。"
+    }
+  },
+  {
+    "writing": "ただいま",
+    "reading": "ただいま",
+    "meaning": "我回来了",
+    "pos": "表現",
+    "collocation": "ただいま。今日は忙しかったです",
+    "note": "",
+    "audioText": "ただいま",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ただいま。今日は忙しかったです。",
+      "reading": "ただいま。きょうわいそがしかったです。",
+      "translation": "我回来了，今天很忙。"
+    }
+  },
+  {
+    "writing": "おかえり",
+    "reading": "おかえり",
+    "meaning": "欢迎回来（随意）",
+    "pos": "表現",
+    "collocation": "おかえり。疲れましたか",
+    "note": "礼貌程度随场合而变；对长辈或正式场合应学习对应礼貌表达。",
+    "audioText": "おかえり",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "おかえり。疲れましたか。",
+      "reading": "おかえり。つかれましたか。",
+      "translation": "欢迎回来，累了吗？"
+    }
+  },
+  {
+    "writing": "お疲れ様",
+    "reading": "おつかれさま",
+    "meaning": "辛苦了",
+    "pos": "表現",
+    "collocation": "お疲れ様。また明日",
+    "note": "慰劳对方的表达。工作等场合常说お疲れ様です／お疲れ様でした；不等同于对所有服务人员说谢谢。",
+    "audioText": "おつかれさま",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "お疲れ様。また明日。",
+      "reading": "おつかれさま。またあした。",
+      "translation": "辛苦了，明天见。"
+    }
+  },
+  {
+    "writing": "おめでとう",
+    "reading": "おめでとう",
+    "meaning": "恭喜；祝贺",
+    "pos": "表現",
+    "collocation": "合格おめでとう",
+    "note": "",
+    "audioText": "おめでとう",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "合格おめでとう。",
+      "reading": "ごうかくおめでとう。",
+      "translation": "恭喜通过考试。"
+    }
+  },
+  {
+    "writing": "ようこそ",
+    "reading": "ようこそ",
+    "meaning": "欢迎",
+    "pos": "表現",
+    "collocation": "日本へようこそ",
+    "note": "",
+    "audioText": "ようこそ",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本へようこそ。",
+      "reading": "にほんえようこそ。",
+      "translation": "欢迎来到日本。"
+    }
+  },
+  {
+    "writing": "はじめまして",
+    "reading": "はじめまして",
+    "meaning": "初次见面",
+    "pos": "表現",
+    "collocation": "はじめまして。田中です",
+    "note": "",
+    "audioText": "はじめまして",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "はじめまして。田中です。",
+      "reading": "はじめまして。たなかです。",
+      "translation": "初次见面，我是田中。"
+    }
+  },
+  {
+    "writing": "よろしく",
+    "reading": "よろしく",
+    "meaning": "请多关照（随意）",
+    "pos": "表現",
+    "collocation": "これからよろしく",
+    "note": "礼貌程度随场合而变；对长辈或正式场合应学习对应礼貌表达。",
+    "audioText": "よろしく",
+    "category": "交流与表达",
+    "group": "问候与礼貌",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "これからよろしく。",
+      "reading": "これからよろしく。",
+      "translation": "今后请多关照。"
+    }
+  },
+  {
+    "writing": "一昨日",
+    "reading": "おととい",
+    "meaning": "前天",
+    "pos": "名詞",
+    "collocation": "一昨日、友達に会いました",
+    "note": "",
+    "audioText": "おととい",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "一昨日、友達に会いました。",
+      "reading": "おととい、ともだちにあいました。",
+      "translation": "前天见了朋友。"
+    }
+  },
+  {
+    "writing": "明後日",
+    "reading": "あさって",
+    "meaning": "后天",
+    "pos": "名詞",
+    "collocation": "明後日、旅行に行きます",
+    "note": "",
+    "audioText": "あさって",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "明後日、旅行に行きます。",
+      "reading": "あさって、りょこうにいきます。",
+      "translation": "后天去旅行。"
+    }
+  },
+  {
+    "writing": "今朝",
+    "reading": "けさ",
+    "meaning": "今天早上",
+    "pos": "名詞",
+    "collocation": "今朝、早く起きました",
+    "note": "",
+    "audioText": "けさ",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今朝、早く起きました。",
+      "reading": "けさ、はやくおきました。",
+      "translation": "今天早上起得很早。"
+    }
+  },
+  {
+    "writing": "今晩",
+    "reading": "こんばん",
+    "meaning": "今晚",
+    "pos": "名詞",
+    "collocation": "今晩、映画を見ます",
+    "note": "",
+    "audioText": "こんばん",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "今晩、映画を見ます。",
+      "reading": "こんばん、えいがおみます。",
+      "translation": "今晚看电影。"
+    }
+  },
+  {
+    "writing": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "傍晚",
+    "pos": "名詞",
+    "collocation": "夕方、家に帰ります",
+    "note": "",
+    "audioText": "ゆうがた",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "夕方、家に帰ります。",
+      "reading": "ゆうがた、いえにかえります。",
+      "translation": "傍晚回家。"
+    }
+  },
+  {
+    "writing": "昼休み",
+    "reading": "ひるやすみ",
+    "meaning": "午休",
+    "pos": "名詞",
+    "collocation": "昼休みに散歩します",
+    "note": "",
+    "audioText": "ひるやすみ",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "昼休みに散歩します。",
+      "reading": "ひるやすみにさんぽします。",
+      "translation": "午休时散步。"
+    }
+  },
+  {
+    "writing": "今年",
+    "reading": "ことし",
+    "meaning": "今年",
+    "pos": "名詞",
+    "collocation": "今年、日本へ行きます",
+    "note": "",
+    "audioText": "ことし",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今年、日本へ行きます。",
+      "reading": "ことし、にほんえいきます。",
+      "translation": "今年去日本。"
+    }
+  },
+  {
+    "writing": "来年",
+    "reading": "らいねん",
+    "meaning": "明年",
+    "pos": "名詞",
+    "collocation": "来年、大学に入ります",
+    "note": "",
+    "audioText": "らいねん",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "来年、大学に入ります。",
+      "reading": "らいねん、だいがくにはいります。",
+      "translation": "明年上大学。"
+    }
+  },
+  {
+    "writing": "今月",
+    "reading": "こんげつ",
+    "meaning": "这个月",
+    "pos": "名詞",
+    "collocation": "今月は忙しいです",
+    "note": "",
+    "audioText": "こんげつ",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今月は忙しいです。",
+      "reading": "こんげつわいそがしいです。",
+      "translation": "这个月很忙。"
+    }
+  },
+  {
+    "writing": "来月",
+    "reading": "らいげつ",
+    "meaning": "下个月",
+    "pos": "名詞",
+    "collocation": "来月、旅行に行きます",
+    "note": "",
+    "audioText": "らいげつ",
+    "category": "时间与数量",
+    "group": "相对日期",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "来月、旅行に行きます。",
+      "reading": "らいげつ、りょこうにいきます。",
+      "translation": "下个月去旅行。"
+    }
+  },
+  {
+    "writing": "毎朝",
+    "reading": "まいあさ",
+    "meaning": "每天早上",
+    "pos": "名詞",
+    "collocation": "毎朝、コーヒーを飲みます",
+    "note": "",
+    "audioText": "まいあさ",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "毎朝、コーヒーを飲みます。",
+      "reading": "まいあさ、こーひーおのみます。",
+      "translation": "每天早上喝咖啡。"
+    }
+  },
+  {
+    "writing": "毎晩",
+    "reading": "まいばん",
+    "meaning": "每天晚上",
+    "pos": "名詞",
+    "collocation": "毎晩、本を読みます",
+    "note": "",
+    "audioText": "まいばん",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "毎晩、本を読みます。",
+      "reading": "まいばん、ほんおよみます。",
+      "translation": "每天晚上读书。"
+    }
+  },
+  {
+    "writing": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "每周",
+    "pos": "名詞",
+    "collocation": "毎週、図書館に行きます",
+    "note": "",
+    "audioText": "まいしゅう",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "毎週、図書館に行きます。",
+      "reading": "まいしゅう、としょかんにいきます。",
+      "translation": "每周去图书馆。"
+    }
+  },
+  {
+    "writing": "毎月",
+    "reading": "まいつき",
+    "meaning": "每个月",
+    "pos": "名詞",
+    "collocation": "毎月、本を買います",
+    "note": "",
+    "audioText": "まいつき",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "毎月、本を買います。",
+      "reading": "まいつき、ほんおかいます。",
+      "translation": "每个月买书。"
+    }
+  },
+  {
+    "writing": "毎年",
+    "reading": "まいとし",
+    "meaning": "每年",
+    "pos": "名詞",
+    "collocation": "毎年、旅行に行きます",
+    "note": "",
+    "audioText": "まいとし",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "毎年、旅行に行きます。",
+      "reading": "まいとし、りょこうにいきます。",
+      "translation": "每年去旅行。"
+    }
+  },
+  {
+    "writing": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "生日",
+    "pos": "名詞",
+    "collocation": "誕生日を祝う",
+    "note": "",
+    "audioText": "たんじょうび",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "誕生日について話しました。",
+      "reading": "たんじょうびについてはなしました。",
+      "translation": "谈了关于生日的事。"
+    }
+  },
+  {
+    "writing": "平日",
+    "reading": "へいじつ",
+    "meaning": "工作日；平常日",
+    "pos": "名詞",
+    "collocation": "平日は学校に行きます",
+    "note": "",
+    "audioText": "へいじつ",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "平日は学校に行きます。",
+      "reading": "へいじつわがっこうにいきます。",
+      "translation": "工作日去学校。"
+    }
+  },
+  {
+    "writing": "休日",
+    "reading": "きゅうじつ",
+    "meaning": "休息日；假日",
+    "pos": "名詞",
+    "collocation": "休日は家で休みます",
+    "note": "",
+    "audioText": "きゅうじつ",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "休日は家で休みます。",
+      "reading": "きゅうじつわいえでやすみます。",
+      "translation": "休息日在家休息。"
+    }
+  },
+  {
+    "writing": "日付",
+    "reading": "ひづけ",
+    "meaning": "日期",
+    "pos": "名詞",
+    "collocation": "ここに日付を書きます",
+    "note": "",
+    "audioText": "ひづけ",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ここに日付を書きます。",
+      "reading": "ここにひづけおかきます。",
+      "translation": "在这里写日期。"
+    }
+  },
+  {
+    "writing": "曜日",
+    "reading": "ようび",
+    "meaning": "星期几",
+    "pos": "名詞",
+    "collocation": "今日は何曜日ですか",
+    "note": "",
+    "audioText": "ようび",
+    "category": "时间与数量",
+    "group": "作息与日历",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "今日は何曜日ですか。",
+      "reading": "きょうわなんようびですか。",
+      "translation": "今天是星期几？"
+    }
+  },
+  {
+    "writing": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "课程；上课",
+    "pos": "名詞",
+    "collocation": "授業は九時に始まります",
+    "note": "",
+    "audioText": "じゅぎょう",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "授業は九時に始まります。",
+      "reading": "じゅぎょうわくじにはじまります。",
+      "translation": "课程九点开始。"
+    }
+  },
+  {
+    "writing": "試験",
+    "reading": "しけん",
+    "meaning": "考试",
+    "pos": "名詞",
+    "collocation": "明日は試験です",
+    "note": "",
+    "audioText": "しけん",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "明日は試験です。",
+      "reading": "あしたわしけんです。",
+      "translation": "明天考试。"
+    }
+  },
+  {
+    "writing": "問題",
+    "reading": "もんだい",
+    "meaning": "问题；题目",
+    "pos": "名詞",
+    "collocation": "この問題は難しいです",
+    "note": "",
+    "audioText": "もんだい",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この問題は難しいです。",
+      "reading": "このもんだいわむずかしいです。",
+      "translation": "这道题很难。"
+    }
+  },
+  {
+    "writing": "質問",
+    "reading": "しつもん",
+    "meaning": "提问；问题",
+    "pos": "名詞",
+    "collocation": "質問があります",
+    "note": "",
+    "audioText": "しつもん",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "質問があります。",
+      "reading": "しつもんがあります。",
+      "translation": "我有问题。"
+    }
+  },
+  {
+    "writing": "答え",
+    "reading": "こたえ",
+    "meaning": "答案；回答",
+    "pos": "名詞",
+    "collocation": "答えを書いてください",
+    "note": "",
+    "audioText": "こたえ",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "答えを書いてください。",
+      "reading": "こたえおかいてください。",
+      "translation": "请写答案。"
+    }
+  },
+  {
+    "writing": "意味",
+    "reading": "いみ",
+    "meaning": "意思；含义",
+    "pos": "名詞",
+    "collocation": "この言葉の意味が分かります",
+    "note": "",
+    "audioText": "いみ",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "この言葉の意味が分かります。",
+      "reading": "このことばのいみがわかります。",
+      "translation": "明白这个词的意思。"
+    }
+  },
+  {
+    "writing": "言葉",
+    "reading": "ことば",
+    "meaning": "语言；词语；话",
+    "pos": "名詞",
+    "collocation": "新しい言葉を覚えます",
+    "note": "",
+    "audioText": "ことば",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "新しい言葉を覚えます。",
+      "reading": "あたらしいことばおおぼえます。",
+      "translation": "记住新词。"
+    }
+  },
+  {
+    "writing": "単語",
+    "reading": "たんご",
+    "meaning": "单词",
+    "pos": "名詞",
+    "collocation": "毎日、単語を復習します",
+    "note": "",
+    "audioText": "たんご",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "毎日、単語を復習します。",
+      "reading": "まいにち、たんごおふくしゅうします。",
+      "translation": "每天复习单词。"
+    }
+  },
+  {
+    "writing": "文",
+    "reading": "ぶん",
+    "meaning": "句子",
+    "pos": "名詞",
+    "collocation": "短い文を書きます",
+    "note": "",
+    "audioText": "ぶん",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "短い文を書きます。",
+      "reading": "みじかいぶんおかきます。",
+      "translation": "写短句。"
+    }
+  },
+  {
+    "writing": "文章",
+    "reading": "ぶんしょう",
+    "meaning": "文章；篇章",
+    "pos": "名詞",
+    "collocation": "この文章を読みます",
+    "note": "",
+    "audioText": "ぶんしょう",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この文章を読みます。",
+      "reading": "このぶんしょうおよみます。",
+      "translation": "读这篇文章。"
+    }
+  },
+  {
+    "writing": "文法",
+    "reading": "ぶんぽう",
+    "meaning": "语法",
+    "pos": "名詞",
+    "collocation": "日本語の文法を勉強します",
+    "note": "",
+    "audioText": "ぶんぽう",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本語の文法を勉強します。",
+      "reading": "にほんごのぶんぽうおべんきょうします。",
+      "translation": "学习日语语法。"
+    }
+  },
+  {
+    "writing": "発音",
+    "reading": "はつおん",
+    "meaning": "发音",
+    "pos": "名詞",
+    "collocation": "発音を練習します",
+    "note": "",
+    "audioText": "はつおん",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "発音を練習します。",
+      "reading": "はつおんおれんしゅうします。",
+      "translation": "练习发音。"
+    }
+  },
+  {
+    "writing": "漢字",
+    "reading": "かんじ",
+    "meaning": "汉字",
+    "pos": "名詞",
+    "collocation": "漢字を書きます",
+    "note": "",
+    "audioText": "かんじ",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "漢字を書きます。",
+      "reading": "かんじおかきます。",
+      "translation": "写汉字。"
+    }
+  },
+  {
+    "writing": "ひらがな",
+    "reading": "ひらがな",
+    "meaning": "平假名",
+    "pos": "名詞",
+    "collocation": "ひらがなが読めます",
+    "note": "",
+    "audioText": "ひらがな",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ひらがなが読めます。",
+      "reading": "ひらがながよめます。",
+      "translation": "会读平假名。"
+    }
+  },
+  {
+    "writing": "カタカナ",
+    "reading": "かたかな",
+    "meaning": "片假名",
+    "pos": "名詞",
+    "collocation": "カタカナを覚えます",
+    "note": "",
+    "audioText": "かたかな",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "カタカナを覚えます。",
+      "reading": "かたかなおおぼえます。",
+      "translation": "记住片假名。"
+    }
+  },
+  {
+    "writing": "会話",
+    "reading": "かいわ",
+    "meaning": "会话；交谈",
+    "pos": "名詞",
+    "collocation": "日本語で会話をします",
+    "note": "",
+    "audioText": "かいわ",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本語で会話をします。",
+      "reading": "にほんごでかいわおします。",
+      "translation": "用日语交谈。"
+    }
+  },
+  {
+    "writing": "数学",
+    "reading": "すうがく",
+    "meaning": "数学",
+    "pos": "名詞",
+    "collocation": "数学が好きです",
+    "note": "",
+    "audioText": "すうがく",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "数学が好きです。",
+      "reading": "すうがくがすきです。",
+      "translation": "喜欢数学。"
+    }
+  },
+  {
+    "writing": "歴史",
+    "reading": "れきし",
+    "meaning": "历史",
+    "pos": "名詞",
+    "collocation": "日本の歴史を学びます",
+    "note": "",
+    "audioText": "れきし",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本の歴史を学びます。",
+      "reading": "にほんのれきしおまなびます。",
+      "translation": "学习日本历史。"
+    }
+  },
+  {
+    "writing": "先輩",
+    "reading": "せんぱい",
+    "meaning": "前辈",
+    "pos": "名詞",
+    "collocation": "先輩に会う",
+    "note": "",
+    "audioText": "せんぱい",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "先輩に会いました。",
+      "reading": "せんぱいにあいました。",
+      "translation": "见到了前辈。"
+    }
+  },
+  {
+    "writing": "後輩",
+    "reading": "こうはい",
+    "meaning": "后辈",
+    "pos": "名詞",
+    "collocation": "後輩に会う",
+    "note": "",
+    "audioText": "こうはい",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "後輩に会いました。",
+      "reading": "こうはいにあいました。",
+      "translation": "见到了后辈。"
+    }
+  },
+  {
+    "writing": "同僚",
+    "reading": "どうりょう",
+    "meaning": "同事",
+    "pos": "名詞",
+    "collocation": "同僚に会う",
+    "note": "",
+    "audioText": "どうりょう",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "同僚に会いました。",
+      "reading": "どうりょうにあいました。",
+      "translation": "见到了同事。"
+    }
+  },
+  {
+    "writing": "資料",
+    "reading": "しりょう",
+    "meaning": "资料",
+    "pos": "名詞",
+    "collocation": "資料を読みます",
+    "note": "",
+    "audioText": "しりょう",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 3,
+    "frequency": "medium",
+    "example": {
+      "text": "資料を読みます。",
+      "reading": "しりょうおよみます。",
+      "translation": "阅读资料。"
+    }
+  },
+  {
+    "writing": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "住址",
+    "pos": "名詞",
+    "collocation": "住所を書く",
+    "note": "",
+    "audioText": "じゅうしょ",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "住所について話しました。",
+      "reading": "じゅうしょについてはなしました。",
+      "translation": "谈了关于住址的事。"
+    }
+  },
+  {
+    "writing": "番号",
+    "reading": "ばんごう",
+    "meaning": "号码",
+    "pos": "名詞",
+    "collocation": "電話の番号を教えてください",
+    "note": "",
+    "audioText": "ばんごう",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "電話の番号を教えてください。",
+      "reading": "でんわのばんごうおおしえてください。",
+      "translation": "请告诉我电话号码。"
+    }
+  },
+  {
+    "writing": "方法",
+    "reading": "ほうほう",
+    "meaning": "方法",
+    "pos": "名詞",
+    "collocation": "この方法は簡単です",
+    "note": "",
+    "audioText": "ほうほう",
+    "category": "学校与工作",
+    "group": "职场与登记",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この方法は簡単です。",
+      "reading": "このほうほうわかんたんです。",
+      "translation": "这个方法很简单。"
+    }
+  },
+  {
+    "writing": "教科書",
+    "reading": "きょうかしょ",
+    "meaning": "教科书",
+    "pos": "名詞",
+    "collocation": "教科書を開いてください",
+    "note": "",
+    "audioText": "きょうかしょ",
+    "category": "学校与工作",
+    "group": "学习基础",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "教科書を開いてください。",
+      "reading": "きょうかしょおひらいてください。",
+      "translation": "请打开教科书。"
+    }
+  },
+  {
+    "writing": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "地铁",
+    "pos": "名詞",
+    "collocation": "地下鉄に乗る",
+    "note": "",
+    "audioText": "ちかてつ",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "地下鉄はどこですか。",
+      "reading": "ちかてつわどこですか。",
+      "translation": "地铁在哪里？"
+    }
+  },
+  {
+    "writing": "タクシー",
+    "reading": "たくしー",
+    "meaning": "出租车",
+    "pos": "名詞",
+    "collocation": "タクシーに乗る",
+    "note": "",
+    "audioText": "たくしー",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "これはタクシーです。",
+      "reading": "これわたくしーです。",
+      "translation": "这是出租车。"
+    }
+  },
+  {
+    "writing": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "新干线",
+    "pos": "名詞",
+    "collocation": "新幹線に乗る",
+    "note": "",
+    "audioText": "しんかんせん",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "これは新幹線です。",
+      "reading": "これわしんかんせんです。",
+      "translation": "这是新干线。"
+    }
+  },
+  {
+    "writing": "乗り場",
+    "reading": "のりば",
+    "meaning": "乘车处",
+    "pos": "名詞",
+    "collocation": "バスの乗り場はどこですか",
+    "note": "",
+    "audioText": "のりば",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "バスの乗り場はどこですか。",
+      "reading": "ばすののりばわどこですか。",
+      "translation": "公交乘车处在哪里？"
+    }
+  },
+  {
+    "writing": "時刻表",
+    "reading": "じこくひょう",
+    "meaning": "时刻表",
+    "pos": "名詞",
+    "collocation": "時刻表を見ます",
+    "note": "",
+    "audioText": "じこくひょう",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "時刻表を見ます。",
+      "reading": "じこくひょうおみます。",
+      "translation": "看时刻表。"
+    }
+  },
+  {
+    "writing": "運賃",
+    "reading": "うんちん",
+    "meaning": "车费",
+    "pos": "名詞",
+    "collocation": "運賃を払います",
+    "note": "",
+    "audioText": "うんちん",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 3,
+    "frequency": "context",
+    "example": {
+      "text": "運賃を払います。",
+      "reading": "うんちんおはらいます。",
+      "translation": "支付车费。"
+    }
+  },
+  {
+    "writing": "片道",
+    "reading": "かたみち",
+    "meaning": "单程",
+    "pos": "名詞",
+    "collocation": "片道の切符を買います",
+    "note": "",
+    "audioText": "かたみち",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "片道の切符を買います。",
+      "reading": "かたみちのきっぷおかいます。",
+      "translation": "买单程车票。"
+    }
+  },
+  {
+    "writing": "乗り換え",
+    "reading": "のりかえ",
+    "meaning": "换乘",
+    "pos": "名詞",
+    "collocation": "ここで乗り換えです",
+    "note": "",
+    "audioText": "のりかえ",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "ここで乗り換えです。",
+      "reading": "ここでのりかえです。",
+      "translation": "在这里换乘。"
+    }
+  },
+  {
+    "writing": "改札",
+    "reading": "かいさつ",
+    "meaning": "检票口",
+    "pos": "名詞",
+    "collocation": "改札を通る",
+    "note": "",
+    "audioText": "かいさつ",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "これは改札です。",
+      "reading": "これわかいさつです。",
+      "translation": "这是检票口。"
+    }
+  },
+  {
+    "writing": "ホーム",
+    "reading": "ほーむ",
+    "meaning": "站台",
+    "pos": "名詞",
+    "collocation": "ホームで待つ",
+    "note": "",
+    "audioText": "ほーむ",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "これはホームです。",
+      "reading": "これわほーむです。",
+      "translation": "这是站台。"
+    }
+  },
+  {
+    "writing": "座席",
+    "reading": "ざせき",
+    "meaning": "座位",
+    "pos": "名詞",
+    "collocation": "座席の番号を見ます",
+    "note": "",
+    "audioText": "ざせき",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "座席の番号を見ます。",
+      "reading": "ざせきのばんごうおみます。",
+      "translation": "看座位号码。"
+    }
+  },
+  {
+    "writing": "荷物",
+    "reading": "にもつ",
+    "meaning": "行李；物品",
+    "pos": "名詞",
+    "collocation": "荷物を持ちます",
+    "note": "",
+    "audioText": "にもつ",
+    "category": "出行与交通",
+    "group": "旅行手续",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "荷物を持ちます。",
+      "reading": "にもつおもちます。",
+      "translation": "拿行李。"
+    }
+  },
+  {
+    "writing": "パスポート",
+    "reading": "ぱすぽーと",
+    "meaning": "护照",
+    "pos": "名詞",
+    "collocation": "パスポートを見せます",
+    "note": "",
+    "audioText": "ぱすぽーと",
+    "category": "出行与交通",
+    "group": "旅行手续",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "パスポートを見せます。",
+      "reading": "ぱすぽーとおみせます。",
+      "translation": "出示护照。"
+    }
+  },
+  {
+    "writing": "交通",
+    "reading": "こうつう",
+    "meaning": "交通",
+    "pos": "名詞",
+    "collocation": "この町は交通が便利です",
+    "note": "",
+    "audioText": "こうつう",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この町は交通が便利です。",
+      "reading": "このまちわこうつうがべんりです。",
+      "translation": "这个城镇交通方便。"
+    }
+  },
+  {
+    "writing": "事故",
+    "reading": "じこ",
+    "meaning": "事故",
+    "pos": "名詞",
+    "collocation": "ここで事故がありました",
+    "note": "",
+    "audioText": "じこ",
+    "category": "出行与交通",
+    "group": "公共交通",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "ここで事故がありました。",
+      "reading": "ここでじこがありました。",
+      "translation": "这里发生了事故。"
+    }
+  },
+  {
+    "writing": "インターネット",
+    "reading": "いんたーねっと",
+    "meaning": "互联网",
+    "pos": "名詞",
+    "collocation": "インターネットで調べます",
+    "note": "",
+    "audioText": "いんたーねっと",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "インターネットで調べます。",
+      "reading": "いんたーねっとでしらべます。",
+      "translation": "在网上查资料。"
+    }
+  },
+  {
+    "writing": "スマートフォン",
+    "reading": "すまーとふぉん",
+    "meaning": "智能手机",
+    "pos": "名詞",
+    "collocation": "スマートフォンで写真を撮ります",
+    "note": "",
+    "audioText": "すまーとふぉん",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "スマートフォンで写真を撮ります。",
+      "reading": "すまーとふぉんでしゃしんおとります。",
+      "translation": "用智能手机拍照。"
+    }
+  },
+  {
+    "writing": "メール",
+    "reading": "めーる",
+    "meaning": "电子邮件",
+    "pos": "名詞",
+    "collocation": "メールを送ります",
+    "note": "",
+    "audioText": "めーる",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "メールを送ります。",
+      "reading": "めーるおおくります。",
+      "translation": "发送电子邮件。"
+    }
+  },
+  {
+    "writing": "メールアドレス",
+    "reading": "めーるあどれす",
+    "meaning": "电子邮箱地址",
+    "pos": "名詞",
+    "collocation": "メールアドレスを教えてください",
+    "note": "",
+    "audioText": "めーるあどれす",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "メールアドレスを教えてください。",
+      "reading": "めーるあどれすおおしえてください。",
+      "translation": "请告诉我电子邮箱地址。"
+    }
+  },
+  {
+    "writing": "メッセージ",
+    "reading": "めっせーじ",
+    "meaning": "消息；留言",
+    "pos": "名詞",
+    "collocation": "メッセージを読みます",
+    "note": "",
+    "audioText": "めっせーじ",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "メッセージを読みます。",
+      "reading": "めっせーじおよみます。",
+      "translation": "阅读消息。"
+    }
+  },
+  {
+    "writing": "アプリ",
+    "reading": "あぷり",
+    "meaning": "应用程序",
+    "pos": "名詞",
+    "collocation": "このアプリは便利です",
+    "note": "",
+    "audioText": "あぷり",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このアプリは便利です。",
+      "reading": "このあぷりわべんりです。",
+      "translation": "这个应用很好用。"
+    }
+  },
+  {
+    "writing": "パスワード",
+    "reading": "ぱすわーど",
+    "meaning": "密码",
+    "pos": "名詞",
+    "collocation": "パスワードを入力します",
+    "note": "",
+    "audioText": "ぱすわーど",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "パスワードを入力します。",
+      "reading": "ぱすわーどおにゅうりょくします。",
+      "translation": "输入密码。"
+    }
+  },
+  {
+    "writing": "画面",
+    "reading": "がめん",
+    "meaning": "屏幕；画面",
+    "pos": "名詞",
+    "collocation": "画面を見てください",
+    "note": "",
+    "audioText": "がめん",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "画面を見てください。",
+      "reading": "がめんおみてください。",
+      "translation": "请看屏幕。"
+    }
+  },
+  {
+    "writing": "動画",
+    "reading": "どうが",
+    "meaning": "视频",
+    "pos": "名詞",
+    "collocation": "日本語の動画を見ます",
+    "note": "",
+    "audioText": "どうが",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本語の動画を見ます。",
+      "reading": "にほんごのどうがおみます。",
+      "translation": "看日语视频。"
+    }
+  },
+  {
+    "writing": "ボタン",
+    "reading": "ぼたん",
+    "meaning": "按钮；纽扣",
+    "pos": "名詞",
+    "collocation": "このボタンを押します",
+    "note": "",
+    "audioText": "ぼたん",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "このボタンを押します。",
+      "reading": "このぼたんおおします。",
+      "translation": "按这个按钮。"
+    }
+  },
+  {
+    "writing": "設定",
+    "reading": "せってい",
+    "meaning": "设置",
+    "pos": "名詞",
+    "collocation": "設定を変えます",
+    "note": "",
+    "audioText": "せってい",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "設定を変えます。",
+      "reading": "せっていおかえます。",
+      "translation": "更改设置。"
+    }
+  },
+  {
+    "writing": "充電",
+    "reading": "じゅうでん",
+    "meaning": "充电",
+    "pos": "名詞",
+    "collocation": "スマートフォンを充電します",
+    "note": "",
+    "audioText": "じゅうでん",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "スマートフォンを充電します。",
+      "reading": "すまーとふぉんおじゅうでんします。",
+      "translation": "给手机充电。"
+    }
+  },
+  {
+    "writing": "電池",
+    "reading": "でんち",
+    "meaning": "电池",
+    "pos": "名詞",
+    "collocation": "電池を交換する",
+    "note": "",
+    "audioText": "でんち",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "電池を買いました。",
+      "reading": "でんちおかいました。",
+      "translation": "买了电池。"
+    }
+  },
+  {
+    "writing": "イヤホン",
+    "reading": "いやほん",
+    "meaning": "耳机",
+    "pos": "名詞",
+    "collocation": "イヤホンで音楽を聞きます",
+    "note": "",
+    "audioText": "いやほん",
+    "category": "数字与娱乐",
+    "group": "数字生活",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "イヤホンで音楽を聞きます。",
+      "reading": "いやほんでおんがくおききます。",
+      "translation": "用耳机听音乐。"
+    }
+  },
+  {
+    "writing": "ニュース",
+    "reading": "にゅーす",
+    "meaning": "新闻",
+    "pos": "名詞",
+    "collocation": "ニュースを見ます",
+    "note": "",
+    "audioText": "にゅーす",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ニュースを見ます。",
+      "reading": "にゅーすおみます。",
+      "translation": "看新闻。"
+    }
+  },
+  {
+    "writing": "番組",
+    "reading": "ばんぐみ",
+    "meaning": "节目",
+    "pos": "名詞",
+    "collocation": "この番組が好きです",
+    "note": "",
+    "audioText": "ばんぐみ",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "この番組が好きです。",
+      "reading": "このばんぐみがすきです。",
+      "translation": "喜欢这个节目。"
+    }
+  },
+  {
+    "writing": "小説",
+    "reading": "しょうせつ",
+    "meaning": "小说",
+    "pos": "名詞",
+    "collocation": "日本語の小説を読みます",
+    "note": "",
+    "audioText": "しょうせつ",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "日本語の小説を読みます。",
+      "reading": "にほんごのしょうせつおよみます。",
+      "translation": "读日语小说。"
+    }
+  },
+  {
+    "writing": "絵",
+    "reading": "え",
+    "meaning": "画；图画",
+    "pos": "名詞",
+    "collocation": "絵を描きます",
+    "note": "",
+    "audioText": "え",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "絵を描きます。",
+      "reading": "えおかきます。",
+      "translation": "画画。"
+    }
+  },
+  {
+    "writing": "楽器",
+    "reading": "がっき",
+    "meaning": "乐器",
+    "pos": "名詞",
+    "collocation": "楽器を習います",
+    "note": "",
+    "audioText": "がっき",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "楽器を習います。",
+      "reading": "がっきおならいます。",
+      "translation": "学习乐器。"
+    }
+  },
+  {
+    "writing": "ピアノ",
+    "reading": "ぴあの",
+    "meaning": "钢琴",
+    "pos": "名詞",
+    "collocation": "ピアノを弾きます",
+    "note": "",
+    "audioText": "ぴあの",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "ピアノを弾きます。",
+      "reading": "ぴあのおひきます。",
+      "translation": "弹钢琴。"
+    }
+  },
+  {
+    "writing": "ギター",
+    "reading": "ぎたー",
+    "meaning": "吉他",
+    "pos": "名詞",
+    "collocation": "ギターを弾きます",
+    "note": "",
+    "audioText": "ぎたー",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "ギターを弾きます。",
+      "reading": "ぎたーおひきます。",
+      "translation": "弹吉他。"
+    }
+  },
+  {
+    "writing": "コンサート",
+    "reading": "こんさーと",
+    "meaning": "音乐会；演唱会",
+    "pos": "名詞",
+    "collocation": "コンサートに行きます",
+    "note": "",
+    "audioText": "こんさーと",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "コンサートに行きます。",
+      "reading": "こんさーとにいきます。",
+      "translation": "去听音乐会。"
+    }
+  },
+  {
+    "writing": "チケット",
+    "reading": "ちけっと",
+    "meaning": "票；入场券",
+    "pos": "名詞",
+    "collocation": "チケットを買います",
+    "note": "",
+    "audioText": "ちけっと",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "チケットを買います。",
+      "reading": "ちけっとおかいます。",
+      "translation": "买票。"
+    }
+  },
+  {
+    "writing": "選手",
+    "reading": "せんしゅ",
+    "meaning": "运动员；选手",
+    "pos": "名詞",
+    "collocation": "この選手が好きです",
+    "note": "",
+    "audioText": "せんしゅ",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "この選手が好きです。",
+      "reading": "このせんしゅがすきです。",
+      "translation": "喜欢这位选手。"
+    }
+  },
+  {
+    "writing": "試合",
+    "reading": "しあい",
+    "meaning": "比赛",
+    "pos": "名詞",
+    "collocation": "試合を見ます",
+    "note": "",
+    "audioText": "しあい",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "試合を見ます。",
+      "reading": "しあいおみます。",
+      "translation": "看比赛。"
+    }
+  },
+  {
+    "writing": "チーム",
+    "reading": "ちーむ",
+    "meaning": "队；团队",
+    "pos": "名詞",
+    "collocation": "このチームは強いです",
+    "note": "",
+    "audioText": "ちーむ",
+    "category": "数字与娱乐",
+    "group": "文化娱乐与运动",
+    "difficulty": 2,
+    "frequency": "context",
+    "example": {
+      "text": "このチームは強いです。",
+      "reading": "このちーむわつよいです。",
+      "translation": "这支队伍很强。"
+    }
+  },
+  {
+    "writing": "言う",
+    "reading": "いう",
+    "meaning": "说",
+    "pos": "動詞・五段",
+    "collocation": "名前を言う",
+    "note": "",
+    "audioText": "いう",
+    "category": "动作与状态",
+    "group": "交流与协作",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "名前を言います。",
+      "reading": "なまえおいいます。",
+      "translation": "说名字。"
+    }
+  },
+  {
+    "writing": "もらう",
+    "reading": "もらう",
+    "meaning": "得到；收到",
+    "pos": "動詞・五段",
+    "collocation": "友達から本をもらう",
+    "note": "给与方向影响用词；结合例句学习给予者、接受者与助词。",
+    "audioText": "もらう",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "友達から本をもらいます。",
+      "reading": "ともだちからほんおもらいます。",
+      "translation": "从朋友那里收到书。"
+    }
+  },
+  {
+    "writing": "あげる",
+    "reading": "あげる",
+    "meaning": "给；给予",
+    "pos": "動詞・一段",
+    "collocation": "友達に本をあげる",
+    "note": "给与方向影响用词；结合例句学习给予者、接受者与助词。",
+    "audioText": "あげる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "友達に本をあげます。",
+      "reading": "ともだちにほんおあげます。",
+      "translation": "给朋友书。"
+    }
+  },
+  {
+    "writing": "くれる",
+    "reading": "くれる",
+    "meaning": "给我；给我方的人",
+    "pos": "動詞・一段",
+    "collocation": "友達が本をくれる",
+    "note": "给与方向影响用词；结合例句学习给予者、接受者与助词。",
+    "audioText": "くれる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "友達が本をくれます。",
+      "reading": "ともだちがほんおくれます。",
+      "translation": "朋友给我书。"
+    }
+  },
+  {
+    "writing": "できる",
+    "reading": "できる",
+    "meaning": "能；会；完成",
+    "pos": "動詞・一段",
+    "collocation": "日本語で会話ができる",
+    "note": "本词读音是「できる」；在此例句中表示能力。",
+    "audioText": "できる",
+    "category": "动作与状态",
+    "group": "学习与判断",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "日本語で会話ができます。",
+      "reading": "にほんごでかいわができます。",
+      "translation": "能够用日语交谈。"
+    }
+  },
+  {
+    "writing": "押す",
+    "reading": "おす",
+    "meaning": "推；按",
+    "pos": "動詞・五段",
+    "collocation": "ボタンを押す",
+    "note": "",
+    "audioText": "おす",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ボタンを押します。",
+      "reading": "ぼたんおおします。",
+      "translation": "按按钮。"
+    }
+  },
+  {
+    "writing": "引く",
+    "reading": "ひく",
+    "meaning": "拉；牵；减",
+    "pos": "動詞・五段",
+    "collocation": "ドアを引く",
+    "note": "",
+    "audioText": "ひく",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "ドアを引きます。",
+      "reading": "どあおひきます。",
+      "translation": "拉门。"
+    }
+  },
+  {
+    "writing": "住む",
+    "reading": "すむ",
+    "meaning": "住；居住",
+    "pos": "動詞・五段",
+    "collocation": "日本に住む",
+    "note": "表示现在的居住状态通常用「住んでいます」。",
+    "audioText": "すむ",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "日本に住んでいます。",
+      "reading": "にほんにすんでいます。",
+      "translation": "住在日本。"
+    }
+  },
+  {
+    "writing": "登る",
+    "reading": "のぼる",
+    "meaning": "攀登；登上",
+    "pos": "動詞・五段",
+    "collocation": "山に登る",
+    "note": "",
+    "audioText": "のぼる",
+    "category": "动作与状态",
+    "group": "姿势与移动",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "山に登ります。",
+      "reading": "やまにのぼります。",
+      "translation": "爬山。"
+    }
+  },
+  {
+    "writing": "降る",
+    "reading": "ふる",
+    "meaning": "下雨；下雪",
+    "pos": "動詞・五段",
+    "collocation": "雨が降る",
+    "note": "",
+    "audioText": "ふる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "雨が降ります。",
+      "reading": "あめがふります。",
+      "translation": "下雨。"
+    }
+  },
+  {
+    "writing": "吹く",
+    "reading": "ふく",
+    "meaning": "吹；刮风",
+    "pos": "動詞・五段",
+    "collocation": "風が吹く",
+    "note": "",
+    "audioText": "ふく",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "風が吹きます。",
+      "reading": "かぜがふきます。",
+      "translation": "刮风。"
+    }
+  },
+  {
+    "writing": "咲く",
+    "reading": "さく",
+    "meaning": "开花",
+    "pos": "動詞・五段",
+    "collocation": "花が咲く",
+    "note": "",
+    "audioText": "さく",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 2,
+    "frequency": "high",
+    "example": {
+      "text": "花が咲きます。",
+      "reading": "はながさきます。",
+      "translation": "花开。"
+    }
+  },
+  {
+    "writing": "なる",
+    "reading": "なる",
+    "meaning": "变成；成为",
+    "pos": "動詞・五段",
+    "collocation": "日本語が上手になる",
+    "note": "",
+    "audioText": "なる",
+    "category": "动作与状态",
+    "group": "改变与数量",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "日本語が上手になります。",
+      "reading": "にほんごがじょうずになります。",
+      "translation": "日语变得熟练。"
+    }
+  },
+  {
+    "writing": "かかる",
+    "reading": "かかる",
+    "meaning": "花费时间或金钱",
+    "pos": "動詞・五段",
+    "collocation": "一時間かかる",
+    "note": "",
+    "audioText": "かかる",
+    "category": "动作与状态",
+    "group": "学习与日程",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "一時間かかります。",
+      "reading": "いちじかんかかります。",
+      "translation": "需要一个小时。"
+    }
+  },
+  {
+    "writing": "要る",
+    "reading": "いる",
+    "meaning": "需要",
+    "pos": "動詞・五段",
+    "collocation": "お金が要る",
+    "note": "与表示人或动物存在的「いる」同音，但本词是五段动词；「要ります」表示需要。",
+    "audioText": "いる",
+    "category": "动作与状态",
+    "group": "物品与交易",
+    "difficulty": 1,
+    "frequency": "high",
+    "example": {
+      "text": "お金が要ります。",
+      "reading": "おかねがいります。",
+      "translation": "需要钱。"
+    }
+  }
+]

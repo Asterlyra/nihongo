@@ -1,0 +1,3175 @@
+{
+  "words": [
+    {
+      "id": "w1001",
+      "writing": "メニュー",
+      "reading": "めにゅー",
+      "meaning": "菜单",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "メニューを見せてください",
+      "note": "点餐前可用这一表达块请求看菜单。",
+      "audioText": "めにゅー",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 240000,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1002",
+      "writing": "お会計",
+      "reading": "おかいけい",
+      "meaning": "结账；账单",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "お会計をお願いします",
+      "note": "比单独说会計更礼貌，常在餐饮店结账使用。",
+      "audioText": "おかいけい",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240001,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1003",
+      "writing": "現金",
+      "reading": "げんきん",
+      "meaning": "现金",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "現金で払う",
+      "note": "付款方式中的で表示手段。",
+      "audioText": "げんきん",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 240002,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1004",
+      "writing": "クレジットカード",
+      "reading": "くれじっとかーど",
+      "meaning": "信用卡",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "クレジットカードで払う",
+      "note": "不是所有银行卡都适用；可直接询问信用卡是否能用。",
+      "audioText": "くれじっとかーど",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240003,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1005",
+      "writing": "キャンセル",
+      "reading": "きゃんせる",
+      "meaning": "取消",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "予約をキャンセルする",
+      "note": "取消预约时可用；费用和条件需另外确认。",
+      "audioText": "きゃんせる",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240004,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1006",
+      "writing": "チェックイン",
+      "reading": "ちぇっくいん",
+      "meaning": "办理入住",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "チェックインをする",
+      "note": "住宿场景常用；酒店也可能有线上入住。",
+      "audioText": "ちぇっくいん",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240005,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1007",
+      "writing": "チェックアウト",
+      "reading": "ちぇっくあうと",
+      "meaning": "办理退房",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "チェックアウトの時間",
+      "note": "先确认退房时间，避免误解。",
+      "audioText": "ちぇっくあうと",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240006,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1008",
+      "writing": "予約",
+      "reading": "よやく",
+      "meaning": "预约；预订",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "予約の名前",
+      "note": "与已收录的予約する相关，但这里作为服务场景中的名词学习。",
+      "audioText": "よやく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 240007,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1009",
+      "writing": "店内",
+      "reading": "てんない",
+      "meaning": "店内；堂食",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "店内で食べる",
+      "note": "店员询问堂食或外带时会使用。",
+      "audioText": "てんない",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240008,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1010",
+      "writing": "持ち帰り",
+      "reading": "もちかえり",
+      "meaning": "带走；外带",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "持ち帰りでお願いします",
+      "note": "お持ち帰り是店员常用的礼貌说法。",
+      "audioText": "もちかえり",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240009,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1011",
+      "writing": "お釣り",
+      "reading": "おつり",
+      "meaning": "找零",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "お釣りを受け取る",
+      "note": "常见服务用语中的お为礼貌前缀。",
+      "audioText": "おつり",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240010,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1012",
+      "writing": "レシート",
+      "reading": "れしーと",
+      "meaning": "收银小票",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "レシートをください",
+      "note": "不同于正式报销用的领收书。",
+      "audioText": "れしーと",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240011,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1013",
+      "writing": "免税",
+      "reading": "めんぜい",
+      "meaning": "免税",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "免税の手続き",
+      "note": "是否符合免税条件须在店内确认，这里只学习交流表达。",
+      "audioText": "めんぜい",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240012,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1014",
+      "writing": "いくら",
+      "reading": "いくら",
+      "meaning": "多少钱",
+      "pos": "疑問詞",
+      "unit": 24,
+      "collocation": "これはいくらですか",
+      "note": "用于询问价格；不要与食品イクラ混淆。",
+      "audioText": "いくら",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 240013,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 0
+    },
+    {
+      "id": "w1015",
+      "writing": "もう一度",
+      "reading": "もういちど",
+      "meaning": "再一次",
+      "pos": "副詞句",
+      "unit": 24,
+      "collocation": "もう一度お願いします",
+      "note": "没听清时可提前记成整个表达块。",
+      "audioText": "もういちど",
+      "category": "旅游交流",
+      "group": "沟通补救与求助",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 240014,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 0
+    },
+    {
+      "id": "w1016",
+      "writing": "人数",
+      "reading": "にんずう",
+      "meaning": "人数",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "人数を伝える",
+      "note": "服务人员可能问何名様ですか；旅客回答一人です即可。",
+      "audioText": "にんずう",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240015,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1017",
+      "writing": "禁煙",
+      "reading": "きんえん",
+      "meaning": "禁烟",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "禁煙の部屋",
+      "note": "住宿或餐饮选项；并非所有地方有吸烟席。",
+      "audioText": "きんえん",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240016,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1018",
+      "writing": "喫煙",
+      "reading": "きつえん",
+      "meaning": "吸烟",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "喫煙できる場所",
+      "note": "主要用于理解设施标识和询问指定区域。",
+      "audioText": "きつえん",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240017,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1019",
+      "writing": "空席",
+      "reading": "くうせき",
+      "meaning": "空座位",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "空席を探す",
+      "note": "用来理解是否有位置，不等同于房间空房。",
+      "audioText": "くうせき",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240018,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1020",
+      "writing": "満席",
+      "reading": "まんせき",
+      "meaning": "满座",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "満席です",
+      "note": "常见店员回复，应能听出当前没有座位。",
+      "audioText": "まんせき",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240019,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1021",
+      "writing": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "点餐；订购",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "注文をする",
+      "note": "餐饮场景中通常指点餐。",
+      "audioText": "ちゅうもん",
+      "category": "旅游交流",
+      "group": "点餐与座位",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240020,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1022",
+      "writing": "領収書",
+      "reading": "りょうしゅうしょ",
+      "meaning": "收据；领收书",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "領収書をください",
+      "note": "常用于报销；和一般收银小票レシート区分。",
+      "audioText": "りょうしゅうしょ",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240021,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1023",
+      "writing": "両替",
+      "reading": "りょうがえ",
+      "meaning": "兑换钱币",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "両替をする",
+      "note": "可指换币种或换零钱；具体需求需补充。",
+      "audioText": "りょうがえ",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240022,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1024",
+      "writing": "手数料",
+      "reading": "てすうりょう",
+      "meaning": "手续费",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "手数料を確認する",
+      "note": "兑换、提款或改订时可能出现。",
+      "audioText": "てすうりょう",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240023,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1025",
+      "writing": "暗証番号",
+      "reading": "あんしょうばんごう",
+      "meaning": "密码；个人识别码",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "暗証番号を入力する",
+      "note": "常指支付或提款PIN，不是网站口令的一般说法。",
+      "audioText": "あんしょうばんごう",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 240024,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1026",
+      "writing": "宿泊",
+      "reading": "しゅくはく",
+      "meaning": "住宿",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "宿泊する",
+      "note": "较正式的住宿用词，常见于酒店说明。",
+      "audioText": "しゅくはく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240025,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1027",
+      "writing": "朝食",
+      "reading": "ちょうしょく",
+      "meaning": "早餐",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "朝食の時間",
+      "note": "酒店常用，日常口语也说朝ご飯。",
+      "audioText": "ちょうしょく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240026,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1028",
+      "writing": "夕食",
+      "reading": "ゆうしょく",
+      "meaning": "晚餐",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "夕食の時間",
+      "note": "住宿服务中的常见说法，日常也说晩ご飯。",
+      "audioText": "ゆうしょく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240027,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1029",
+      "writing": "連泊",
+      "reading": "れんぱく",
+      "meaning": "连续住宿",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "連泊する",
+      "note": "连续住两晚或以上；与延长住宿不是同一含义。",
+      "audioText": "れんぱく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 240028,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1030",
+      "writing": "フロント",
+      "reading": "ふろんと",
+      "meaning": "酒店前台",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "フロントに聞く",
+      "note": "此处学习酒店前台含义。",
+      "audioText": "ふろんと",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 240029,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1031",
+      "writing": "忘れ物",
+      "reading": "わすれもの",
+      "meaning": "遗忘的物品；忘带的东西",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "忘れ物をする",
+      "note": "发现遗失物时可以先给工作人员看或说明位置。",
+      "audioText": "わすれもの",
+      "category": "旅游交流",
+      "group": "沟通补救与求助",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240030,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1032",
+      "writing": "救急車",
+      "reading": "きゅうきゅうしゃ",
+      "meaning": "救护车",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "救急車を呼ぶ",
+      "note": "紧急求助表达；呼んで是呼ぶ的て形。",
+      "audioText": "きゅうきゅうしゃ",
+      "category": "旅游交流",
+      "group": "沟通补救与求助",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240031,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1033",
+      "writing": "警察",
+      "reading": "けいさつ",
+      "meaning": "警察；警察机关",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "警察に相談する",
+      "note": "可用于询问求助地点，不代表具体求助流程。",
+      "audioText": "けいさつ",
+      "category": "旅游交流",
+      "group": "沟通补救与求助",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240032,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1034",
+      "writing": "保険",
+      "reading": "ほけん",
+      "meaning": "保险",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "旅行の保険",
+      "note": "旅行或医疗办理时可能听到。",
+      "audioText": "ほけん",
+      "category": "旅游交流",
+      "group": "沟通补救与求助",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240033,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1035",
+      "writing": "往復",
+      "reading": "おうふく",
+      "meaning": "往返",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "往復の切符",
+      "note": "与已有片道相对；票价和有效范围需另外确认。",
+      "audioText": "おうふく",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240034,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1036",
+      "writing": "指定席",
+      "reading": "していせき",
+      "meaning": "指定座位；对号入座席",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "指定席の切符",
+      "note": "常见铁路票种；这里不说明具体购票制度。",
+      "audioText": "していせき",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240035,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1037",
+      "writing": "自由席",
+      "reading": "じゆうせき",
+      "meaning": "不指定座位的席位",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "自由席の車両",
+      "note": "理解票种；是否有座不能由这个名称保证。",
+      "audioText": "じゆうせき",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240036,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1038",
+      "writing": "運休",
+      "reading": "うんきゅう",
+      "meaning": "停运",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "電車が運休する",
+      "note": "交通公告中表示没有按原计划运行，不是单纯晚点。",
+      "audioText": "うんきゅう",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 240037,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1039",
+      "writing": "遅延",
+      "reading": "ちえん",
+      "meaning": "延误；晚点",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "電車の遅延",
+      "note": "比遅れる更偏公告和说明语体。",
+      "audioText": "ちえん",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 240038,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1040",
+      "writing": "終電",
+      "reading": "しゅうでん",
+      "meaning": "末班电车",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "終電の時間",
+      "note": "交通时间随线路日期变化，这里只教询问表达。",
+      "audioText": "しゅうでん",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240039,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1041",
+      "writing": "始発",
+      "reading": "しはつ",
+      "meaning": "首班车；始发",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "始発の電車",
+      "note": "可指首班车，也可指从某站始发；结合上下文理解。",
+      "audioText": "しはつ",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 240040,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1042",
+      "writing": "直通",
+      "reading": "ちょくつう",
+      "meaning": "直达；贯通运行",
+      "pos": "名詞・する動詞",
+      "unit": 24,
+      "collocation": "直通の電車",
+      "note": "常见于交通说明；仍需确认目的地与停站。",
+      "audioText": "ちょくつう",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 240041,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1043",
+      "writing": "行き",
+      "reading": "いき",
+      "meaning": "前往；开往",
+      "pos": "名詞・接尾語",
+      "unit": 24,
+      "collocation": "空港行き",
+      "note": "地点名后接行き表示开往该地；也有ゆき读法，此处学いき。",
+      "audioText": "いき",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240042,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1044",
+      "writing": "帰り",
+      "reading": "かえり",
+      "meaning": "回程；返回途中",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "帰りの電車",
+      "note": "去程回程、回家路上都可用。",
+      "audioText": "かえり",
+      "category": "旅游交流",
+      "group": "问路与铁路",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240043,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1045",
+      "writing": "空室",
+      "reading": "くうしつ",
+      "meaning": "空房",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "空室を確認する",
+      "note": "住宿场景，与空席区分。",
+      "audioText": "くうしつ",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240044,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1046",
+      "writing": "一泊",
+      "reading": "いっぱく",
+      "meaning": "住一晚",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "一泊の料金",
+      "note": "住宿计数读音不规则；不是一人或一天。",
+      "audioText": "いっぱく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240045,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1047",
+      "writing": "二泊",
+      "reading": "にはく",
+      "meaning": "住两晚",
+      "pos": "名詞",
+      "unit": 24,
+      "collocation": "二泊する",
+      "note": "与一泊的促音读法区分。",
+      "audioText": "にはく",
+      "category": "旅游交流",
+      "group": "住宿与预订",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240046,
+      "goals": [
+        "travel"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1048",
+      "writing": "別々",
+      "reading": "べつべつ",
+      "meaning": "分别；各自",
+      "pos": "名詞・な形容詞",
+      "unit": 24,
+      "collocation": "別々に払う",
+      "note": "可用于询问分开结账；服务是否支持须确认。",
+      "audioText": "べつべつ",
+      "category": "旅游交流",
+      "group": "付款与购物",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 240047,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1049",
+      "writing": "僕",
+      "reading": "ぼく",
+      "meaning": "我（较柔和的自称）",
+      "pos": "代名詞",
+      "unit": 25,
+      "collocation": "僕の友達",
+      "note": "多见于男性或角色的自称；身份与场合决定是否合适，旅游默认用私。",
+      "audioText": "ぼく",
+      "category": "交流与表达",
+      "group": "人物称呼与关系",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 250048,
+      "goals": [
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 2
+    },
+    {
+      "id": "w1050",
+      "writing": "俺",
+      "reading": "おれ",
+      "meaning": "我（较随意的男性自称）",
+      "pos": "代名詞",
+      "unit": 25,
+      "collocation": "俺の番",
+      "note": "亲密或强硬口语中常见；只用于理解角色，旅游主动表达用私。",
+      "audioText": "おれ",
+      "category": "交流与表达",
+      "group": "人物称呼与关系",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250049,
+      "goals": [
+        "anime"
+      ],
+      "usage": "comprehension",
+      "learningPriority": 4
+    },
+    {
+      "id": "w1051",
+      "writing": "君",
+      "reading": "きみ",
+      "meaning": "你（熟人或对晚辈的称呼）",
+      "pos": "代名詞",
+      "unit": 25,
+      "collocation": "君の名前",
+      "note": "并非礼貌通用的你；对陌生服务人员不要直接这样称呼。",
+      "audioText": "きみ",
+      "category": "交流与表达",
+      "group": "人物称呼与关系",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250050,
+      "goals": [
+        "anime"
+      ],
+      "usage": "comprehension",
+      "learningPriority": 4
+    },
+    {
+      "id": "w1052",
+      "writing": "お前",
+      "reading": "おまえ",
+      "meaning": "你（粗鲁或亲密语域）",
+      "pos": "代名詞",
+      "unit": 25,
+      "collocation": "お前の話",
+      "note": "常体现角色关系与强硬语气；仅用于理解，不推荐用于旅游交流。",
+      "audioText": "おまえ",
+      "category": "交流与表达",
+      "group": "人物称呼与关系",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 250051,
+      "goals": [
+        "anime"
+      ],
+      "usage": "comprehension",
+      "learningPriority": 4
+    },
+    {
+      "id": "w1053",
+      "writing": "やつ",
+      "reading": "やつ",
+      "meaning": "家伙；东西（随意说法）",
+      "pos": "名詞",
+      "unit": 25,
+      "collocation": "あいつはいいやつ",
+      "note": "说人可能不礼貌；仅用于理解角色口语。",
+      "audioText": "やつ",
+      "category": "交流与表达",
+      "group": "人物称呼与关系",
+      "difficulty": 2,
+      "frequency": "context",
+      "studyOrder": 250052,
+      "goals": [
+        "anime"
+      ],
+      "usage": "comprehension",
+      "learningPriority": 4
+    },
+    {
+      "id": "w1054",
+      "writing": "別に",
+      "reading": "べつに",
+      "meaning": "并不特别；没什么",
+      "pos": "副詞",
+      "unit": 25,
+      "collocation": "別に気にしない",
+      "note": "常与否定搭配；单独回答时可能显得冷淡。",
+      "audioText": "べつに",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250053,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1055",
+      "writing": "まさか",
+      "reading": "まさか",
+      "meaning": "难道；不会吧",
+      "pos": "副詞・感動詞",
+      "unit": 25,
+      "collocation": "まさか、そんなはずはない",
+      "note": "表达出乎意料或不相信；需要上下文。",
+      "audioText": "まさか",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250054,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1056",
+      "writing": "って",
+      "reading": "って",
+      "meaning": "口语中的引用、话题提示等",
+      "pos": "助詞",
+      "unit": 25,
+      "collocation": "行くって言った",
+      "note": "不是统一对应一个中文词；此例为引用と的口语形式。",
+      "audioText": "って",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250055,
+      "goals": [
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 2
+    },
+    {
+      "id": "w1057",
+      "writing": "じゃん",
+      "reading": "じゃん",
+      "meaning": "这不是……嘛（随意口语句尾）",
+      "pos": "終助詞的表現",
+      "unit": 25,
+      "collocation": "いいじゃん",
+      "note": "来自じゃない的口语用法；可以确认或感叹，不总是否定。",
+      "audioText": "じゃん",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250056,
+      "goals": [
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 2
+    },
+    {
+      "id": "w1058",
+      "writing": "ドキドキ",
+      "reading": "どきどき",
+      "meaning": "心怦怦跳；紧张激动",
+      "pos": "副詞・する動詞",
+      "unit": 25,
+      "collocation": "ドキドキする",
+      "note": "既可表达紧张，也可表达心动；结合情境。",
+      "audioText": "どきどき",
+      "category": "交流与表达",
+      "group": "感受与拟声表达",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250057,
+      "goals": [
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 2
+    },
+    {
+      "id": "w1059",
+      "writing": "ワクワク",
+      "reading": "わくわく",
+      "meaning": "兴奋期待",
+      "pos": "副詞・する動詞",
+      "unit": 25,
+      "collocation": "ワクワクする",
+      "note": "通常是期待好事的兴奋，与焦虑的ドキドキ区分。",
+      "audioText": "わくわく",
+      "category": "交流与表达",
+      "group": "感受与拟声表达",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250058,
+      "goals": [
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 2
+    },
+    {
+      "id": "w1060",
+      "writing": "やっぱり",
+      "reading": "やっぱり",
+      "meaning": "果然；还是",
+      "pos": "副詞",
+      "unit": 25,
+      "collocation": "やっぱりそうだ",
+      "note": "やはり的口语形式；可表示预期被证实或改变选择。",
+      "audioText": "やっぱり",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250059,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1061",
+      "writing": "どうした",
+      "reading": "どうした",
+      "meaning": "怎么了",
+      "pos": "表現",
+      "unit": 25,
+      "collocation": "どうしたの",
+      "note": "动词どうする的过去形式构成的常用问候表达块；对服务人员可说どうしましたか。",
+      "audioText": "どうした",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250060,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1062",
+      "writing": "うそ",
+      "reading": "うそ",
+      "meaning": "谎话；不会吧",
+      "pos": "名詞・感動詞",
+      "unit": 25,
+      "collocation": "うそをつく",
+      "note": "可写嘘；作反应词时表示惊讶，并不一定在指责别人撒谎。",
+      "audioText": "うそ",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 250061,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1063",
+      "writing": "本当",
+      "reading": "ほんとう",
+      "meaning": "真的；事实",
+      "pos": "名詞・な形容詞",
+      "unit": 25,
+      "collocation": "本当ですか",
+      "note": "朋友间可省略です，旅游询问可用本当ですか。",
+      "audioText": "ほんとう",
+      "category": "交流与表达",
+      "group": "反应与口语语气",
+      "difficulty": 1,
+      "frequency": "high",
+      "studyOrder": 250062,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    },
+    {
+      "id": "w1064",
+      "writing": "ほっとする",
+      "reading": "ほっとする",
+      "meaning": "松一口气；放心",
+      "pos": "動詞句",
+      "unit": 25,
+      "collocation": "ほっとした",
+      "note": "感到紧张解除；此处作为常用整体表达学习。",
+      "audioText": "ほっとする",
+      "category": "交流与表达",
+      "group": "感受与拟声表达",
+      "difficulty": 2,
+      "frequency": "medium",
+      "studyOrder": 250063,
+      "goals": [
+        "travel",
+        "anime"
+      ],
+      "usage": "neutral",
+      "learningPriority": 1
+    }
+  ],
+  "examples": [
+    {
+      "id": "ws-w1001",
+      "wordId": "w1001",
+      "text": "メニューを見せてください。",
+      "reading": "めにゅーをみせてください。",
+      "translation": "请给我看一下菜单。",
+      "unit": 24,
+      "grammarIds": [
+        "g21"
+      ],
+      "segments": [
+        {
+          "text": "メニュー",
+          "reading": "めにゅー",
+          "wordId": "w1001"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "せてください。"
+        }
+      ],
+      "wordIds": [
+        "w1001"
+      ]
+    },
+    {
+      "id": "ws-w1002",
+      "wordId": "w1002",
+      "text": "お会計をお願いします。",
+      "reading": "おかいけいをおねがいします。",
+      "translation": "麻烦结账。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "お会計",
+          "reading": "おかいけい",
+          "wordId": "w1002"
+        },
+        {
+          "text": "をお"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1002"
+      ]
+    },
+    {
+      "id": "ws-w1003",
+      "wordId": "w1003",
+      "text": "現金で払います。",
+      "reading": "げんきんではらいます。",
+      "translation": "我用现金支付。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "現金",
+          "reading": "げんきん",
+          "wordId": "w1003"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "払",
+          "reading": "はら"
+        },
+        {
+          "text": "います。"
+        }
+      ],
+      "wordIds": [
+        "w1003"
+      ]
+    },
+    {
+      "id": "ws-w1004",
+      "wordId": "w1004",
+      "text": "クレジットカードは使えますか。",
+      "reading": "くれじっとかーどわつかえますか。",
+      "translation": "可以使用信用卡吗？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "クレジットカード",
+          "reading": "くれじっとかーど",
+          "wordId": "w1004"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "使",
+          "reading": "つか"
+        },
+        {
+          "text": "えますか。"
+        }
+      ],
+      "wordIds": [
+        "w1004"
+      ]
+    },
+    {
+      "id": "ws-w1005",
+      "wordId": "w1005",
+      "text": "予約をキャンセルしたいです。",
+      "reading": "よやくをきゃんせるしたいです。",
+      "translation": "我想取消预约。",
+      "unit": 24,
+      "grammarIds": [
+        "g23"
+      ],
+      "segments": [
+        {
+          "text": "予約",
+          "reading": "よやく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "キャンセル",
+          "reading": "きゃんせる",
+          "wordId": "w1005"
+        },
+        {
+          "text": "したいです。"
+        }
+      ],
+      "wordIds": [
+        "w1005"
+      ]
+    },
+    {
+      "id": "ws-w1006",
+      "wordId": "w1006",
+      "text": "チェックインをお願いします。",
+      "reading": "ちぇっくいんをおねがいします。",
+      "translation": "麻烦办理入住。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "チェックイン",
+          "reading": "ちぇっくいん",
+          "wordId": "w1006"
+        },
+        {
+          "text": "をお"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1006"
+      ]
+    },
+    {
+      "id": "ws-w1007",
+      "wordId": "w1007",
+      "text": "チェックアウトは何時ですか。",
+      "reading": "ちぇっくあうとわなんじですか。",
+      "translation": "几点退房？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "チェックアウト",
+          "reading": "ちぇっくあうと",
+          "wordId": "w1007"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何時",
+          "reading": "なんじ"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "wordIds": [
+        "w1007"
+      ]
+    },
+    {
+      "id": "ws-w1008",
+      "wordId": "w1008",
+      "text": "予約があります。",
+      "reading": "よやくがあります。",
+      "translation": "我有预订。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "予約",
+          "reading": "よやく",
+          "wordId": "w1008"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "wordIds": [
+        "w1008"
+      ]
+    },
+    {
+      "id": "ws-w1009",
+      "wordId": "w1009",
+      "text": "店内で食べます。",
+      "reading": "てんないでたべます。",
+      "translation": "我在店里吃。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "店内",
+          "reading": "てんない",
+          "wordId": "w1009"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        },
+        {
+          "text": "べます。"
+        }
+      ],
+      "wordIds": [
+        "w1009"
+      ]
+    },
+    {
+      "id": "ws-w1010",
+      "wordId": "w1010",
+      "text": "持ち帰りでお願いします。",
+      "reading": "もちかえりでおねがいします。",
+      "translation": "麻烦打包带走。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "持ち帰り",
+          "reading": "もちかえり",
+          "wordId": "w1010"
+        },
+        {
+          "text": "でお"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1010"
+      ]
+    },
+    {
+      "id": "ws-w1011",
+      "wordId": "w1011",
+      "text": "お釣りを確認します。",
+      "reading": "おつりをかくにんします。",
+      "translation": "我确认一下找零。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "お釣り",
+          "reading": "おつり",
+          "wordId": "w1011"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "wordIds": [
+        "w1011"
+      ]
+    },
+    {
+      "id": "ws-w1012",
+      "wordId": "w1012",
+      "text": "レシートをください。",
+      "reading": "れしーとをください。",
+      "translation": "请给我小票。",
+      "unit": 24,
+      "grammarIds": [
+        "g21"
+      ],
+      "segments": [
+        {
+          "text": "レシート",
+          "reading": "れしーと",
+          "wordId": "w1012"
+        },
+        {
+          "text": "をください。"
+        }
+      ],
+      "wordIds": [
+        "w1012"
+      ]
+    },
+    {
+      "id": "ws-w1013",
+      "wordId": "w1013",
+      "text": "免税の手続きはどこですか。",
+      "reading": "めんぜいのてつづきわどこですか。",
+      "translation": "免税手续在哪里办理？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "免税",
+          "reading": "めんぜい",
+          "wordId": "w1013"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手続",
+          "reading": "てつづ"
+        },
+        {
+          "text": "きはどこですか。"
+        }
+      ],
+      "wordIds": [
+        "w1013"
+      ]
+    },
+    {
+      "id": "ws-w1014",
+      "wordId": "w1014",
+      "text": "これはいくらですか。",
+      "reading": "これわいくらですか。",
+      "translation": "这个多少钱？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "いくら",
+          "reading": "いくら",
+          "wordId": "w1014"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "wordIds": [
+        "w1014"
+      ]
+    },
+    {
+      "id": "ws-w1015",
+      "wordId": "w1015",
+      "text": "もう一度お願いします。",
+      "reading": "もういちどおねがいします。",
+      "translation": "请再说一次。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "もう一度",
+          "reading": "もういちど",
+          "wordId": "w1015"
+        },
+        {
+          "text": "お"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1015"
+      ]
+    },
+    {
+      "id": "ws-w1016",
+      "wordId": "w1016",
+      "text": "人数は二人です。",
+      "reading": "にんずうわふたりです。",
+      "translation": "人数是两个人。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "人数",
+          "reading": "にんずう",
+          "wordId": "w1016"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "二人",
+          "reading": "ふたり"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "wordIds": [
+        "w1016"
+      ]
+    },
+    {
+      "id": "ws-w1017",
+      "wordId": "w1017",
+      "text": "禁煙の部屋をお願いします。",
+      "reading": "きんえんのへやをおねがいします。",
+      "translation": "麻烦给我禁烟房。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "禁煙",
+          "reading": "きんえん",
+          "wordId": "w1017"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや"
+        },
+        {
+          "text": "をお"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1017"
+      ]
+    },
+    {
+      "id": "ws-w1018",
+      "wordId": "w1018",
+      "text": "喫煙できる場所はどこですか。",
+      "reading": "きつえんできるばしょわどこですか。",
+      "translation": "可以吸烟的地方在哪里？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "喫煙",
+          "reading": "きつえん",
+          "wordId": "w1018"
+        },
+        {
+          "text": "できる"
+        },
+        {
+          "text": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "wordIds": [
+        "w1018"
+      ]
+    },
+    {
+      "id": "ws-w1019",
+      "wordId": "w1019",
+      "text": "空席はありますか。",
+      "reading": "くうせきわありますか。",
+      "translation": "有空座位吗？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "空席",
+          "reading": "くうせき",
+          "wordId": "w1019"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "wordIds": [
+        "w1019"
+      ]
+    },
+    {
+      "id": "ws-w1020",
+      "wordId": "w1020",
+      "text": "今は満席です。",
+      "reading": "いまわまんせきです。",
+      "translation": "现在满座了。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "満席",
+          "reading": "まんせき",
+          "wordId": "w1020"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "wordIds": [
+        "w1020"
+      ]
+    },
+    {
+      "id": "ws-w1021",
+      "wordId": "w1021",
+      "text": "注文をお願いします。",
+      "reading": "ちゅうもんをおねがいします。",
+      "translation": "麻烦帮我点餐。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "注文",
+          "reading": "ちゅうもん",
+          "wordId": "w1021"
+        },
+        {
+          "text": "をお"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1021"
+      ]
+    },
+    {
+      "id": "ws-w1022",
+      "wordId": "w1022",
+      "text": "領収書をください。",
+      "reading": "りょうしゅうしょをください。",
+      "translation": "请给我收据。",
+      "unit": 24,
+      "grammarIds": [
+        "g21"
+      ],
+      "segments": [
+        {
+          "text": "領収書",
+          "reading": "りょうしゅうしょ",
+          "wordId": "w1022"
+        },
+        {
+          "text": "をください。"
+        }
+      ],
+      "wordIds": [
+        "w1022"
+      ]
+    },
+    {
+      "id": "ws-w1023",
+      "wordId": "w1023",
+      "text": "両替はできますか。",
+      "reading": "りょうがえわできますか。",
+      "translation": "可以兑换钱币吗？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "両替",
+          "reading": "りょうがえ",
+          "wordId": "w1023"
+        },
+        {
+          "text": "はできますか。"
+        }
+      ],
+      "wordIds": [
+        "w1023"
+      ]
+    },
+    {
+      "id": "ws-w1024",
+      "wordId": "w1024",
+      "text": "手数料はいくらですか。",
+      "reading": "てすうりょうわいくらですか。",
+      "translation": "手续费是多少？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "手数料",
+          "reading": "てすうりょう",
+          "wordId": "w1024"
+        },
+        {
+          "text": "はいくらですか。"
+        }
+      ],
+      "wordIds": [
+        "w1024"
+      ]
+    },
+    {
+      "id": "ws-w1025",
+      "wordId": "w1025",
+      "text": "暗証番号を入力します。",
+      "reading": "あんしょうばんごうをにゅうりょくします。",
+      "translation": "我输入密码。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "暗証番号",
+          "reading": "あんしょうばんごう",
+          "wordId": "w1025"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "入力",
+          "reading": "にゅうりょく"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "wordIds": [
+        "w1025"
+      ]
+    },
+    {
+      "id": "ws-w1026",
+      "wordId": "w1026",
+      "text": "宿泊の予約があります。",
+      "reading": "しゅくはくのよやくがあります。",
+      "translation": "我有住宿预订。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "宿泊",
+          "reading": "しゅくはく",
+          "wordId": "w1026"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "予約",
+          "reading": "よやく"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "wordIds": [
+        "w1026"
+      ]
+    },
+    {
+      "id": "ws-w1027",
+      "wordId": "w1027",
+      "text": "朝食は何時からですか。",
+      "reading": "ちょうしょくわなんじからですか。",
+      "translation": "早餐从几点开始？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "朝食",
+          "reading": "ちょうしょく",
+          "wordId": "w1027"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何時",
+          "reading": "なんじ"
+        },
+        {
+          "text": "からですか。"
+        }
+      ],
+      "wordIds": [
+        "w1027"
+      ]
+    },
+    {
+      "id": "ws-w1028",
+      "wordId": "w1028",
+      "text": "夕食はここで食べます。",
+      "reading": "ゆうしょくわここでたべます。",
+      "translation": "晚餐在这里吃。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "夕食",
+          "reading": "ゆうしょく",
+          "wordId": "w1028"
+        },
+        {
+          "text": "はここで"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        },
+        {
+          "text": "べます。"
+        }
+      ],
+      "wordIds": [
+        "w1028"
+      ]
+    },
+    {
+      "id": "ws-w1029",
+      "wordId": "w1029",
+      "text": "連泊の予約です。",
+      "reading": "れんぱくのよやくです。",
+      "translation": "我预订了连续住宿。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "連泊",
+          "reading": "れんぱく",
+          "wordId": "w1029"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "予約",
+          "reading": "よやく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "wordIds": [
+        "w1029"
+      ]
+    },
+    {
+      "id": "ws-w1030",
+      "wordId": "w1030",
+      "text": "フロントはどこですか。",
+      "reading": "ふろんとわどこですか。",
+      "translation": "前台在哪里？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "フロント",
+          "reading": "ふろんと",
+          "wordId": "w1030"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "wordIds": [
+        "w1030"
+      ]
+    },
+    {
+      "id": "ws-w1031",
+      "wordId": "w1031",
+      "text": "電車に忘れ物をしました。",
+      "reading": "でんしゃにわすれものをしました。",
+      "translation": "我把东西忘在电车上了。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "忘れ物",
+          "reading": "わすれもの",
+          "wordId": "w1031"
+        },
+        {
+          "text": "をしました。"
+        }
+      ],
+      "wordIds": [
+        "w1031"
+      ]
+    },
+    {
+      "id": "ws-w1032",
+      "wordId": "w1032",
+      "text": "救急車を呼んでください。",
+      "reading": "きゅうきゅうしゃをよんでください。",
+      "translation": "请叫救护车。",
+      "unit": 24,
+      "grammarIds": [
+        "g21"
+      ],
+      "segments": [
+        {
+          "text": "救急車",
+          "reading": "きゅうきゅうしゃ",
+          "wordId": "w1032"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "呼",
+          "reading": "よ"
+        },
+        {
+          "text": "んでください。"
+        }
+      ],
+      "wordIds": [
+        "w1032"
+      ]
+    },
+    {
+      "id": "ws-w1033",
+      "wordId": "w1033",
+      "text": "警察に相談したいです。",
+      "reading": "けいさつにそうだんしたいです。",
+      "translation": "我想向警察求助。",
+      "unit": 24,
+      "grammarIds": [
+        "g23"
+      ],
+      "segments": [
+        {
+          "text": "警察",
+          "reading": "けいさつ",
+          "wordId": "w1033"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "相談",
+          "reading": "そうだん"
+        },
+        {
+          "text": "したいです。"
+        }
+      ],
+      "wordIds": [
+        "w1033"
+      ]
+    },
+    {
+      "id": "ws-w1034",
+      "wordId": "w1034",
+      "text": "旅行の保険があります。",
+      "reading": "りょこうのほけんがあります。",
+      "translation": "我有旅行保险。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "旅行",
+          "reading": "りょこう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "保険",
+          "reading": "ほけん",
+          "wordId": "w1034"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "wordIds": [
+        "w1034"
+      ]
+    },
+    {
+      "id": "ws-w1035",
+      "wordId": "w1035",
+      "text": "往復の切符をください。",
+      "reading": "おうふくのきっぷをください。",
+      "translation": "请给我往返票。",
+      "unit": 24,
+      "grammarIds": [
+        "g21"
+      ],
+      "segments": [
+        {
+          "text": "往復",
+          "reading": "おうふく",
+          "wordId": "w1035"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "切符",
+          "reading": "きっぷ"
+        },
+        {
+          "text": "をください。"
+        }
+      ],
+      "wordIds": [
+        "w1035"
+      ]
+    },
+    {
+      "id": "ws-w1036",
+      "wordId": "w1036",
+      "text": "指定席をお願いします。",
+      "reading": "していせきをおねがいします。",
+      "translation": "麻烦给我指定席。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "指定席",
+          "reading": "していせき",
+          "wordId": "w1036"
+        },
+        {
+          "text": "をお"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1036"
+      ]
+    },
+    {
+      "id": "ws-w1037",
+      "wordId": "w1037",
+      "text": "自由席はどの車両ですか。",
+      "reading": "じゆうせきわどのしゃりょうですか。",
+      "translation": "自由席在哪节车厢？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "自由席",
+          "reading": "じゆうせき",
+          "wordId": "w1037"
+        },
+        {
+          "text": "はどの"
+        },
+        {
+          "text": "車両",
+          "reading": "しゃりょう"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "wordIds": [
+        "w1037"
+      ]
+    },
+    {
+      "id": "ws-w1038",
+      "wordId": "w1038",
+      "text": "この電車は運休です。",
+      "reading": "このでんしゃわうんきゅうです。",
+      "translation": "这班电车停运。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "運休",
+          "reading": "うんきゅう",
+          "wordId": "w1038"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "wordIds": [
+        "w1038"
+      ]
+    },
+    {
+      "id": "ws-w1039",
+      "wordId": "w1039",
+      "text": "電車に遅延があります。",
+      "reading": "でんしゃにちえんがあります。",
+      "translation": "电车有延误。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "遅延",
+          "reading": "ちえん",
+          "wordId": "w1039"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "wordIds": [
+        "w1039"
+      ]
+    },
+    {
+      "id": "ws-w1040",
+      "wordId": "w1040",
+      "text": "終電は何時ですか。",
+      "reading": "しゅうでんわなんじですか。",
+      "translation": "末班电车是几点？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "終電",
+          "reading": "しゅうでん",
+          "wordId": "w1040"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何時",
+          "reading": "なんじ"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "wordIds": [
+        "w1040"
+      ]
+    },
+    {
+      "id": "ws-w1041",
+      "wordId": "w1041",
+      "text": "始発は何時ですか。",
+      "reading": "しはつわなんじですか。",
+      "translation": "首班车是几点？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "始発",
+          "reading": "しはつ",
+          "wordId": "w1041"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何時",
+          "reading": "なんじ"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "wordIds": [
+        "w1041"
+      ]
+    },
+    {
+      "id": "ws-w1042",
+      "wordId": "w1042",
+      "text": "直通の電車はありますか。",
+      "reading": "ちょくつうのでんしゃわありますか。",
+      "translation": "有直达的电车吗？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "直通",
+          "reading": "ちょくつう",
+          "wordId": "w1042"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "wordIds": [
+        "w1042"
+      ]
+    },
+    {
+      "id": "ws-w1043",
+      "wordId": "w1043",
+      "text": "空港行きはどれですか。",
+      "reading": "くうこういきわどれですか。",
+      "translation": "开往机场的是哪一班？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "空港",
+          "reading": "くうこう"
+        },
+        {
+          "text": "行き",
+          "reading": "いき",
+          "wordId": "w1043"
+        },
+        {
+          "text": "はどれですか。"
+        }
+      ],
+      "wordIds": [
+        "w1043"
+      ]
+    },
+    {
+      "id": "ws-w1044",
+      "wordId": "w1044",
+      "text": "帰りの切符も買います。",
+      "reading": "かえりのきっぷもかいます。",
+      "translation": "我也买回程票。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "帰り",
+          "reading": "かえり",
+          "wordId": "w1044"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "切符",
+          "reading": "きっぷ"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        },
+        {
+          "text": "います。"
+        }
+      ],
+      "wordIds": [
+        "w1044"
+      ]
+    },
+    {
+      "id": "ws-w1045",
+      "wordId": "w1045",
+      "text": "空室はありますか。",
+      "reading": "くうしつわありますか。",
+      "translation": "有空房吗？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "空室",
+          "reading": "くうしつ",
+          "wordId": "w1045"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "wordIds": [
+        "w1045"
+      ]
+    },
+    {
+      "id": "ws-w1046",
+      "wordId": "w1046",
+      "text": "一泊はいくらですか。",
+      "reading": "いっぱくわいくらですか。",
+      "translation": "住一晚多少钱？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "一泊",
+          "reading": "いっぱく",
+          "wordId": "w1046"
+        },
+        {
+          "text": "はいくらですか。"
+        }
+      ],
+      "wordIds": [
+        "w1046"
+      ]
+    },
+    {
+      "id": "ws-w1047",
+      "wordId": "w1047",
+      "text": "二泊お願いします。",
+      "reading": "にはくおねがいします。",
+      "translation": "麻烦安排住两晚。",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "二泊",
+          "reading": "にはく",
+          "wordId": "w1047"
+        },
+        {
+          "text": "お"
+        },
+        {
+          "text": "願",
+          "reading": "ねが"
+        },
+        {
+          "text": "いします。"
+        }
+      ],
+      "wordIds": [
+        "w1047"
+      ]
+    },
+    {
+      "id": "ws-w1048",
+      "wordId": "w1048",
+      "text": "別々に払えますか。",
+      "reading": "べつべつにはらえますか。",
+      "translation": "可以分开付款吗？",
+      "unit": 24,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "別々",
+          "reading": "べつべつ",
+          "wordId": "w1048"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "払",
+          "reading": "はら"
+        },
+        {
+          "text": "えますか。"
+        }
+      ],
+      "wordIds": [
+        "w1048"
+      ]
+    },
+    {
+      "id": "ws-w1049",
+      "wordId": "w1049",
+      "text": "僕も行くよ。",
+      "reading": "ぼくもいくよ。",
+      "translation": "我也去哦。",
+      "unit": 25,
+      "grammarIds": [
+        "g31"
+      ],
+      "segments": [
+        {
+          "text": "僕",
+          "reading": "ぼく",
+          "wordId": "w1049"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "くよ。"
+        }
+      ],
+      "wordIds": [
+        "w1049"
+      ]
+    },
+    {
+      "id": "ws-w1050",
+      "wordId": "w1050",
+      "text": "俺がやる。",
+      "reading": "おれがやる。",
+      "translation": "我来做。",
+      "unit": 25,
+      "grammarIds": [
+        "g31"
+      ],
+      "segments": [
+        {
+          "text": "俺",
+          "reading": "おれ",
+          "wordId": "w1050"
+        },
+        {
+          "text": "がやる。"
+        }
+      ],
+      "wordIds": [
+        "w1050"
+      ]
+    },
+    {
+      "id": "ws-w1051",
+      "wordId": "w1051",
+      "text": "君も来る？",
+      "reading": "きみもくる？",
+      "translation": "你也来吗？",
+      "unit": 25,
+      "grammarIds": [
+        "g31"
+      ],
+      "segments": [
+        {
+          "text": "君",
+          "reading": "きみ",
+          "wordId": "w1051"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "来",
+          "reading": "く"
+        },
+        {
+          "text": "る？"
+        }
+      ],
+      "wordIds": [
+        "w1051"
+      ]
+    },
+    {
+      "id": "ws-w1052",
+      "wordId": "w1052",
+      "text": "お前はどう思う？",
+      "reading": "おまえわどうおもう？",
+      "translation": "你怎么想？",
+      "unit": 25,
+      "grammarIds": [
+        "g31"
+      ],
+      "segments": [
+        {
+          "text": "お前",
+          "reading": "おまえ",
+          "wordId": "w1052"
+        },
+        {
+          "text": "はどう"
+        },
+        {
+          "text": "思",
+          "reading": "おも"
+        },
+        {
+          "text": "う？"
+        }
+      ],
+      "wordIds": [
+        "w1052"
+      ]
+    },
+    {
+      "id": "ws-w1053",
+      "wordId": "w1053",
+      "text": "あいつはいいやつだ。",
+      "reading": "あいつわいいやつだ。",
+      "translation": "那家伙人不错。",
+      "unit": 25,
+      "grammarIds": [
+        "g31"
+      ],
+      "segments": [
+        {
+          "text": "あいつはいい"
+        },
+        {
+          "text": "やつ",
+          "reading": "やつ",
+          "wordId": "w1053"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "wordIds": [
+        "w1053"
+      ]
+    },
+    {
+      "id": "ws-w1054",
+      "wordId": "w1054",
+      "text": "別に気にしない。",
+      "reading": "べつにきにしない。",
+      "translation": "我并不在意。",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "別に",
+          "reading": "べつに",
+          "wordId": "w1054"
+        },
+        {
+          "text": "気",
+          "reading": "き"
+        },
+        {
+          "text": "にしない。"
+        }
+      ],
+      "wordIds": [
+        "w1054"
+      ]
+    },
+    {
+      "id": "ws-w1055",
+      "wordId": "w1055",
+      "text": "まさか、本当なの？",
+      "reading": "まさかほんとうなの？",
+      "translation": "不会吧，是真的吗？",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "まさか",
+          "reading": "まさか",
+          "wordId": "w1055"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "本当",
+          "reading": "ほんとう"
+        },
+        {
+          "text": "なの？"
+        }
+      ],
+      "wordIds": [
+        "w1055"
+      ]
+    },
+    {
+      "id": "ws-w1056",
+      "wordId": "w1056",
+      "text": "明日来るって言った。",
+      "reading": "あしたくるっていった。",
+      "translation": "他说过明天来。",
+      "unit": 25,
+      "grammarIds": [
+        "g30"
+      ],
+      "segments": [
+        {
+          "text": "明日",
+          "reading": "あした"
+        },
+        {
+          "text": "来",
+          "reading": "く"
+        },
+        {
+          "text": "る"
+        },
+        {
+          "text": "って",
+          "reading": "って",
+          "wordId": "w1056"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "wordIds": [
+        "w1056"
+      ]
+    },
+    {
+      "id": "ws-w1057",
+      "wordId": "w1057",
+      "text": "いいじゃん！",
+      "reading": "いいじゃん！",
+      "translation": "挺好的嘛！",
+      "unit": 25,
+      "grammarIds": [
+        "g31"
+      ],
+      "segments": [
+        {
+          "text": "いい"
+        },
+        {
+          "text": "じゃん",
+          "reading": "じゃん",
+          "wordId": "w1057"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "wordIds": [
+        "w1057"
+      ]
+    },
+    {
+      "id": "ws-w1058",
+      "wordId": "w1058",
+      "text": "試合の前はドキドキする。",
+      "reading": "しあいのまえわどきどきする。",
+      "translation": "比赛前我会紧张得心怦怦跳。",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "試合",
+          "reading": "しあい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "前",
+          "reading": "まえ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ドキドキ",
+          "reading": "どきどき",
+          "wordId": "w1058"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "wordIds": [
+        "w1058"
+      ]
+    },
+    {
+      "id": "ws-w1059",
+      "wordId": "w1059",
+      "text": "旅行が楽しみでワクワクする。",
+      "reading": "りょこうがたのしみでわくわくする。",
+      "translation": "我期待旅行，兴奋不已。",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "旅行",
+          "reading": "りょこう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "楽",
+          "reading": "たの"
+        },
+        {
+          "text": "しみで"
+        },
+        {
+          "text": "ワクワク",
+          "reading": "わくわく",
+          "wordId": "w1059"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "wordIds": [
+        "w1059"
+      ]
+    },
+    {
+      "id": "ws-w1060",
+      "wordId": "w1060",
+      "text": "やっぱりここにいた。",
+      "reading": "やっぱりここにいた。",
+      "translation": "果然在这里。",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "やっぱり",
+          "reading": "やっぱり",
+          "wordId": "w1060"
+        },
+        {
+          "text": "ここにいた。"
+        }
+      ],
+      "wordIds": [
+        "w1060"
+      ]
+    },
+    {
+      "id": "ws-w1061",
+      "wordId": "w1061",
+      "text": "どうしたの？",
+      "reading": "どうしたの？",
+      "translation": "怎么了？",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "どうした",
+          "reading": "どうした",
+          "wordId": "w1061"
+        },
+        {
+          "text": "の？"
+        }
+      ],
+      "wordIds": [
+        "w1061"
+      ]
+    },
+    {
+      "id": "ws-w1062",
+      "wordId": "w1062",
+      "text": "うそでしょ？",
+      "reading": "うそでしょ？",
+      "translation": "不会吧？",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "うそ",
+          "reading": "うそ",
+          "wordId": "w1062"
+        },
+        {
+          "text": "でしょ？"
+        }
+      ],
+      "wordIds": [
+        "w1062"
+      ]
+    },
+    {
+      "id": "ws-w1063",
+      "wordId": "w1063",
+      "text": "本当に大丈夫？",
+      "reading": "ほんとうにだいじょうぶ？",
+      "translation": "真的没问题吗？",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "本当",
+          "reading": "ほんとう",
+          "wordId": "w1063"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "大丈夫",
+          "reading": "だいじょうぶ"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "wordIds": [
+        "w1063"
+      ]
+    },
+    {
+      "id": "ws-w1064",
+      "wordId": "w1064",
+      "text": "無事だとほっとする。",
+      "reading": "ぶじだとほっとする。",
+      "translation": "平安无事时，我会松一口气。",
+      "unit": 25,
+      "grammarIds": [],
+      "segments": [
+        {
+          "text": "無事",
+          "reading": "ぶじ"
+        },
+        {
+          "text": "だと"
+        },
+        {
+          "text": "ほっとする",
+          "reading": "ほっとする",
+          "wordId": "w1064"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "wordIds": [
+        "w1064"
+      ]
+    }
+  ]
+}

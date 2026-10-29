@@ -1,0 +1,760 @@
+[
+  {
+    "surface": "中国人",
+    "reading": "ちゅうごくじん",
+    "meaning": "中国人",
+    "note": "国籍名称：中国＋人。这里的“人”读じん，不读ひと。"
+  },
+  {
+    "surface": "日本人",
+    "reading": "にほんじん",
+    "meaning": "日本人",
+    "note": "国籍名称：日本＋人。这里的“人”读じん。"
+  },
+  {
+    "surface": "田中",
+    "reading": "たなか",
+    "meaning": "田中（姓氏）",
+    "kind": "name"
+  },
+  {
+    "surface": "林",
+    "reading": "りん",
+    "meaning": "林（姓名）",
+    "kind": "name"
+  },
+  {
+    "surface": "十二時",
+    "reading": "じゅうにじ",
+    "meaning": "十二点"
+  },
+  {
+    "surface": "五時",
+    "reading": "ごじ",
+    "meaning": "五点"
+  },
+  {
+    "surface": "京都駅",
+    "reading": "きょうとえき",
+    "meaning": "京都站",
+    "kind": "name"
+  },
+  {
+    "surface": "京都",
+    "reading": "きょうと",
+    "meaning": "京都",
+    "kind": "name"
+  },
+  {
+    "surface": "二番",
+    "reading": "にばん",
+    "meaning": "二号／第二"
+  },
+  {
+    "surface": "千二百円",
+    "reading": "せんにひゃくえん",
+    "meaning": "一千二百日元"
+  },
+  {
+    "surface": "お召し上がり",
+    "reading": "おめしあがり",
+    "meaning": "用餐（尊敬表达）",
+    "note": "召し上がる是食べる／飲む的尊敬表达；这里是店员询问顾客的固定服务表达，游客无需用来描述自己吃饭。"
+  },
+  {
+    "surface": "お持ち帰り",
+    "reading": "おもちかえり",
+    "meaning": "外带（礼貌表达）",
+    "note": "持ち帰り指带回去；这里用于点餐时的外带选项。"
+  },
+  {
+    "surface": "お飲み物",
+    "reading": "おのみもの",
+    "meaning": "饮料（礼貌表达）",
+    "note": "飲み物前加お，是服务场景常见的礼貌说法。"
+  },
+  {
+    "surface": "になさいます",
+    "reading": "になさいます",
+    "meaning": "选择……（尊敬表达）",
+    "note": "なさる是する的尊敬表达；何になさいますか在点餐中询问顾客选择什么。"
+  },
+  {
+    "surface": "お預かりします",
+    "reading": "おあずかりします",
+    "meaning": "为您保管（谦让表达）",
+    "note": "お＋ます词干＋します用于服务方谦让地说自己的动作；与顾客请求寄存的預ける不同。"
+  },
+  {
+    "surface": "お願いします",
+    "reading": "おねがいします",
+    "meaning": "请／拜托了",
+    "note": "固定请求表达；名词＋をお願いします常表示“请给我／请办理……”。"
+  },
+  {
+    "surface": "ありがとうございます",
+    "reading": "ありがとうございます",
+    "meaning": "谢谢您",
+    "note": "礼貌的感谢表达，整体理解。"
+  },
+  {
+    "surface": "わかりました",
+    "reading": "わかりました",
+    "meaning": "明白了",
+    "note": "わかる的礼貌过去；在回应中表示已理解或收到。",
+    "grammarId": "g18",
+    "lemma": "分かる",
+    "form": "pastPolite"
+  },
+  {
+    "surface": "わかった",
+    "reading": "わかった",
+    "meaning": "知道了／明白了",
+    "note": "わかる的普通形过去；常用于熟人间的回应。",
+    "grammarId": "g26",
+    "lemma": "分かる",
+    "form": "past"
+  },
+  {
+    "surface": "やった",
+    "reading": "やった",
+    "meaning": "做了",
+    "note": "やる的た形。作业语境中的やった是“做了”，不是庆祝时的“太好了”。",
+    "grammarId": "g26",
+    "lemma": "やる",
+    "form": "past"
+  },
+  {
+    "surface": "やろう",
+    "reading": "やろう",
+    "meaning": "一起做吧",
+    "note": "やる的意向形，用于提议。",
+    "lemma": "やる",
+    "form": "volitional"
+  },
+  {
+    "surface": "やりたい",
+    "reading": "やりたい",
+    "meaning": "想做",
+    "note": "やる的ます词干＋たい，表示愿望。",
+    "grammarId": "g23",
+    "lemma": "やる",
+    "form": "desire"
+  },
+  {
+    "surface": "やる",
+    "reading": "やる",
+    "meaning": "做",
+    "note": "日常口语中表示做某事；礼貌场景通常用します等表达。",
+    "grammarId": "g25",
+    "lemma": "やる"
+  },
+  {
+    "surface": "しよう",
+    "reading": "しよう",
+    "meaning": "做……吧",
+    "note": "する的意向形，表示提议或意愿。",
+    "lemma": "する",
+    "form": "volitional"
+  },
+  {
+    "surface": "聞こえた",
+    "reading": "きこえた",
+    "meaning": "听到了",
+    "note": "聞こえる的た形，表示声音进入耳朵；与主动听取的聞く不同。",
+    "grammarId": "g26",
+    "lemma": "聞こえる",
+    "form": "past"
+  },
+  {
+    "surface": "逃げよう",
+    "reading": "にげよう",
+    "meaning": "逃走吧",
+    "note": "逃げる的意向形，表示提议。",
+    "lemma": "逃げる",
+    "form": "volitional"
+  },
+  {
+    "surface": "戦える",
+    "reading": "たたかえる",
+    "meaning": "能战斗",
+    "note": "戦う的可能形。",
+    "grammarId": "g24",
+    "lemma": "戦う",
+    "form": "potential"
+  },
+  {
+    "surface": "守る",
+    "reading": "まもる",
+    "meaning": "保护",
+    "note": "此处是保护对象，不是遵守规则。",
+    "grammarId": "g25",
+    "lemma": "守る"
+  },
+  {
+    "surface": "下がって",
+    "reading": "さがって",
+    "meaning": "退后",
+    "note": "下がる的て形；句末省略ください，是紧急提醒或指令。",
+    "grammarId": "g21",
+    "lemma": "下がる",
+    "form": "te"
+  },
+  {
+    "surface": "危ない",
+    "reading": "あぶない",
+    "meaning": "危险",
+    "note": "危险时的提醒，口语中可单独成句。"
+  },
+  {
+    "surface": "後ろ",
+    "reading": "うしろ",
+    "meaning": "后面"
+  },
+  {
+    "surface": "少し",
+    "reading": "すこし",
+    "meaning": "一点／稍微"
+  },
+  {
+    "surface": "迷惑",
+    "reading": "めいわく",
+    "meaning": "麻烦／困扰"
+  },
+  {
+    "surface": "かけた",
+    "reading": "かけた",
+    "meaning": "带来了／造成了",
+    "note": "かける的た形；迷惑をかける整体表示“给别人添麻烦”。",
+    "grammarId": "g26",
+    "lemma": "かける",
+    "form": "past"
+  },
+  {
+    "surface": "気にしなくていい",
+    "reading": "きにしなくていい",
+    "meaning": "不用在意",
+    "note": "気にする（在意）＋なくていい（不必）。不要把気单独译成“气”。"
+  },
+  {
+    "surface": "気にしない",
+    "reading": "きにしない",
+    "meaning": "不在意",
+    "note": "気にする的普通形否定，固定搭配整体理解。",
+    "grammarId": "g25"
+  },
+  {
+    "surface": "うまく",
+    "reading": "うまく",
+    "meaning": "顺利地／好好地"
+  },
+  {
+    "surface": "そんなに",
+    "reading": "そんなに",
+    "meaning": "那么（程度）"
+  },
+  {
+    "surface": "一緒に",
+    "reading": "いっしょに",
+    "meaning": "一起",
+    "note": "一緒＋に，表示共同做某事。"
+  },
+  {
+    "surface": "一人で",
+    "reading": "ひとりで",
+    "meaning": "独自／一个人",
+    "wordId": "w291",
+    "note": "这里的で表示做事的方式，不表示地点。"
+  },
+  {
+    "surface": "だけど",
+    "reading": "だけど",
+    "meaning": "不过／但是",
+    "note": "连接转折，口语中也可单独引出后文。"
+  },
+  {
+    "surface": "何か",
+    "reading": "なにか",
+    "meaning": "什么东西／某事",
+    "note": "疑问词＋か表示不确定的事物，不是整句疑问。"
+  },
+  {
+    "surface": "誰か",
+    "reading": "だれか",
+    "meaning": "某个人／有人",
+    "note": "疑问词＋か表示不确定的人。"
+  },
+  {
+    "surface": "何してる",
+    "reading": "なにしてる",
+    "meaning": "在做什么",
+    "note": "何をしている的口语形式，省略を并将ている缩为てる。",
+    "grammarId": "g32"
+  },
+  {
+    "surface": "そうです",
+    "reading": "そうです",
+    "meaning": "是的／是那样",
+    "note": "本课程这些回应中用于确认对方的说法；其他句型中的そうです也可能表示听说或样态。",
+    "grammarId": "g03"
+  },
+  {
+    "surface": "そう",
+    "reading": "そう",
+    "meaning": "那样／是那样"
+  },
+  {
+    "surface": "もう一度",
+    "reading": "もういちど",
+    "meaning": "再一次",
+    "note": "沟通补救时的固定表达。"
+  },
+  {
+    "surface": "おいしそう",
+    "reading": "おいしそう",
+    "meaning": "看起来很好吃",
+    "note": "美味しい去掉い＋そう，表示由外观判断的样态，不是“听说”。"
+  },
+  {
+    "surface": "たくさん",
+    "reading": "たくさん",
+    "meaning": "很多"
+  },
+  {
+    "surface": "何",
+    "reading": "なん",
+    "meaning": "什么",
+    "note": "本课程这里在です或引用って之前读なん；不能照搬词条的なに读法。"
+  },
+  {
+    "surface": "んだね",
+    "reading": "んだね",
+    "meaning": "原来……啊",
+    "note": "解释形式んだ＋ね，表示理解或共感。",
+    "grammarId": "g29"
+  },
+  {
+    "surface": "じゃ",
+    "reading": "じゃ",
+    "meaning": "若是／以……而言",
+    "note": "本课程一人じゃ無理だ中的じゃ是では的口语形式，表示对比条件。"
+  },
+  {
+    "surface": "あの",
+    "reading": "あの",
+    "meaning": "那个（修饰名词）",
+    "note": "指离说话双方较远或双方知道的对象，后接名词。",
+    "grammarId": "g05"
+  },
+  {
+    "surface": "その",
+    "reading": "その",
+    "meaning": "那个（修饰名词）",
+    "note": "指对方附近或前面提过的对象，后接名词。",
+    "grammarId": "g05"
+  },
+  {
+    "surface": "どの",
+    "reading": "どの",
+    "meaning": "哪个（修饰名词）",
+    "note": "询问一组对象中的哪一个，后接名词。",
+    "grammarId": "g05"
+  },
+  {
+    "surface": "ここ",
+    "reading": "ここ",
+    "meaning": "这里",
+    "grammarId": "g06"
+  },
+  {
+    "surface": "こちら",
+    "reading": "こちら",
+    "meaning": "这里／这边（礼貌说法）"
+  },
+  {
+    "surface": "いくら",
+    "reading": "いくら",
+    "meaning": "多少钱"
+  },
+  {
+    "surface": "あと",
+    "reading": "あと",
+    "meaning": "还／再（剩余量）",
+    "note": "本课程あと十分是“还要十分钟”，不是表示之后的“後”。"
+  },
+  {
+    "surface": "じゃあ",
+    "reading": "じゃあ",
+    "meaning": "那么／那就",
+    "note": "では的会话表达，用来转入接下来的行动或话题。"
+  },
+  {
+    "surface": "うん",
+    "reading": "うん",
+    "meaning": "嗯／是（随意回答）",
+    "note": "熟人间的肯定应答；礼貌场景一般用はい。"
+  },
+  {
+    "surface": "ううん",
+    "reading": "ううん",
+    "meaning": "不／不是（随意回答）",
+    "note": "熟人间的否定应答，与肯定的うん不同。"
+  },
+  {
+    "surface": "あいつ",
+    "reading": "あいつ",
+    "meaning": "那家伙／那个人",
+    "note": "随意甚至不礼貌的第三人称；旅游交流不要默认使用。"
+  },
+  {
+    "surface": "カード",
+    "reading": "かーど",
+    "meaning": "卡／银行卡",
+    "note": "本课程付款语境指银行卡；其他场合可指不同种类的卡。"
+  },
+  {
+    "surface": "物",
+    "reading": "もの",
+    "meaning": "东西"
+  },
+  {
+    "surface": "迷った",
+    "reading": "まよった",
+    "meaning": "迷路了",
+    "note": "迷う的た形；道に迷う是迷路的固定搭配。",
+    "grammarId": "g26",
+    "lemma": "迷う",
+    "form": "past"
+  },
+  {
+    "surface": "王",
+    "reading": "おう",
+    "meaning": "王（姓氏）",
+    "kind": "name"
+  },
+  {
+    "surface": "東京",
+    "reading": "とうきょう",
+    "meaning": "东京",
+    "kind": "name"
+  },
+  {
+    "surface": "次",
+    "reading": "つぎ",
+    "meaning": "下一个／接下来"
+  },
+  {
+    "surface": "角",
+    "reading": "かど",
+    "meaning": "拐角"
+  },
+  {
+    "surface": "何時",
+    "reading": "なんじ",
+    "meaning": "几点",
+    "note": "询问钟点；何在这里读なん。"
+  },
+  {
+    "surface": "時間",
+    "reading": "じかん",
+    "meaning": "时间／时长"
+  },
+  {
+    "surface": "一時間",
+    "reading": "いちじかん",
+    "meaning": "一个小时",
+    "note": "時間在这里是表示时长的单位，不是钟点。"
+  },
+  {
+    "surface": "五分",
+    "reading": "ごふん",
+    "meaning": "五分钟",
+    "wordId": "w198",
+    "note": "五＋分，表示五分钟；分在这个搭配中读ふん。"
+  },
+  {
+    "surface": "十分",
+    "reading": "じゅっぷん",
+    "meaning": "十分钟",
+    "note": "本课程あと十分的十分指时长，不是“充分／十分足够”的じゅうぶん；じっぷん也是常用读法。"
+  },
+  {
+    "surface": "八時",
+    "reading": "はちじ",
+    "meaning": "八点"
+  },
+  {
+    "surface": "読書",
+    "reading": "どくしょ",
+    "meaning": "读书／阅读"
+  },
+  {
+    "surface": "閉じて",
+    "reading": "とじて",
+    "meaning": "闭上",
+    "note": "閉じる的て形。",
+    "grammarId": "g21",
+    "lemma": "閉じる",
+    "form": "te"
+  },
+  {
+    "surface": "上げて",
+    "reading": "あげて",
+    "meaning": "抬起",
+    "note": "上げる的て形；这里指抬起手臂。",
+    "grammarId": "g21",
+    "lemma": "上げる",
+    "form": "te"
+  },
+  {
+    "surface": "曲げて",
+    "reading": "まげて",
+    "meaning": "弯曲",
+    "note": "曲げる的て形，与转弯的曲がる不同。",
+    "grammarId": "g21",
+    "lemma": "曲げる",
+    "form": "te"
+  },
+  {
+    "surface": "緑",
+    "reading": "みどり",
+    "meaning": "绿色"
+  },
+  {
+    "surface": "値段",
+    "reading": "ねだん",
+    "meaning": "价格"
+  },
+  {
+    "surface": "声",
+    "reading": "こえ",
+    "meaning": "声音／说话声"
+  },
+  {
+    "surface": "ごみ",
+    "reading": "ごみ",
+    "meaning": "垃圾"
+  },
+  {
+    "surface": "席",
+    "reading": "せき",
+    "meaning": "座位"
+  },
+  {
+    "surface": "ために",
+    "reading": "ために",
+    "meaning": "为了……",
+    "note": "本课程旅行のために表示目的，不是原因。"
+  },
+  {
+    "surface": "会議",
+    "reading": "かいぎ",
+    "meaning": "会议"
+  },
+  {
+    "surface": "メモ",
+    "reading": "めも",
+    "meaning": "笔记／备忘"
+  },
+  {
+    "surface": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "出发"
+  },
+  {
+    "surface": "音",
+    "reading": "おと",
+    "meaning": "声音／响声"
+  },
+  {
+    "surface": "サイズ",
+    "reading": "さいず",
+    "meaning": "尺寸／尺码"
+  },
+  {
+    "surface": "ことがあります",
+    "reading": "ことがあります",
+    "meaning": "有过……的经历",
+    "note": "前接动词た形，表示曾经做过某事；不是“将来可能发生”。"
+  },
+  {
+    "surface": "助かりました",
+    "reading": "たすかりました",
+    "meaning": "帮大忙了",
+    "note": "助かる的礼貌过去；在感谢语境表示对方的帮助对自己有用。",
+    "grammarId": "g18",
+    "lemma": "助かる",
+    "form": "pastPolite"
+  },
+  {
+    "surface": "気をつけて",
+    "reading": "きをつけて",
+    "meaning": "小心／注意",
+    "note": "気をつける的て形，用于提醒或送别。整体理解，不逐字译成“把气附上”。",
+    "grammarId": "g21"
+  },
+  {
+    "surface": "合格",
+    "reading": "ごうかく",
+    "meaning": "合格／通过考试"
+  },
+  {
+    "surface": "学びます",
+    "reading": "まなびます",
+    "meaning": "学习",
+    "note": "学ぶ的ます形。",
+    "grammarId": "g10",
+    "lemma": "学ぶ",
+    "form": "polite"
+  },
+  {
+    "surface": "描きます",
+    "reading": "かきます",
+    "meaning": "画／描绘",
+    "note": "描く的ます形，和写字的書く不是同一个词。",
+    "grammarId": "g10",
+    "lemma": "描く",
+    "form": "polite"
+  },
+  {
+    "surface": "弾きます",
+    "reading": "ひきます",
+    "meaning": "弹奏",
+    "note": "弾く的ます形，这里读ひく，用于钢琴、吉他等乐器。",
+    "grammarId": "g10",
+    "lemma": "弾く",
+    "form": "polite"
+  },
+  {
+    "surface": "手続き",
+    "reading": "てつづき",
+    "meaning": "手续／办理流程"
+  },
+  {
+    "surface": "場所",
+    "reading": "ばしょ",
+    "meaning": "地方／场所"
+  },
+  {
+    "surface": "車両",
+    "reading": "しゃりょう",
+    "meaning": "车厢／车辆"
+  },
+  {
+    "surface": "楽しみ",
+    "reading": "たのしみ",
+    "meaning": "期待／盼望",
+    "note": "楽しみ表示期待的事情或心情，不是单纯把楽しい拆成副词。"
+  },
+  {
+    "surface": "無事",
+    "reading": "ぶじ",
+    "meaning": "平安／没有出事"
+  },
+  {
+    "surface": "セット",
+    "reading": "せっと",
+    "meaning": "套餐／组合"
+  },
+  {
+    "surface": "支払い",
+    "reading": "しはらい",
+    "meaning": "支付／付款"
+  },
+  {
+    "surface": "方面",
+    "reading": "ほうめん",
+    "meaning": "方向"
+  },
+  {
+    "surface": "途中",
+    "reading": "とちゅう",
+    "meaning": "中途／途中"
+  },
+  {
+    "surface": "預けて",
+    "reading": "あずけて",
+    "meaning": "寄存／交给他人保管",
+    "note": "預ける的て形，寄存方把物品交给别人；与保管方使用的預かる不同。",
+    "grammarId": "g21",
+    "lemma": "預ける",
+    "form": "te"
+  },
+  {
+    "surface": "条件",
+    "reading": "じょうけん",
+    "meaning": "条件"
+  },
+  {
+    "surface": "扉",
+    "reading": "とびら",
+    "meaning": "门"
+  },
+  {
+    "surface": "について",
+    "reading": "について",
+    "meaning": "关于",
+    "kind": "grammar",
+    "note": "名词＋について提出谈论的内容；这里不是着く（到达）的て形。"
+  },
+  {
+    "surface": "あれば",
+    "reading": "あれば",
+    "meaning": "如果有",
+    "wordId": "w079",
+    "form": "conditional",
+    "note": "ある的ば条件形。時間があれば表示“如果有时间”，不能拆成指示词あれ。"
+  },
+  {
+    "surface": "よく",
+    "reading": "よく",
+    "meaning": "经常／充分地",
+    "wordId": "w175",
+    "note": "这里作副词，按搭配表示频率或程度；不一律解释为いい（好）的活用。"
+  },
+  {
+    "surface": "かみます",
+    "reading": "かみます",
+    "meaning": "擤（鼻涕）",
+    "lemma": "かむ",
+    "form": "polite",
+    "note": "鼻をかむ是擤鼻涕的固定搭配；这里不是紙（纸），也不是噛む（咬）。",
+    "grammarId": "g10"
+  },
+  {
+    "surface": "晴れます",
+    "reading": "はれます",
+    "meaning": "放晴",
+    "lemma": "晴れる",
+    "form": "polite",
+    "note": "动词晴れる的ます形；不是名词晴れ直接加ます。",
+    "grammarId": "g10"
+  },
+  {
+    "surface": "ひきました",
+    "reading": "ひきました",
+    "meaning": "患了（感冒）",
+    "lemma": "ひく",
+    "form": "pastPolite",
+    "note": "風邪をひく是“感冒”的固定搭配；这里不是弾く（弹奏）。",
+    "grammarId": "g18"
+  },
+  {
+    "surface": "測ります",
+    "reading": "はかります",
+    "meaning": "测量",
+    "lemma": "測る",
+    "form": "polite",
+    "note": "測る的ます形；体温を測る表示量体温。",
+    "grammarId": "g10"
+  },
+  {
+    "surface": "感じます",
+    "reading": "かんじます",
+    "meaning": "感到",
+    "lemma": "感じる",
+    "form": "polite",
+    "note": "感じる的ます形，ストレスを感じる表示感到压力。",
+    "grammarId": "g10"
+  }
+]

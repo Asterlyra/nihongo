@@ -1,0 +1,648 @@
+[
+  {
+    "id": "d01",
+    "title": "点餐：先问堂食还是外带",
+    "goal": "travel",
+    "intent": "听懂店员的选择题，并说明要什么。",
+    "register": "礼貌口语",
+    "grammarIds": [
+      "g21",
+      "g12",
+      "g25"
+    ],
+    "turns": [
+      {
+        "speaker": "店员",
+        "sentenceId": "ds001"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds002"
+      },
+      {
+        "speaker": "店员",
+        "sentenceId": "ds003"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds004"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "店员首先让游客选择什么？",
+        "options": [
+          "堂食或外带",
+          "现金或刷卡",
+          "热水或冷水"
+        ],
+        "answer": 0,
+        "explanation": "「こちらでお召し上がり」问在店内吃，「お持ち帰り」问外带。"
+      },
+      {
+        "prompt": "游客选择了什么饮料？",
+        "options": [
+          "咖啡",
+          "水",
+          "茶"
+        ],
+        "answer": 1,
+        "explanation": "最后一句「水をお願いします」选择水。"
+      }
+    ],
+    "note": "原创旅游对话。店员的「お召し上がり」「なさいますか」先作为听懂的服务表达；游客可以用简洁的「ここで食べます」。"
+  },
+  {
+    "id": "d02",
+    "title": "支付：听懂只能付现金",
+    "goal": "travel",
+    "intent": "询问支付方式，识别不能刷卡的回复。",
+    "register": "礼貌口语",
+    "grammarIds": [
+      "g21",
+      "g24",
+      "g01",
+      "g26"
+    ],
+    "turns": [
+      {
+        "speaker": "游客",
+        "sentenceId": "ds005"
+      },
+      {
+        "speaker": "店员",
+        "sentenceId": "ds006"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds007"
+      },
+      {
+        "speaker": "店员",
+        "sentenceId": "ds008"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "这家店接受哪种支付方式？",
+        "options": [
+          "只收现金",
+          "只收信用卡",
+          "现金和卡都可以"
+        ],
+        "answer": 0,
+        "explanation": "「現金だけ」表示只有现金，不能因为听到カード就判断能刷卡。"
+      },
+      {
+        "prompt": "需要支付多少钱？",
+        "options": [
+          "120日元",
+          "1200日元",
+          "2100日元"
+        ],
+        "answer": 1,
+        "explanation": "「せんにひゃくえん」是一千二百日元。"
+      }
+    ],
+    "note": "原创旅游对话。不能刷卡是本场景的练习信息，不是对日本所有商店的概括。"
+  },
+  {
+    "id": "d03",
+    "title": "交通：方向与换乘",
+    "goal": "travel",
+    "intent": "问目的地，听懂站台、方向和换乘条件。",
+    "register": "礼貌口语",
+    "grammarIds": [
+      "g03",
+      "g21",
+      "g26",
+      "g24"
+    ],
+    "turns": [
+      {
+        "speaker": "游客",
+        "sentenceId": "ds009"
+      },
+      {
+        "speaker": "工作人员",
+        "sentenceId": "ds010"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds011"
+      },
+      {
+        "speaker": "工作人员",
+        "sentenceId": "ds012"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "应该到哪个站台？",
+        "options": [
+          "一号",
+          "二号",
+          "三号"
+        ],
+        "answer": 1,
+        "explanation": "「二番ホーム」明确指定二号站台。"
+      },
+      {
+        "prompt": "途中是否需要换乘？",
+        "options": [
+          "需要一次",
+          "需要两次",
+          "不需要"
+        ],
+        "answer": 2,
+        "explanation": "回答「いいえ。その電車で行けます」表示不用换乘。"
+      }
+    ],
+    "note": "原创交通练习，地点和站台用于训练听辨，不是实际行程指引；出行时核实实时路线。"
+  },
+  {
+    "id": "d04",
+    "title": "住宿：预订与入住时间",
+    "goal": "travel",
+    "intent": "说明有预订，听懂暂时不能入住和寄存行李。",
+    "register": "礼貌口语",
+    "grammarIds": [
+      "g27",
+      "g01",
+      "g22"
+    ],
+    "turns": [
+      {
+        "speaker": "游客",
+        "sentenceId": "ds013"
+      },
+      {
+        "speaker": "前台",
+        "sentenceId": "ds014"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds015"
+      },
+      {
+        "speaker": "前台",
+        "sentenceId": "ds016"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "什么时候开始办理入住？",
+        "options": [
+          "一点",
+          "三点",
+          "五点"
+        ],
+        "answer": 1,
+        "explanation": "「三時から」说明开始时间，不能理解成三点之前。"
+      },
+      {
+        "prompt": "前台是否同意寄存行李？",
+        "options": [
+          "同意",
+          "不同意",
+          "要求先付款"
+        ],
+        "answer": 0,
+        "explanation": "「はい」「お預かりします」表示可以保管行李。"
+      }
+    ],
+    "note": "原创住宿对话，时间属于此情境。入住政策因住宿设施而异。「林」在这里是读りん的姓名。"
+  },
+  {
+    "id": "d05",
+    "title": "购物：免税与护照",
+    "goal": "travel",
+    "intent": "询问免税，听懂工作人员需要确认的材料。",
+    "register": "礼貌口语",
+    "grammarIds": [
+      "g24",
+      "g21",
+      "g01"
+    ],
+    "turns": [
+      {
+        "speaker": "游客",
+        "sentenceId": "ds017"
+      },
+      {
+        "speaker": "店员",
+        "sentenceId": "ds018"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds019"
+      },
+      {
+        "speaker": "店员",
+        "sentenceId": "ds020"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "店员首先要求出示什么？",
+        "options": [
+          "车票",
+          "护照",
+          "酒店房卡"
+        ],
+        "answer": 1,
+        "explanation": "「パスポートを見せてください」要求出示护照。"
+      },
+      {
+        "prompt": "最后是否已经明确批准免税？",
+        "options": [
+          "已经批准",
+          "明确拒绝",
+          "还在确认条件"
+        ],
+        "answer": 2,
+        "explanation": "「条件を確認します」只说明要核对条件，没有承诺已经符合。"
+      }
+    ],
+    "note": "原创购物对话，只练沟通，不介绍免税资格、税率或当前法规；工作人员核实条件后才能确定是否可办。"
+  },
+  {
+    "id": "d06",
+    "title": "沟通补救：请求重复并确认",
+    "goal": "travel",
+    "intent": "没听懂时请求放慢或重复，再确认关键地点。",
+    "register": "礼貌口语",
+    "grammarIds": [
+      "g21",
+      "g04",
+      "g01",
+      "g31"
+    ],
+    "turns": [
+      {
+        "speaker": "游客",
+        "sentenceId": "ds021"
+      },
+      {
+        "speaker": "工作人员",
+        "sentenceId": "ds022"
+      },
+      {
+        "speaker": "游客",
+        "sentenceId": "ds023"
+      },
+      {
+        "speaker": "工作人员",
+        "sentenceId": "ds024"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "游客请求对方怎样说？",
+        "options": [
+          "大声说三次",
+          "再慢慢说一次",
+          "换成英语"
+        ],
+        "answer": 1,
+        "explanation": "「もう一度」是再一次，「ゆっくり」是慢慢地。"
+      },
+      {
+        "prompt": "出口在哪里？",
+        "options": [
+          "楼梯左边",
+          "楼梯上面",
+          "楼梯右边"
+        ],
+        "answer": 2,
+        "explanation": "回复中明确说「階段の右」，随后复述确认。"
+      }
+    ],
+    "note": "原创旅游对话。复述地点比只说「はい」更能检查是否听对；这里的ですね用于确认。"
+  },
+  {
+    "id": "d07",
+    "title": "校园日常：作业还没做",
+    "goal": "anime",
+    "intent": "听懂「まだ」表示尚未完成，以及昨天忙的原因说明。",
+    "register": "朋友之间的普通口语",
+    "grammarIds": [
+      "g26",
+      "g31",
+      "g29",
+      "g23"
+    ],
+    "turns": [
+      {
+        "speaker": "同学甲",
+        "sentenceId": "ds025"
+      },
+      {
+        "speaker": "同学乙",
+        "sentenceId": "ds026"
+      },
+      {
+        "speaker": "同学甲",
+        "sentenceId": "ds027"
+      },
+      {
+        "speaker": "同学乙",
+        "sentenceId": "ds028"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "同学乙的作业进度怎样？",
+        "options": [
+          "全部做完了",
+          "还没做",
+          "昨天交了"
+        ],
+        "answer": 1,
+        "explanation": "「まだ」回答「もうやった？」表示还没有，不是忘记了作业。"
+      },
+      {
+        "prompt": "他想先做哪一科？",
+        "options": [
+          "日语",
+          "数学",
+          "历史"
+        ],
+        "answer": 1,
+        "explanation": "最后一句明确说「数学から」。"
+      }
+    ],
+    "note": "原创校园情境，不摘录真实作品。省略主语、やった和やろう是亲近同学的普通口语；对陌生人换成礼貌说法。 普通形的邀请表达（如やろう、行こう）可先作为表达块识别，后续还需专门练习意向形。"
+  },
+  {
+    "id": "d08",
+    "title": "朋友约定：迟到与等待",
+    "goal": "anime",
+    "intent": "从时间表达和地点信息判断会面安排。",
+    "register": "朋友之间的普通口语",
+    "grammarIds": [
+      "g26",
+      "g31",
+      "g25",
+      "g27",
+      "g32"
+    ],
+    "turns": [
+      {
+        "speaker": "朋友甲",
+        "sentenceId": "ds029"
+      },
+      {
+        "speaker": "朋友乙",
+        "sentenceId": "ds030"
+      },
+      {
+        "speaker": "朋友甲",
+        "sentenceId": "ds031"
+      },
+      {
+        "speaker": "朋友乙",
+        "sentenceId": "ds032"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "朋友乙还需要多久？",
+        "options": [
+          "大约十分钟",
+          "大约一小时",
+          "已经到了"
+        ],
+        "answer": 0,
+        "explanation": "「あと十分くらい」指还要大约十分钟。"
+      },
+      {
+        "prompt": "朋友甲在哪里等？",
+        "options": [
+          "教室里",
+          "检票口前",
+          "车站外的酒店"
+        ],
+        "answer": 1,
+        "explanation": "「改札の前で待ってる」说明等候地点。"
+      }
+    ],
+    "note": "原创朋友对话。「待ってる」是「待っている」的口语缩略，「ね」让通知听起来更亲切；不是旅游服务场景的默认语气。"
+  },
+  {
+    "id": "d09",
+    "title": "情绪安慰：失误后的回应",
+    "goal": "anime",
+    "intent": "理解情绪、过去否定和安慰的意图。",
+    "register": "亲近同伴之间的普通口语",
+    "grammarIds": [
+      "g24",
+      "g26",
+      "g25",
+      "g31"
+    ],
+    "turns": [
+      {
+        "speaker": "同伴甲",
+        "sentenceId": "ds033"
+      },
+      {
+        "speaker": "同伴乙",
+        "sentenceId": "ds034"
+      },
+      {
+        "speaker": "同伴甲",
+        "sentenceId": "ds035"
+      },
+      {
+        "speaker": "同伴乙",
+        "sentenceId": "ds036"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "同伴甲为什么难过？",
+        "options": [
+          "没发挥好并认为给大家添了麻烦",
+          "朋友没有来",
+          "找不到钱包"
+        ],
+        "answer": 0,
+        "explanation": "「うまくできなかった」「迷惑をかけた」说明自责的原因。"
+      },
+      {
+        "prompt": "同伴乙最后提出什么？",
+        "options": [
+          "放弃比赛",
+          "一起练习",
+          "独自回家"
+        ],
+        "answer": 1,
+        "explanation": "「一緒に練習しよう」邀请一起练习，表达支持。"
+      }
+    ],
+    "note": "原创通用情绪场景，可见于校园、运动或冒险故事。「よ」传达安慰和提醒，语气仍要结合关系和声调理解。 普通形的邀请表达（如やろう、行こう）可先作为表达块识别，后续还需专门练习意向形。"
+  },
+  {
+    "id": "d10",
+    "title": "行动合作：先确认门是否打开",
+    "goal": "anime",
+    "intent": "理解否定状态、行动先后与提醒。",
+    "register": "伙伴之间的普通口语",
+    "grammarIds": [
+      "g27",
+      "g32",
+      "g25",
+      "g31",
+      "g28"
+    ],
+    "turns": [
+      {
+        "speaker": "伙伴甲",
+        "sentenceId": "ds037"
+      },
+      {
+        "speaker": "伙伴乙",
+        "sentenceId": "ds038"
+      },
+      {
+        "speaker": "伙伴甲",
+        "sentenceId": "ds039"
+      },
+      {
+        "speaker": "伙伴乙",
+        "sentenceId": "ds040"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "门目前是什么状态？",
+        "options": [
+          "开着",
+          "没开",
+          "已经坏了"
+        ],
+        "answer": 1,
+        "explanation": "「開いてない」是「開いていない」的缩略，表示没开着。"
+      },
+      {
+        "prompt": "伙伴乙的提醒是什么？",
+        "options": [
+          "一个人先走",
+          "不要一个人去",
+          "不要找钥匙"
+        ],
+        "answer": 1,
+        "explanation": "「一人で行かないで」请求不要独自行动。"
+      }
+    ],
+    "note": "原创合作场景，可用于冒险或日常解谜。「行かないで」是请求对方不要做某事；此处关系是伙伴。 普通形的邀请表达（如やろう、行こう）可先作为表达块识别，后续还需专门练习意向形。"
+  },
+  {
+    "id": "d11",
+    "title": "轻微悬疑：声音来自哪里",
+    "goal": "anime",
+    "intent": "抓住感知动词、可能性和仍未确认的信息。",
+    "register": "熟人之间的普通口语",
+    "grammarIds": [
+      "g26",
+      "g31",
+      "g25"
+    ],
+    "turns": [
+      {
+        "speaker": "人物甲",
+        "sentenceId": "ds041"
+      },
+      {
+        "speaker": "人物乙",
+        "sentenceId": "ds042"
+      },
+      {
+        "speaker": "人物甲",
+        "sentenceId": "ds043"
+      },
+      {
+        "speaker": "人物乙",
+        "sentenceId": "ds044"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "声音来自哪里？",
+        "options": [
+          "隔壁房间",
+          "楼下街道",
+          "窗外的鸟"
+        ],
+        "answer": 0,
+        "explanation": "「隣の部屋から」指声音的来源。"
+      },
+      {
+        "prompt": "两人是否已经确认房间里有人？",
+        "options": [
+          "确认有熟人",
+          "确认没有人",
+          "还没确认"
+        ],
+        "answer": 2,
+        "explanation": "「誰かいる？」是在询问，随后「まだわからない」明确尚未确认。"
+      }
+    ],
+    "note": "原创轻微悬疑场景。问句表示尚未确定，不能把听到声音当作已经确认有人；不使用真实作品台词。 普通形的邀请表达（如やろう、行こう）可先作为表达块识别，后续还需专门练习意向形。"
+  },
+  {
+    "id": "d12",
+    "title": "奇幻战斗：保护同伴后撤退",
+    "goal": "anime",
+    "intent": "理解行动指示、能力否定和合作意图。",
+    "register": "紧急情境中的伙伴口语",
+    "grammarIds": [
+      "g21",
+      "g24",
+      "g25",
+      "g31"
+    ],
+    "turns": [
+      {
+        "speaker": "伙伴甲",
+        "sentenceId": "ds045"
+      },
+      {
+        "speaker": "伙伴乙",
+        "sentenceId": "ds046"
+      },
+      {
+        "speaker": "伙伴甲",
+        "sentenceId": "ds047"
+      },
+      {
+        "speaker": "伙伴乙",
+        "sentenceId": "ds048"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "伙伴乙对独自战斗怎么看？",
+        "options": [
+          "一个人没问题",
+          "一个人做不到",
+          "从来不能战斗"
+        ],
+        "answer": 1,
+        "explanation": "「まだ戦える」表示还能战斗，但「一人じゃ無理」表示无法独自应对。"
+      },
+      {
+        "prompt": "他们最后决定怎样做？",
+        "options": [
+          "先逃走",
+          "单独进攻",
+          "留下买东西"
+        ],
+        "answer": 0,
+        "explanation": "最后一句「今は逃げよう」提议现在撤离。"
+      }
+    ],
+    "note": "原创奇幻行动情境，不摘录真实作品。「君」的关系和语气依情境而变，陌生旅游对象不默认这样称呼；省略ください的急促请求用于理解紧急剧情。 普通形的邀请表达（如やろう、行こう）可先作为表达块识别，后续还需专门练习意向形。"
+  }
+]

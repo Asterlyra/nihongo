@@ -1,0 +1,1543 @@
+[
+  {
+    "id": "ds001",
+    "text": "こちらでお召し上がりですか、お持ち帰りですか。",
+    "reading": "こちらでおめしあがりですか、おもちかえりですか。",
+    "translation": "您是在店里用餐，还是外带？",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "こちらでお"
+      },
+      {
+        "text": "召",
+        "reading": "め"
+      },
+      {
+        "text": "し"
+      },
+      {
+        "text": "上",
+        "reading": "あ"
+      },
+      {
+        "text": "がりですか、お"
+      },
+      {
+        "text": "持",
+        "reading": "も"
+      },
+      {
+        "text": "ち"
+      },
+      {
+        "text": "帰",
+        "reading": "かえ"
+      },
+      {
+        "text": "りですか。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds002",
+    "text": "ここで食べます。このセットをお願いします。",
+    "reading": "ここでたべます。このセットをおねがいします。",
+    "translation": "我在这里吃。请给我这个套餐。",
+    "grammarIds": [
+      "g12",
+      "g25"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "ここで"
+      },
+      {
+        "text": "食",
+        "reading": "た"
+      },
+      {
+        "text": "べます。このセットをお"
+      },
+      {
+        "text": "願",
+        "reading": "ねが"
+      },
+      {
+        "text": "いします。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds003",
+    "text": "お飲み物は何になさいますか。",
+    "reading": "おのみものわなにになさいますか。",
+    "translation": "您要什么饮料？",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "お"
+      },
+      {
+        "text": "飲",
+        "reading": "の"
+      },
+      {
+        "text": "み"
+      },
+      {
+        "text": "物",
+        "reading": "もの"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "何",
+        "reading": "なに",
+        "wordId": "w028"
+      },
+      {
+        "text": "になさいますか。"
+      }
+    ],
+    "wordIds": [
+      "w028"
+    ]
+  },
+  {
+    "id": "ds004",
+    "text": "水をお願いします。",
+    "reading": "みずをおねがいします。",
+    "translation": "请给我水。",
+    "grammarIds": [
+      "g12",
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "水",
+        "reading": "みず",
+        "wordId": "w121"
+      },
+      {
+        "text": "をお"
+      },
+      {
+        "text": "願",
+        "reading": "ねが"
+      },
+      {
+        "text": "いします。"
+      }
+    ],
+    "wordIds": [
+      "w121"
+    ]
+  },
+  {
+    "id": "ds005",
+    "text": "お会計をお願いします。カードは使えますか。",
+    "reading": "おかいけいをおねがいします。カードわつかえますか。",
+    "translation": "请结账。可以刷卡吗？",
+    "grammarIds": [
+      "g21",
+      "g24"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "お"
+      },
+      {
+        "text": "会計",
+        "reading": "かいけい"
+      },
+      {
+        "text": "をお"
+      },
+      {
+        "text": "願",
+        "reading": "ねが"
+      },
+      {
+        "text": "いします。カードは"
+      },
+      {
+        "text": "使",
+        "reading": "つか"
+      },
+      {
+        "text": "えますか。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds006",
+    "text": "すみません。お支払いは現金だけです。",
+    "reading": "すみません。おしはらいわげんきんだけです。",
+    "translation": "抱歉，只能用现金支付。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "すみません。お"
+      },
+      {
+        "text": "支払",
+        "reading": "しはら"
+      },
+      {
+        "text": "いは"
+      },
+      {
+        "text": "現金",
+        "reading": "げんきん"
+      },
+      {
+        "text": "だけです。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds007",
+    "text": "わかりました。いくらですか。",
+    "reading": "わかりました。いくらですか。",
+    "translation": "明白了。多少钱？",
+    "grammarIds": [
+      "g26"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "わかりました。いくらですか。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds008",
+    "text": "千二百円です。",
+    "reading": "せんにひゃくえんです。",
+    "translation": "一千二百日元。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "千二百円",
+        "reading": "せんにひゃくえん"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds009",
+    "text": "すみません。京都駅へは、どう行きますか。",
+    "reading": "すみません。きょうとえきえわ、どういきますか。",
+    "translation": "请问，去京都站怎么走？",
+    "grammarIds": [
+      "g03"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "すみません。"
+      },
+      {
+        "text": "京都駅",
+        "reading": "きょうとえき"
+      },
+      {
+        "text": "へは、どう"
+      },
+      {
+        "text": "行",
+        "reading": "い"
+      },
+      {
+        "text": "きますか。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds010",
+    "text": "二番ホームから、京都方面の電車に乗ってください。",
+    "reading": "にばんほーむから、きょうとほうめんのでんしゃにのってください。",
+    "translation": "请从二号站台乘坐往京都方向的电车。",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "二番",
+        "reading": "にばん"
+      },
+      {
+        "text": "ホームから、"
+      },
+      {
+        "text": "京都",
+        "reading": "きょうと"
+      },
+      {
+        "text": "方面",
+        "reading": "ほうめん"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "電車",
+        "reading": "でんしゃ",
+        "wordId": "w220"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "乗",
+        "reading": "の"
+      },
+      {
+        "text": "ってください。"
+      }
+    ],
+    "wordIds": [
+      "w220"
+    ]
+  },
+  {
+    "id": "ds011",
+    "text": "途中で乗り換えますか。",
+    "reading": "とちゅうでのりかえますか。",
+    "translation": "中途需要换乘吗？",
+    "grammarIds": [
+      "g26"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "途中",
+        "reading": "とちゅう"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "乗",
+        "reading": "の"
+      },
+      {
+        "text": "り"
+      },
+      {
+        "text": "換",
+        "reading": "か"
+      },
+      {
+        "text": "えますか。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds012",
+    "text": "いいえ。その電車で行けます。",
+    "reading": "いいえ。そのでんしゃでいけます。",
+    "translation": "不用。坐那趟电车就能到。",
+    "grammarIds": [
+      "g24"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "いいえ。その"
+      },
+      {
+        "text": "電車",
+        "reading": "でんしゃ",
+        "wordId": "w220"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "行",
+        "reading": "い"
+      },
+      {
+        "text": "けます。"
+      }
+    ],
+    "wordIds": [
+      "w220"
+    ]
+  },
+  {
+    "id": "ds013",
+    "text": "予約しています。名前は林です。",
+    "reading": "よやくしています。なまえわりんです。",
+    "translation": "我有预订，名字是林。",
+    "grammarIds": [
+      "g27",
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "予約",
+        "reading": "よやく"
+      },
+      {
+        "text": "しています。"
+      },
+      {
+        "text": "名前",
+        "reading": "なまえ",
+        "wordId": "w003"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "林",
+        "reading": "りん"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w003"
+    ]
+  },
+  {
+    "id": "ds014",
+    "text": "チェックインは三時からです。",
+    "reading": "ちぇっくいんわさんじからです。",
+    "translation": "从三点开始办理入住。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "チェックインは"
+      },
+      {
+        "text": "三時",
+        "reading": "さんじ",
+        "wordId": "w193"
+      },
+      {
+        "text": "からです。"
+      }
+    ],
+    "wordIds": [
+      "w193"
+    ]
+  },
+  {
+    "id": "ds015",
+    "text": "荷物を預けてもいいですか。",
+    "reading": "にもつをあずけてもいいですか。",
+    "translation": "可以先寄存行李吗？",
+    "grammarIds": [
+      "g22"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "荷物",
+        "reading": "にもつ",
+        "wordId": "w957"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "預",
+        "reading": "あず"
+      },
+      {
+        "text": "けてもいいですか。"
+      }
+    ],
+    "wordIds": [
+      "w957"
+    ]
+  },
+  {
+    "id": "ds016",
+    "text": "はい。こちらでお預かりします。",
+    "reading": "はい。こちらでおあずかりします。",
+    "translation": "可以。我们在这里为您保管。",
+    "grammarIds": [
+      "g27"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "はい。こちらでお"
+      },
+      {
+        "text": "預",
+        "reading": "あず"
+      },
+      {
+        "text": "かりします。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds017",
+    "text": "すみません。免税にできますか。",
+    "reading": "すみません。めんぜいにできますか。",
+    "translation": "请问，可以办理免税吗？",
+    "grammarIds": [
+      "g24"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "すみません。"
+      },
+      {
+        "text": "免税",
+        "reading": "めんぜい"
+      },
+      {
+        "text": "にできますか。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds018",
+    "text": "パスポートを見せてください。",
+    "reading": "ぱすぽーとをみせてください。",
+    "translation": "请出示护照。",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "パスポートを"
+      },
+      {
+        "text": "見",
+        "reading": "み"
+      },
+      {
+        "text": "せてください。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds019",
+    "text": "はい。これです。",
+    "reading": "はい。これです。",
+    "translation": "好的，在这里。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "はい。これです。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds020",
+    "text": "ありがとうございます。条件を確認します。",
+    "reading": "ありがとうございます。じょうけんをかくにんします。",
+    "translation": "谢谢。我确认一下条件。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "ありがとうございます。"
+      },
+      {
+        "text": "条件",
+        "reading": "じょうけん"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "確認",
+        "reading": "かくにん"
+      },
+      {
+        "text": "します。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds021",
+    "text": "すみません。もう一度、ゆっくりお願いします。",
+    "reading": "すみません。もういちど、ゆっくりおねがいします。",
+    "translation": "不好意思，请再慢慢说一次。",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "すみません。もう"
+      },
+      {
+        "text": "一度",
+        "reading": "いちど",
+        "wordId": "w868"
+      },
+      {
+        "text": "、ゆっくりお"
+      },
+      {
+        "text": "願",
+        "reading": "ねが"
+      },
+      {
+        "text": "いします。"
+      }
+    ],
+    "wordIds": [
+      "w868"
+    ]
+  },
+  {
+    "id": "ds022",
+    "text": "出口は、あの階段の右です。",
+    "reading": "でぐちわ、あのかいだんのみぎです。",
+    "translation": "出口在那个楼梯右边。",
+    "grammarIds": [
+      "g04",
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "出口",
+        "reading": "でぐち",
+        "wordId": "w616"
+      },
+      {
+        "text": "は、あの"
+      },
+      {
+        "text": "階段",
+        "reading": "かいだん",
+        "wordId": "w419"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "右",
+        "reading": "みぎ",
+        "wordId": "w087"
+      },
+      {
+        "text": "です。"
+      }
+    ],
+    "wordIds": [
+      "w616",
+      "w419",
+      "w087"
+    ]
+  },
+  {
+    "id": "ds023",
+    "text": "階段の右ですね。",
+    "reading": "かいだんのみぎですね。",
+    "translation": "是楼梯的右边，对吗？",
+    "grammarIds": [
+      "g04",
+      "g31"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "階段",
+        "reading": "かいだん",
+        "wordId": "w419"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "右",
+        "reading": "みぎ",
+        "wordId": "w087"
+      },
+      {
+        "text": "ですね。"
+      }
+    ],
+    "wordIds": [
+      "w419",
+      "w087"
+    ]
+  },
+  {
+    "id": "ds024",
+    "text": "はい、そうです。",
+    "reading": "はい、そうです。",
+    "translation": "对，是的。",
+    "grammarIds": [
+      "g01"
+    ],
+    "unit": 24,
+    "segments": [
+      {
+        "text": "はい、そうです。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds025",
+    "text": "宿題、もうやった？",
+    "reading": "しゅくだい、もうやった？",
+    "translation": "作业已经做了吗？",
+    "grammarIds": [
+      "g26",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "宿題",
+        "reading": "しゅくだい",
+        "wordId": "w267"
+      },
+      {
+        "text": "、もうやった？"
+      }
+    ],
+    "wordIds": [
+      "w267"
+    ]
+  },
+  {
+    "id": "ds026",
+    "text": "まだ。昨日は忙しかったんだ。",
+    "reading": "まだ。きのうわいそがしかったんだ。",
+    "translation": "还没有。昨天太忙了。",
+    "grammarIds": [
+      "g26",
+      "g29"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "まだ。"
+      },
+      {
+        "text": "昨日",
+        "reading": "きのう",
+        "wordId": "w184"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "忙",
+        "reading": "いそが"
+      },
+      {
+        "text": "しかったんだ。"
+      }
+    ],
+    "wordIds": [
+      "w184"
+    ]
+  },
+  {
+    "id": "ds027",
+    "text": "じゃあ、一緒にやろう。",
+    "reading": "じゃあ、いっしょにやろう。",
+    "translation": "那我们一起做吧。",
+    "grammarIds": [
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "じゃあ、"
+      },
+      {
+        "text": "一緒",
+        "reading": "いっしょ"
+      },
+      {
+        "text": "にやろう。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds028",
+    "text": "ありがとう。先に数学からやりたい。",
+    "reading": "ありがとう。さきにすうがくからやりたい。",
+    "translation": "谢谢。我想先从数学开始。",
+    "grammarIds": [
+      "g23"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "ありがとう。"
+      },
+      {
+        "text": "先",
+        "reading": "さき"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "数学",
+        "reading": "すうがく",
+        "wordId": "w947"
+      },
+      {
+        "text": "からやりたい。"
+      }
+    ],
+    "wordIds": [
+      "w947"
+    ]
+  },
+  {
+    "id": "ds029",
+    "text": "今どこ？駅に着いた？",
+    "reading": "いまどこ？えきについた？",
+    "translation": "你现在在哪里？到车站了吗？",
+    "grammarIds": [
+      "g26",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "今",
+        "reading": "いま",
+        "wordId": "w181"
+      },
+      {
+        "text": "どこ？"
+      },
+      {
+        "text": "駅",
+        "reading": "えき",
+        "wordId": "w069"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "着",
+        "reading": "つ"
+      },
+      {
+        "text": "いた？"
+      }
+    ],
+    "wordIds": [
+      "w181",
+      "w069"
+    ]
+  },
+  {
+    "id": "ds030",
+    "text": "まだ。あと十分くらいかかる。",
+    "reading": "まだ。あとじゅっぷんくらいかかる。",
+    "translation": "还没。大概还要十分钟。",
+    "grammarIds": [
+      "g25",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "まだ。あと"
+      },
+      {
+        "text": "十分",
+        "reading": "じゅっぷん"
+      },
+      {
+        "text": "くらいかかる。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds031",
+    "text": "わかった。改札の前で待ってる。",
+    "reading": "わかった。かいさつのまえでまってる。",
+    "translation": "知道了。我在检票口前等你。",
+    "grammarIds": [
+      "g27",
+      "g32"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "わかった。"
+      },
+      {
+        "text": "改札",
+        "reading": "かいさつ",
+        "wordId": "w642"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "前",
+        "reading": "まえ",
+        "wordId": "w083"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "待",
+        "reading": "ま"
+      },
+      {
+        "text": "ってる。"
+      }
+    ],
+    "wordIds": [
+      "w642",
+      "w083"
+    ]
+  },
+  {
+    "id": "ds032",
+    "text": "ごめん。あと十分で着くよ。連絡するね。",
+    "reading": "ごめん。あとじゅっぷんでつくよ。れんらくするね。",
+    "translation": "抱歉。我再过十分钟就到了。我会联系你。",
+    "grammarIds": [
+      "g25",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "ごめん。あと"
+      },
+      {
+        "text": "十分",
+        "reading": "じゅっぷん"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "着",
+        "reading": "つ"
+      },
+      {
+        "text": "くよ。"
+      },
+      {
+        "text": "連絡",
+        "reading": "れんらく",
+        "wordId": "w346"
+      },
+      {
+        "text": "するね。"
+      }
+    ],
+    "wordIds": [
+      "w346"
+    ]
+  },
+  {
+    "id": "ds033",
+    "text": "試合でうまくできなかった。",
+    "reading": "しあいでうまくできなかった。",
+    "translation": "比赛时我没发挥好。",
+    "grammarIds": [
+      "g24",
+      "g26"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "試合",
+        "reading": "しあい",
+        "wordId": "w984"
+      },
+      {
+        "text": "でうまくできなかった。"
+      }
+    ],
+    "wordIds": [
+      "w984"
+    ]
+  },
+  {
+    "id": "ds034",
+    "text": "そんなに気にしなくていいよ。",
+    "reading": "そんなにきにしなくていいよ。",
+    "translation": "不用那么在意啦。",
+    "grammarIds": [
+      "g25",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "そんなに"
+      },
+      {
+        "text": "気",
+        "reading": "き"
+      },
+      {
+        "text": "にしなくていいよ。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds035",
+    "text": "でも、みんなに迷惑をかけた。",
+    "reading": "でも、みんなにめいわくをかけた。",
+    "translation": "可是，我给大家添麻烦了。",
+    "grammarIds": [
+      "g26"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "でも、みんなに"
+      },
+      {
+        "text": "迷惑",
+        "reading": "めいわく"
+      },
+      {
+        "text": "をかけた。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds036",
+    "text": "次は一緒に練習しよう。",
+    "reading": "つぎわいっしょにれんしゅうしよう。",
+    "translation": "下次一起练习吧。",
+    "grammarIds": [
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "次",
+        "reading": "つぎ"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "一緒",
+        "reading": "いっしょ"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "練習",
+        "reading": "れんしゅう",
+        "wordId": "w164"
+      },
+      {
+        "text": "しよう。"
+      }
+    ],
+    "wordIds": [
+      "w164"
+    ]
+  },
+  {
+    "id": "ds037",
+    "text": "この扉、開いてる？",
+    "reading": "このとびら、あいてる？",
+    "translation": "这扇门开着吗？",
+    "grammarIds": [
+      "g27",
+      "g32"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "この",
+        "wordId": "w060"
+      },
+      {
+        "text": "扉",
+        "reading": "とびら"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "開",
+        "reading": "あ"
+      },
+      {
+        "text": "いてる？"
+      }
+    ],
+    "wordIds": [
+      "w060"
+    ]
+  },
+  {
+    "id": "ds038",
+    "text": "ううん、開いてない。鍵が必要だ。",
+    "reading": "ううん、あいてない。かぎがひつようだ。",
+    "translation": "没有，没开。需要钥匙。",
+    "grammarIds": [
+      "g25",
+      "g27",
+      "g32"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "ううん、"
+      },
+      {
+        "text": "開",
+        "reading": "あ"
+      },
+      {
+        "text": "いてない。"
+      },
+      {
+        "text": "鍵",
+        "reading": "かぎ",
+        "wordId": "w048"
+      },
+      {
+        "text": "が"
+      },
+      {
+        "text": "必要",
+        "reading": "ひつよう",
+        "wordId": "w829"
+      },
+      {
+        "text": "だ。"
+      }
+    ],
+    "wordIds": [
+      "w048",
+      "w829"
+    ]
+  },
+  {
+    "id": "ds039",
+    "text": "じゃあ、先に鍵を探そう。",
+    "reading": "じゃあ、さきにかぎをさがそう。",
+    "translation": "那先找钥匙吧。",
+    "grammarIds": [
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "じゃあ、"
+      },
+      {
+        "text": "先",
+        "reading": "さき"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "鍵",
+        "reading": "かぎ",
+        "wordId": "w048"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "探",
+        "reading": "さが"
+      },
+      {
+        "text": "そう。"
+      }
+    ],
+    "wordIds": [
+      "w048"
+    ]
+  },
+  {
+    "id": "ds040",
+    "text": "うん。でも、一人で行かないで。",
+    "reading": "うん。でも、ひとりでいかないで。",
+    "translation": "好。不过别一个人去。",
+    "grammarIds": [
+      "g25",
+      "g28"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "うん。でも、"
+      },
+      {
+        "text": "一人",
+        "reading": "ひとり",
+        "wordId": "w291"
+      },
+      {
+        "text": "で"
+      },
+      {
+        "text": "行",
+        "reading": "い"
+      },
+      {
+        "text": "かないで。"
+      }
+    ],
+    "wordIds": [
+      "w291"
+    ]
+  },
+  {
+    "id": "ds041",
+    "text": "今、何か聞こえた？",
+    "reading": "いま、なにかきこえた？",
+    "translation": "刚才，你听到什么了吗？",
+    "grammarIds": [
+      "g26",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "今",
+        "reading": "いま",
+        "wordId": "w181"
+      },
+      {
+        "text": "、"
+      },
+      {
+        "text": "何",
+        "reading": "なに",
+        "wordId": "w028"
+      },
+      {
+        "text": "か"
+      },
+      {
+        "text": "聞",
+        "reading": "き"
+      },
+      {
+        "text": "こえた？"
+      }
+    ],
+    "wordIds": [
+      "w181",
+      "w028"
+    ]
+  },
+  {
+    "id": "ds042",
+    "text": "うん。隣の部屋から音がした。",
+    "reading": "うん。となりのへやからおとがした。",
+    "translation": "嗯，隔壁房间传来了声音。",
+    "grammarIds": [
+      "g26"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "うん。"
+      },
+      {
+        "text": "隣",
+        "reading": "となり",
+        "wordId": "w086"
+      },
+      {
+        "text": "の"
+      },
+      {
+        "text": "部屋",
+        "reading": "へや",
+        "wordId": "w066"
+      },
+      {
+        "text": "から"
+      },
+      {
+        "text": "音",
+        "reading": "おと"
+      },
+      {
+        "text": "がした。"
+      }
+    ],
+    "wordIds": [
+      "w086",
+      "w066"
+    ]
+  },
+  {
+    "id": "ds043",
+    "text": "誰かいる？",
+    "reading": "だれかいる？",
+    "translation": "有人在那里吗？",
+    "grammarIds": [
+      "g25",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "誰",
+        "reading": "だれ",
+        "wordId": "w027"
+      },
+      {
+        "text": "かいる？"
+      }
+    ],
+    "wordIds": [
+      "w027"
+    ]
+  },
+  {
+    "id": "ds044",
+    "text": "まだわからない。ここで少し待とう。",
+    "reading": "まだわからない。ここですこしまとう。",
+    "translation": "还不知道。在这里稍等一下吧。",
+    "grammarIds": [
+      "g25",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "まだわからない。ここで"
+      },
+      {
+        "text": "少",
+        "reading": "すこ"
+      },
+      {
+        "text": "し"
+      },
+      {
+        "text": "待",
+        "reading": "ま"
+      },
+      {
+        "text": "とう。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds045",
+    "text": "危ない！後ろに下がって！",
+    "reading": "あぶない！うしろにさがって！",
+    "translation": "危险！往后退！",
+    "grammarIds": [
+      "g21"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "危",
+        "reading": "あぶ"
+      },
+      {
+        "text": "ない！"
+      },
+      {
+        "text": "後",
+        "reading": "うし"
+      },
+      {
+        "text": "ろに"
+      },
+      {
+        "text": "下",
+        "reading": "さ"
+      },
+      {
+        "text": "がって！"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds046",
+    "text": "まだ戦える。でも、一人じゃ無理だ。",
+    "reading": "まだたたかえる。でも、ひとりじゃむりだ。",
+    "translation": "我还能战斗。但一个人做不到。",
+    "grammarIds": [
+      "g24",
+      "g25"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "まだ",
+        "wordId": "w299"
+      },
+      {
+        "text": "戦",
+        "reading": "たたか"
+      },
+      {
+        "text": "える。でも、"
+      },
+      {
+        "text": "一人",
+        "reading": "ひとり",
+        "wordId": "w291"
+      },
+      {
+        "text": "じゃ"
+      },
+      {
+        "text": "無理",
+        "reading": "むり",
+        "wordId": "w836"
+      },
+      {
+        "text": "だ。"
+      }
+    ],
+    "wordIds": [
+      "w299",
+      "w291",
+      "w836"
+    ]
+  },
+  {
+    "id": "ds047",
+    "text": "一緒に行こう。君を守る。",
+    "reading": "いっしょにいこう。きみをまもる。",
+    "translation": "一起走吧。我会保护你。",
+    "grammarIds": [
+      "g25",
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "一緒",
+        "reading": "いっしょ"
+      },
+      {
+        "text": "に"
+      },
+      {
+        "text": "行",
+        "reading": "い"
+      },
+      {
+        "text": "こう。"
+      },
+      {
+        "text": "君",
+        "reading": "きみ"
+      },
+      {
+        "text": "を"
+      },
+      {
+        "text": "守",
+        "reading": "まも"
+      },
+      {
+        "text": "る。"
+      }
+    ],
+    "wordIds": []
+  },
+  {
+    "id": "ds048",
+    "text": "ありがとう。今は逃げよう。",
+    "reading": "ありがとう。いまわにげよう。",
+    "translation": "谢谢。现在先逃走吧。",
+    "grammarIds": [
+      "g31"
+    ],
+    "unit": 25,
+    "segments": [
+      {
+        "text": "ありがとう。"
+      },
+      {
+        "text": "今",
+        "reading": "いま",
+        "wordId": "w181"
+      },
+      {
+        "text": "は"
+      },
+      {
+        "text": "逃",
+        "reading": "に"
+      },
+      {
+        "text": "げよう。"
+      }
+    ],
+    "wordIds": [
+      "w181"
+    ]
+  }
+]

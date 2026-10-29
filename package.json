@@ -1,0 +1,45 @@
+{
+  "name": "nihongo-kobumi",
+  "private": true,
+  "version": "1.5.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "build": "npm run check:content && tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5173 --strictPort",
+    "test": "vitest run",
+    "check:content": "node scripts/check-content.mjs",
+    "prepare:content": "node scripts/prepare-content.mjs && node scripts/build-sentence-analysis.mjs",
+    "generate:audio": "python3 scripts/generate_audio.py",
+    "check:audio": "python3 scripts/verify_audio.py",
+    "prepare:analysis": "node scripts/build-sentence-analysis.mjs",
+    "android:sync": "npm run build && cap sync android",
+    "android:build": "npm run android:sync && cd android && ./gradlew assembleDebug",
+    "android:open": "cap open android",
+    "build:no-audio": "node scripts/check-content.mjs --no-audio && tsc -b && vite build"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/app": "8.1.0",
+    "@capacitor/core": "8.5.3",
+    "dexie": "4.4.6",
+    "dexie-react-hooks": "4.4.0",
+    "lucide-react": "1.55.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-router-dom": "7.18.4",
+    "ts-fsrs": "5.4.2",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3",
+    "@types/node": "26.6.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "fake-indexeddb": "6.2.5",
+    "typescript": "7.0.2",
+    "vite": "8.3.4",
+    "vitest": "5.0.3"
+  }
+}

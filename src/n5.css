@@ -1,0 +1,17 @@
+.course-n5{--course-color:#8d4c27;--course-bg:#f0e2d3}
+.n5-plan h2{font-size:21px}.n5-plan h3{font-size:18px;margin:0 0 8px}
+.n5-phase{margin:30px 0}.n5-phase>.lesson-list{margin-top:16px}.n5-phase .lesson-item{align-items:flex-start;padding:22px;gap:18px}
+.n5-phase .lesson-item p{margin:7px 0 12px;line-height:1.8}.n5-summary p{line-height:1.9}.n5-summary .primary{display:inline-flex;align-items:center;gap:8px;margin:8px 0}
+.n5-how>summary,.n5-consolidation summary{font-weight:650;cursor:pointer;line-height:1.7}.n5-how li,.n5-consolidation li,.n5-checkpoint li{line-height:1.9;margin:9px 0}
+.n5-consolidation details{border-top:1px solid var(--border);padding:14px 0}.n5-consolidation>.arrow-link{margin-top:15px}
+.n5-resources h3{margin:24px 0 12px}.n5-resources p{line-height:1.9}.n5-resource-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.n5-resource-links a{display:flex;align-items:center;gap:10px;border:1.5px solid #c8bdaf;border-radius:10px;padding:13px;color:#785232;background:#faf6ed;line-height:1.7}.n5-resource-links a svg:last-child{margin-left:auto;flex:none}
+.n5-listening-text{border-left:3px solid #b7784e;padding:10px 18px;margin:20px 0;background:#f4eee4}.n5-listening-text p{font-size:18px;line-height:2.1}.n5-listening h3{margin:22px 0 14px}.n5-listening .option-row{flex-wrap:wrap}
+.foundation-n5 .panel>p{line-height:1.95}.foundation-n5 .reading-question>h2{padding-top:18px;border-top:2px solid var(--border)}
+@media(max-width:700px){.n5-plan h2{font-size:19px}.n5-plan h3{font-size:16px}.n5-phase .lesson-item{padding:18px 14px;gap:11px}.n5-phase .lesson-number{font-size:20px}.n5-resource-links{grid-template-columns:minmax(0,1fr)}.n5-resources .button-row{align-items:stretch}.n5-resources .button-row>*{max-width:100%;white-space:normal}.n5-listening-text{padding:9px 12px}}
+
+.n5-study-tag{font-size:11px;font-weight:500;color:#786c5c;margin-left:10px;white-space:nowrap}
+
+.n5-related{margin-top:18px;border-top:1px solid var(--border);padding-top:15px}.n5-related>summary{font-weight:600;cursor:pointer}
+
+.n5-plan details>summary,.n5-related>summary{display:flex;justify-content:space-between;align-items:center;gap:12px;list-style:none}.n5-plan details>summary::-webkit-details-marker,.n5-related>summary::-webkit-details-marker{display:none}.n5-plan details>summary::marker,.n5-related>summary::marker{content:''}.n5-plan details>summary svg,.n5-related>summary svg{flex:none;stroke-width:2.5}.n5-plan details[open]>summary svg,.n5-related[open]>summary svg{transform:rotate(180deg)}.n5-plan summary:focus-visible,.n5-related>summary:focus-visible{outline:3px solid #b46a3d;outline-offset:4px;border-radius:4px}
